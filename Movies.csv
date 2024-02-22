@@ -1,0 +1,848 @@
+index,Title,Release Date,Description,URL,Runtime (mins),Genres,Directors,Movie Series,Order
+0,101 Dalmatians,18-11-1996,,https://www.imdb.com/title/tt0115433/,103.0,"Adventure, Comedy, Crime, Family",Stephen Herek,101 Dalmatians,1
+1,102 Dalmatians,22-11-2000,,https://www.imdb.com/title/tt0211181/,100.0,"Adventure, Comedy, Family",Kevin Lima,101 Dalmatians,2
+2,12 Rounds,19-03-2009,,https://www.imdb.com/title/tt1160368/,108.0,"Action, Crime, Thriller",Renny Harlin,12 Rounds,1
+3,12 Rounds 2: Reloaded,04-06-2013,,https://www.imdb.com/title/tt2317524/,95.0,"Action, Adventure, Thriller",Roel Reiné,12 Rounds,2
+4,21 Jump Street,12-03-2012,,https://www.imdb.com/title/tt1232829/,109.0,"Action, Comedy, Crime","Christopher Miller, Phil Lord",21 Jump Street,1
+5,22 Jump Street,04-06-2014,,https://www.imdb.com/title/tt2294449/,112.0,"Action, Comedy, Crime","Christopher Miller, Phil Lord",21 Jump Street,2
+6,28 Days Later...,01-11-2002,,https://www.imdb.com/title/tt0289043/,113.0,"Drama, Horror, Sci-Fi, Thriller",Danny Boyle,28 Days Later...,1
+7,28 Weeks Later,26-04-2007,,https://www.imdb.com/title/tt0463854/,100.0,"Horror, Sci-Fi",Juan Carlos Fresnadillo,28 Days Later...,2
+8,30 Days of Night,16-10-2007,,https://www.imdb.com/title/tt0389722/,113.0,"Action, Horror, Thriller",David Slade,30 Days of Night,1
+9,48 Hrs.,08-12-1982,,https://www.imdb.com/title/tt0083511/,96.0,"Action, Comedy, Crime, Drama, Thriller",Walter Hill,48 Hrs.,1
+10,Another 48 Hrs.,08-06-1990,,https://www.imdb.com/title/tt0099044/,93.0,"Action, Comedy, Crime, Drama, Mystery, Thriller",Walter Hill,48 Hrs.,2
+11,8MM,19-02-1999,,https://www.imdb.com/title/tt0134273/,123.0,"Mystery, Thriller",Joel Schumacher,8MM,1
+12,A Dog's Purpose,19-01-2017,,https://www.imdb.com/title/tt1753383/,100.0,"Adventure, Comedy, Drama, Family, Fantasy",Lasse Hallström,A Dog's Purpose,1
+13,A Dog's Journey,03-05-2019,,https://www.imdb.com/title/tt8385474/,109.0,"Adventure, Comedy, Drama, Family, Fantasy",Gail Mancuso,A Dog's Purpose,2
+14,A Good Day to Die Hard,06-02-2013,,https://www.imdb.com/title/tt1606378/,98.0,"Action, Thriller",John Moore,A Good Day to Die Hard,1
+15,A Haunted House,11-01-2013,,https://www.imdb.com/title/tt2243537/,86.0,"Comedy, Fantasy",Michael Tiddes,A Haunted House,1
+16,A Haunted House 2,18-04-2014,,https://www.imdb.com/title/tt2828996/,86.0,"Comedy, Fantasy",Michael Tiddes,A Haunted House,2
+17,A Nightmare on Elm Street,31-10-1984,,https://www.imdb.com/title/tt0087800/,91.0,Horror,Wes Craven,A Nightmare on Elm Street,1
+18,A Nightmare on Elm Street Part 2: Freddy's Revenge,31-10-1985,,https://www.imdb.com/title/tt0089686/,87.0,Horror,Jack Sholder,A Nightmare on Elm Street,2
+19,A Nightmare on Elm Street 3: Dream Warriors,27-02-1987,,https://www.imdb.com/title/tt0093629/,96.0,"Fantasy, Horror",Chuck Russell,A Nightmare on Elm Street,3
+20,A Nightmare on Elm Street 4: The Dream Master,19-08-1988,,https://www.imdb.com/title/tt0095742/,93.0,Horror,Renny Harlin,A Nightmare on Elm Street,4
+21,A Nightmare on Elm Street: The Dream Child,11-08-1989,,https://www.imdb.com/title/tt0097981/,89.0,"Fantasy, Horror",Stephen Hopkins,A Nightmare on Elm Street,5
+22,A Nightmare on Elm Street,27-04-2010,,https://www.imdb.com/title/tt1179056/,95.0,"Crime, Drama, Horror, Mystery",Samuel Bayer,A Nightmare on Elm Street,6
+23,AVP: Alien vs. Predator,12-08-2004,,https://www.imdb.com/title/tt0370263/,101.0,"Action, Adventure, Horror, Sci-Fi, Thriller",Paul W.S. Anderson,AVP,1
+24,AVPR: Aliens vs Predator - Requiem,25-12-2007,,https://www.imdb.com/title/tt0758730/,94.0,"Action, Horror, Sci-Fi, Thriller","Greg Strause, Colin Strause",AVP,2
+25,Ace Ventura: Pet Detective,04-02-1994,,https://www.imdb.com/title/tt0109040/,86.0,Comedy,Tom Shadyac,Ace Ventura,1
+26,Ace Ventura: When Nature Calls,08-11-1995,,https://www.imdb.com/title/tt0112281/,90.0,"Adventure, Comedy, Crime",Steve Oedekerk,Ace Ventura,2
+27,Addams Family Values,19-11-1993,,https://www.imdb.com/title/tt0106220/,94.0,"Comedy, Fantasy",Barry Sonnenfeld,Addams Family alues,1
+28,Agent Cody Banks,14-03-2003,,https://www.imdb.com/title/tt0313911/,102.0,"Action, Adventure, Comedy, Crime, Family, Romance, Thriller",Harald Zwart,Agent Cody Banks,1
+29,Agent Cody Banks 2: Destination London,12-03-2004,,https://www.imdb.com/title/tt0358349/,100.0,"Action, Adventure, Comedy, Family, Romance, Sci-Fi",Kevin Allen,Agent Cody Banks,2
+30,Alice in Wonderland,25-02-2010,,https://www.imdb.com/title/tt1014759/,108.0,"Adventure, Family, Fantasy",Tim Burton,Alice in Wonderland,1
+31,Alice Through the Looking Glass,10-05-2016,,https://www.imdb.com/title/tt2567026/,113.0,"Adventure, Family, Fantasy",James Bobin,Alice in Wonderland,2
+32,Alien,25-05-1979,,https://www.imdb.com/title/tt0078748/,117.0,"Horror, Sci-Fi",Ridley Scott,Alien,1
+33,Aliens,14-07-1986,,https://www.imdb.com/title/tt0090605/,137.0,"Action, Adventure, Sci-Fi, Thriller",James Cameron,Alien,2
+34,Alien³,19-05-1992,,https://www.imdb.com/title/tt0103644/,114.0,"Action, Horror, Sci-Fi",David Fincher,Alien,3
+35,Alien: Resurrection,06-11-1997,,https://www.imdb.com/title/tt0118583/,109.0,"Action, Horror, Sci-Fi",Jean-Pierre Jeunet,Alien,4
+36,Alien: Covenant,04-05-2017,,https://www.imdb.com/title/tt2316204/,122.0,"Horror, Sci-Fi, Thriller",Ridley Scott,Alien,5
+37,Alone in the Dark,28-01-2005,,https://www.imdb.com/title/tt0369226/,96.0,"Action, Horror, Sci-Fi",Uwe Boll,Alone in the Dark,1
+38,Alvin and the Chipmunks,13-12-2007,,https://www.imdb.com/title/tt0952640/,92.0,"Animation, Comedy, Family, Fantasy, Music",Tim Hill,Alvin and the Chipmunks,1
+39,Alvin and the Chipmunks: The Squeakquel,11-12-2009,,https://www.imdb.com/title/tt1231580/,88.0,"Animation, Comedy, Family, Fantasy, Music",Betty Thomas,Alvin and the Chipmunks,2
+40,Alvin and the Chipmunks: Chipwrecked,14-12-2011,,https://www.imdb.com/title/tt1615918/,87.0,"Animation, Adventure, Comedy, Family, Music",Mike Mitchell,Alvin and the Chipmunks,3
+41,American Pie,07-07-1999,,https://www.imdb.com/title/tt0163651/,95.0,Comedy,"Paul Weitz, Chris Weitz",American Pie,1
+42,American Pie 2,06-08-2001,,https://www.imdb.com/title/tt0252866/,108.0,Comedy,J.B. Rogers,American Pie,2
+43,American Psycho,21-01-2000,,https://www.imdb.com/title/tt0144084/,101.0,"Comedy, Crime, Drama",Mary Harron,American Psycho,1
+44,American Wedding,24-07-2003,,https://www.imdb.com/title/tt0328828/,96.0,Comedy,Jesse Dylan,American Wedding,1
+45,Anaconda,11-04-1997,,https://www.imdb.com/title/tt0118615/,89.0,"Action, Adventure, Horror, Thriller",Luis Llosa,Anaconda,1
+46,Anacondas: The Hunt for the Blood Orchid,25-08-2004,,https://www.imdb.com/title/tt0366174/,97.0,"Action, Adventure, Horror, Thriller",Dwight H. Little,Anaconda,2
+47,Analyze This,05-03-1999,,https://www.imdb.com/title/tt0122933/,103.0,"Comedy, Crime",Harold Ramis,Analyze This,1
+48,Analyze That,06-12-2002,,https://www.imdb.com/title/tt0289848/,96.0,"Comedy, Crime",Harold Ramis,Analyze This,2
+49,Anchorman: The Legend of Ron Burgundy,28-06-2004,,https://www.imdb.com/title/tt0357413/,94.0,Comedy,Adam McKay,Anchorman,1
+50,Anchorman 2: The Legend Continues,24-11-2013,,https://www.imdb.com/title/tt1229340/,119.0,Comedy,Adam McKay,Anchorman,2
+51,Angry Birds,01-05-2016,,https://www.imdb.com/title/tt1985949/,97.0,"Animation, Action, Adventure, Comedy, Family","Fergal Reilly, Clay Kaytis",Angry Birds,1
+52,The Angry Birds Movie 2,02-08-2019,,https://www.imdb.com/title/tt6095472/,97.0,"Animation, Adventure, Comedy, Family","John Rice, Thurop Van Orman",Angry Birds,2
+53,Annabelle,29-09-2014,,https://www.imdb.com/title/tt3322940/,99.0,"Horror, Mystery, Thriller",John R. Leonetti,Annabelle,1
+54,Annabelle: Creation,19-06-2017,,https://www.imdb.com/title/tt5140878/,109.0,"Horror, Mystery, Thriller",David F. Sandberg,Annabelle,2
+55,Annabelle Comes Home,17-06-2019,,https://www.imdb.com/title/tt8350360/,106.0,"Horror, Mystery, Thriller",Gary Dauberman,Annabelle,3
+56,Army of Darkness,09-10-1992,,https://www.imdb.com/title/tt0106308/,81.0,"Comedy, Horror",Sam Raimi,Army of Darkness,1
+57,Atlas Shrugged: Part I,15-04-2011,,https://www.imdb.com/title/tt0480239/,97.0,"Drama, Mystery, Sci-Fi",Paul Johansson,Atlas Shrugged,1
+58,Atlas Shrugged II: The Strike,12-10-2012,,https://www.imdb.com/title/tt1985017/,111.0,"Drama, Mystery, Sci-Fi",John Putch,Atlas Shrugged,2
+60,Austin Powers: International Man of Mystery,29-04-1997,,https://www.imdb.com/title/tt0118655/,94.0,"Adventure, Comedy",Jay Roach,Austin Powers,1
+61,Austin Powers: The Spy Who Shagged Me,08-06-1999,,https://www.imdb.com/title/tt0145660/,95.0,"Action, Adventure, Comedy, Crime",Jay Roach,Austin Powers,2
+62,Austin Powers in Goldmember,22-07-2002,,https://www.imdb.com/title/tt0295178/,94.0,"Action, Adventure, Comedy, Crime",Jay Roach,Austin Powers,3
+63,Back to the Future,03-07-1985,,https://www.imdb.com/title/tt0088763/,116.0,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,Back to the Future,1
+64,Back to the Future Part II,20-11-1989,,https://www.imdb.com/title/tt0096874/,108.0,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,Back to the Future,2
+65,Back to the Future Part III,25-05-1990,,https://www.imdb.com/title/tt0099088/,118.0,"Adventure, Comedy, Sci-Fi, Western",Robert Zemeckis,Back to the Future,3
+66,Bad Ass,13-04-2012,,https://www.imdb.com/title/tt1928330/,90.0,"Action, Comedy, Crime, Drama",Craig Moss,Bad Ass,1
+67,Bad Boys,06-04-1995,,https://www.imdb.com/title/tt0112442/,119.0,"Action, Comedy, Crime, Thriller",Michael Bay,Bad Boys,1
+68,Bad Boys II,09-07-2003,,https://www.imdb.com/title/tt0172156/,147.0,"Action, Comedy, Crime, Thriller",Michael Bay,Bad Boys,2
+69,Bad Boys for Life,07-01-2020,,https://www.imdb.com/title/tt1502397/,124.0,"Action, Comedy, Crime, Thriller","Bilall Fallah, Adil El Arbi",Bad Boys,3
+70,Bad Lieutenant,14-05-1992,,https://www.imdb.com/title/tt0103759/,96.0,"Crime, Drama, Thriller",Abel Ferrara,Bad Lieutenant,1
+71,The Bad Lieutenant: Port of Call - New Orleans,04-09-2009,,https://www.imdb.com/title/tt1095217/,122.0,"Crime, Drama",Werner Herzog,Bad Lieutenant,2
+72,Bad Santa,18-11-2003,,https://www.imdb.com/title/tt0307987/,92.0,"Comedy, Crime, Drama",Terry Zwigoff,Bad Santa,1
+73,Bad Santa 2,23-11-2016,,https://www.imdb.com/title/tt1798603/,92.0,"Comedy, Crime, Drama",Mark Waters,Bad Santa,2
+74,Balto,22-12-1995,,https://www.imdb.com/title/tt0112453/,78.0,"Animation, Adventure, Drama, Family, History",Simon Wells,Balto,1
+75,Bambi,08-08-1942,,https://www.imdb.com/title/tt0034492/,70.0,"Animation, Drama, Family","Samuel Armstrong, Paul Satterfield, James Algar, Graham Heid, David Hand, Clyde Geronimi, Arthur Davis, Norman Wright, Bill Roberts",Bambi,1
+76,Banlieue 13,10-11-2004,,https://www.imdb.com/title/tt0414852/,84.0,"Action, Crime, Sci-Fi, Thriller",Pierre Morel,Banlieue,1
+77,Banlieue 13: Ultimatum,18-02-2009,,https://www.imdb.com/title/tt1247640/,101.0,"Action, Crime, Thriller",Patrick Alessandrin,Banlieue,2
+78,Basic Instinct,20-03-1992,,https://www.imdb.com/title/tt0103772/,127.0,"Drama, Mystery, Thriller",Paul Verhoeven,Basic Instinct,1
+79,Basic Instinct 2,21-03-2006,,https://www.imdb.com/title/tt0430912/,114.0,"Drama, Mystery, Thriller",Michael Caton-Jones,Basic Instinct,2
+80,Batman,19-06-1989,,https://www.imdb.com/title/tt0096895/,126.0,"Action, Adventure",Tim Burton,Batman,1
+81,Batman Returns,16-06-1992,,https://www.imdb.com/title/tt0103776/,126.0,"Action, Crime, Fantasy",Tim Burton,Batman,2
+82,Batman Forever,09-06-1995,,https://www.imdb.com/title/tt0112462/,121.0,"Action, Adventure",Joel Schumacher,Batman,3
+83,Batman & Robin,12-06-1997,,https://www.imdb.com/title/tt0118688/,125.0,"Action, Sci-Fi",Joel Schumacher,Batman,4
+84,Batman Begins,31-05-2005,,https://www.imdb.com/title/tt0372784/,140.0,"Action, Adventure",Christopher Nolan,Batman,5
+85,The Dark Knight,14-07-2008,,https://www.imdb.com/title/tt0468569/,152.0,"Action, Crime, Drama, Thriller",Christopher Nolan,Batman,6
+86,The Dark Knight Rises,16-07-2012,,https://www.imdb.com/title/tt1345836/,164.0,"Action, Adventure",Christopher Nolan,Batman,7
+87,Batman v Superman: Dawn of Justice,12-03-2016,,https://www.imdb.com/title/tt2975590/,151.0,"Action, Adventure, Sci-Fi",Zack Snyder,Batman v Superman,1
+88,Battle for the Planet of the Apes,15-06-1973,,https://www.imdb.com/title/tt0069768/,93.0,"Action, Sci-Fi",J. Lee Thompson,Battle for the Planet of the Apes,1
+89,Beauty and the Beast,29-09-1991,,https://www.imdb.com/title/tt0101414/,84.0,"Animation, Family, Fantasy, Musical, Romance","Kirk Wise, Gary Trousdale",Beauty and the Beast,1
+90,Before Sunrise,19-01-1995,,https://www.imdb.com/title/tt0112471/,101.0,"Drama, Romance",Richard Linklater,Before Sunrise,1
+91,Before Sunset,10-02-2004,,https://www.imdb.com/title/tt0381681/,80.0,"Drama, Romance",Richard Linklater,Before Sunrise,2
+92,Before Midnight,20-01-2013,,https://www.imdb.com/title/tt2209418/,109.0,"Drama, Romance",Richard Linklater,Before Sunrise,3
+93,Behind Enemy Lines,17-11-2001,,https://www.imdb.com/title/tt0159273/,106.0,"Action, Drama, Thriller, War",John Moore,Behind Enemy Lines,1
+94,Beneath the Planet of the Apes,23-04-1970,,https://www.imdb.com/title/tt0065462/,95.0,"Action, Adventure, Sci-Fi",Ted Post,Beneath the Planet of the Apes,1
+95,Beverly Hills Chihuahua,18-09-2008,,https://www.imdb.com/title/tt1014775/,91.0,"Adventure, Comedy, Drama, Family, Romance",Raja Gosnell,Beverly Hills Chihuahua,1
+96,Beverly Hills Cop,01-12-1984,,https://www.imdb.com/title/tt0086960/,105.0,"Action, Comedy, Crime, Thriller",Martin Brest,Beverly Hills Cop,1
+97,Beverly Hills Cop II,19-05-1987,,https://www.imdb.com/title/tt0092644/,100.0,"Action, Comedy, Crime, Thriller",Tony Scott,Beverly Hills Cop,2
+98,Beverly Hills Cop III,25-05-1994,,https://www.imdb.com/title/tt0109254/,104.0,"Action, Comedy, Crime, Thriller",John Landis,Beverly Hills Cop,3
+99,Big Momma's House,31-05-2000,,https://www.imdb.com/title/tt0208003/,99.0,"Action, Comedy, Crime",Raja Gosnell,Big Mommas,1
+100,Big Momma's House 2,26-01-2006,,https://www.imdb.com/title/tt0421729/,99.0,"Comedy, Crime",John Whitesell,Big Mommas,2
+101,"Big Mommas: Like Father, Like Son",16-02-2011,,https://www.imdb.com/title/tt1464174/,107.0,"Action, Comedy, Crime",John Whitesell,Big Mommas,3
+102,Biohazard Regeneration,17-10-2008,,https://www.imdb.com/title/tt1174954/,97.0,"Animation, Action, Horror, Sci-Fi, Thriller",Makoto Kamiya,Biohazard,1
+103,Biohazard: Damnation,24-09-2012,,https://www.imdb.com/title/tt1753496/,100.0,"Animation, Action, Horror, Sci-Fi, Thriller",Makoto Kamiya,Biohazard,2
+104,Blade,19-08-1998,,https://www.imdb.com/title/tt0120611/,120.0,"Action, Horror, Sci-Fi",Stephen Norrington,Blade,1
+105,Blade II,21-03-2002,,https://www.imdb.com/title/tt0187738/,117.0,"Action, Fantasy, Horror, Sci-Fi, Thriller",Guillermo del Toro,Blade,2
+106,Blade: Trinity,07-12-2004,,https://www.imdb.com/title/tt0359013/,113.0,"Action, Adventure, Fantasy, Horror, Sci-Fi",David S. Goyer,Blade,3
+107,Blade Runner,25-06-1982,,https://www.imdb.com/title/tt0083658/,117.0,"Action, Sci-Fi, Thriller",Ridley Scott,Blade Runner,1
+108,Blade Runner 2049,03-10-2017,,https://www.imdb.com/title/tt1856101/,164.0,"Action, Drama, Mystery, Sci-Fi, Thriller",Denis Villeneuve,Blade Runner,2
+109,BloodRayne,23-10-2005,,https://www.imdb.com/title/tt0383222/,95.0,"Action, Adventure, Fantasy, Horror",Uwe Boll,BloodRayne,1
+110,BloodRayne: The Third Reich,02-05-2011,,https://www.imdb.com/title/tt1153546/,79.0,"Action, Adventure, Fantasy, Horror",Uwe Boll,BloodRayne,2
+111,Blue Crush,08-08-2002,,https://www.imdb.com/title/tt0300532/,104.0,"Drama, Romance, Sport",John Stockwell,Blue Crush,1
+112,The Boogey Man,07-11-1980,,https://www.imdb.com/title/tt0080464/,82.0,Horror,Ulli Lommel,Boogeyman,1
+113,Revenge of the Boogeyman,24-08-1983,,https://www.imdb.com/title/tt0085266/,79.0,Horror,"Paul Willson, Ulli Lommel, Bruce Pearn",Boogeyman,2
+114,Boogeyman,04-02-2005,,https://www.imdb.com/title/tt0357507/,89.0,"Drama, Horror, Mystery, Thriller",Stephen Kay,Boogeyman,3
+115,Boogeyman 2,20-10-2007,,https://www.imdb.com/title/tt0900357/,93.0,"Drama, Horror, Thriller",Jeff Betancourt,Boogeyman,4
+116,Brat,17-05-1997,,https://www.imdb.com/title/tt0118767/,96.0,"Crime, Drama, Romance",Aleksey Balabanov,Brat,1
+117,Brat 2,11-05-2000,,https://www.imdb.com/title/tt0238883/,122.0,"Action, Crime, Thriller",Aleksey Balabanov,Brat,2
+118,Bridget Jones's Diary,04-04-2001,,https://www.imdb.com/title/tt0243155/,97.0,"Comedy, Drama, Romance",Sharon Maguire,Bridget Jones,1
+119,Bridget Jones: The Edge of Reason,28-10-2004,,https://www.imdb.com/title/tt0317198/,108.0,"Comedy, Drama, Romance",Beeban Kidron,Bridget Jones,2
+120,Bridget Jones's Baby,05-09-2016,,https://www.imdb.com/title/tt1473832/,123.0,"Comedy, Drama, Romance",Sharon Maguire,Bridget Jones,3
+121,Brother Bear,20-10-2003,,https://www.imdb.com/title/tt0328880/,85.0,"Animation, Adventure, Comedy, Family, Fantasy","Aaron Blaise, Robert Walker",Brother Bear,1
+122,Candyman,11-09-1992,,https://www.imdb.com/title/tt0103919/,99.0,"Horror, Thriller",Bernard Rose,Candyman,1
+123,Candyman: Farewell to the Flesh,17-03-1995,,https://www.imdb.com/title/tt0112625/,95.0,"Horror, Thriller",Bill Condon,Candyman,2
+124,Captain America: The First Avenger,19-07-2011,,https://www.imdb.com/title/tt0458339/,124.0,"Action, Adventure, Sci-Fi",Joe Johnston,Captain America,1
+125,Captain America: The Winter Soldier,13-03-2014,,https://www.imdb.com/title/tt1843866/,136.0,"Action, Adventure, Sci-Fi, Thriller","Anthony Russo, Joe Russo",Captain America,2
+126,Captain America: Civil War,12-04-2016,,https://www.imdb.com/title/tt3498820/,147.0,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo",Captain America,3
+127,Cars,14-03-2006,,https://www.imdb.com/title/tt0317219/,117.0,"Animation, Comedy, Family, Sport","John Lasseter, Joe Ranft",Cars,1
+128,Cars 2,18-06-2011,,https://www.imdb.com/title/tt1216475/,106.0,"Animation, Adventure, Comedy, Family, Sport","John Lasseter, Bradford Lewis",Cars,2
+129,Cars 3,10-06-2017,,https://www.imdb.com/title/tt3606752/,102.0,"Animation, Adventure, Comedy, Family, Sport",Brian Fee,Cars,3
+130,Cat People,05-12-1942,,https://www.imdb.com/title/tt0034587/,73.0,"Fantasy, Horror, Thriller",Jacques Tourneur,Cat People,1
+131,The Curse of the Cat People,03-03-1944,,https://www.imdb.com/title/tt0036733/,70.0,"Drama, Horror, Mystery","Gunther von Fritsch, Robert Wise",Cat People,2
+132,Charlie's Angels,22-10-2000,,https://www.imdb.com/title/tt0160127/,98.0,"Action, Adventure, Comedy, Crime, Thriller",McG,Charlie's Angels,1
+133,Charlie's Angels: Full Throttle,18-06-2003,,https://www.imdb.com/title/tt0305357/,106.0,"Action, Adventure, Comedy, Crime",McG,Charlie's Angels,2
+134,Cheaper by the Dozen,25-12-2003,,https://www.imdb.com/title/tt0349205/,98.0,"Comedy, Family",Shawn Levy,Cheaper by the Dozen,1
+135,Cheaper by the Dozen 2,21-12-2005,,https://www.imdb.com/title/tt0452598/,94.0,"Adventure, Comedy, Family",Adam Shankman,Cheaper by the Dozen,2
+136,Child's Play,09-11-1988,,https://www.imdb.com/title/tt0094862/,87.0,"Horror, Thriller",Tom Holland,Child's Play,1
+137,Child's Play 2,09-11-1990,,https://www.imdb.com/title/tt0099253/,84.0,"Horror, Thriller",John Lafia,Child's Play,2
+138,Child's Play 3,30-08-1991,,https://www.imdb.com/title/tt0103956/,90.0,"Horror, Thriller",Jack Bender,Child's Play,3
+139,Cidade de Deus,18-05-2002,,https://www.imdb.com/title/tt0317248/,130.0,"Crime, Drama","Kátia Lund, Fernando Meirelles",Cidade de Deus,1
+140,Cidade dos Homens,31-08-2007,,https://www.imdb.com/title/tt0870090/,106.0,"Crime, Drama",Paulo Morelli,Cidade de Deus,2
+141,Clash of the Titans,26-03-2010,,https://www.imdb.com/title/tt0800320/,106.0,"Action, Adventure, Fantasy",Louis Leterrier,Clash of the Titans,1
+142,Class of 1999,30-04-1990,,https://www.imdb.com/title/tt0099277/,99.0,"Action, Horror, Sci-Fi",Mark L. Lester,Class of 1999,1
+143,Class of 1999 II: The Substitute,29-03-1994,,https://www.imdb.com/title/tt0109442/,87.0,"Action, Horror, Sci-Fi, Thriller",Spiro Razatos,Class of 1999,2
+144,Clerks,31-01-1994,,https://www.imdb.com/title/tt0109445/,92.0,Comedy,Kevin Smith,Clerks,1
+145,Clerks II,26-05-2006,,https://www.imdb.com/title/tt0424345/,97.0,Comedy,Kevin Smith,Clerks,2
+146,Cloverfield,16-01-2008,,https://www.imdb.com/title/tt1060277/,85.0,"Action, Adventure, Horror, Mystery, Sci-Fi, Thriller",Matt Reeves,Cloverfield,1
+147,10 Cloverfield Lane,08-03-2016,,https://www.imdb.com/title/tt1179933/,103.0,"Drama, Horror, Mystery, Sci-Fi, Thriller",Dan Trachtenberg,Cloverfield,2
+148,Cocoon,21-06-1985,,https://www.imdb.com/title/tt0088933/,117.0,"Comedy, Drama, Sci-Fi",Ron Howard,Cocoon,1
+149,Cocoon: The Return,23-11-1988,,https://www.imdb.com/title/tt0094890/,116.0,"Adventure, Comedy, Mystery, Romance, Sci-Fi",Daniel Petrie,Cocoon,2
+150,Conquest of the Planet of the Apes,29-06-1972,,https://www.imdb.com/title/tt0068408/,88.0,"Action, Sci-Fi",J. Lee Thompson,Conquest of the Planet of the Apes,1
+151,Crank,31-08-2006,,https://www.imdb.com/title/tt0479884/,88.0,"Action, Crime, Thriller","Brian Taylor, Mark Neveldine",Crank,1
+152,Crank: High Voltage,16-04-2009,,https://www.imdb.com/title/tt1121931/,96.0,"Action, Thriller","Brian Taylor, Mark Neveldine",Crank,2
+153,Critters,11-04-1986,,https://www.imdb.com/title/tt0090887/,86.0,"Comedy, Horror, Sci-Fi",Stephen Herek,Critters,1
+154,Critters 2,29-04-1988,,https://www.imdb.com/title/tt0094919/,86.0,"Comedy, Horror, Sci-Fi, Thriller",Mick Garris,Critters,2
+155,Critters 3,16-08-1991,,https://www.imdb.com/title/tt0101627/,86.0,"Comedy, Horror, Sci-Fi, Thriller",Kristine Peterson,Critters,3
+156,Critters 4,20-08-1992,,https://www.imdb.com/title/tt0101628/,87.0,"Horror, Sci-Fi",Rupert Harvey,Critters,4
+157,Cruel Intentions,05-03-1999,,https://www.imdb.com/title/tt0139134/,97.0,"Drama, Romance",Roger Kumble,Cruel Intentions,1
+158,Cube,09-09-1997,,https://www.imdb.com/title/tt0123755/,90.0,"Drama, Mystery, Sci-Fi, Thriller",Vincenzo Natali,Cube,1
+159,Cube 2: Hypercube,29-07-2002,,https://www.imdb.com/title/tt0285492/,94.0,"Drama, Mystery, Sci-Fi, Thriller",Andrzej Sekula,Cube,2
+160,Cube Zero,15-10-2004,,https://www.imdb.com/title/tt0377713/,97.0,"Drama, Mystery, Sci-Fi, Thriller",Ernie Barbarash,Cube,3
+161,Damien: Omen II,05-06-1978,,https://www.imdb.com/title/tt0077394/,107.0,Horror,"Don Taylor, Mike Hodges",Damien,1
+162,Daredevil,09-02-2003,,https://www.imdb.com/title/tt0287978/,103.0,"Action, Crime",Mark Steven Johnson,Daredevil,1
+163,Darkman,24-08-1990,,https://www.imdb.com/title/tt0099365/,96.0,"Action, Sci-Fi, Thriller",Sam Raimi,Darkman,1
+164,Dawn of the Planet of the Apes,26-06-2014,,https://www.imdb.com/title/tt2103281/,130.0,"Action, Adventure, Drama, Sci-Fi",Matt Reeves,Dawn of the Planet of the Apes,1
+165,Deadpool,21-01-2016,,https://www.imdb.com/title/tt1431045/,108.0,"Action, Adventure, Comedy, Sci-Fi",Tim Miller,Deadpool,1
+166,Deadpool 2,01-05-2018,,https://www.imdb.com/title/tt5463162/,119.0,"Action, Adventure, Comedy, Sci-Fi",David Leitch,Deadpool,2
+167,Death Race,21-08-2008,,https://www.imdb.com/title/tt0452608/,105.0,"Action, Sci-Fi, Thriller",Paul W.S. Anderson,Death Race,1
+168,Despicable Me,20-06-2010,,https://www.imdb.com/title/tt1323594/,95.0,"Animation, Comedy, Family, Fantasy","Chris Renaud, Pierre Coffin",Despicable Me,1
+169,Despicable Me 2,16-06-2013,,https://www.imdb.com/title/tt1690953/,98.0,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi","Chris Renaud, Pierre Coffin",Despicable Me,2
+170,Despicable Me 3,14-06-2017,,https://www.imdb.com/title/tt3469046/,89.0,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi","Eric Guillon, Kyle Balda, Pierre Coffin",Despicable Me,3
+171,Deuce Bigalow: Male Gigolo,02-12-1999,,https://www.imdb.com/title/tt0205000/,88.0,"Comedy, Romance",Mike Mitchell,Deuce Bigalow,1
+172,Deuce Bigalow: European Gigolo,06-08-2005,,https://www.imdb.com/title/tt0367652/,83.0,Comedy,Mike Bigelow,Deuce Bigalow,2
+173,Die Hard,12-07-1988,,https://www.imdb.com/title/tt0095016/,132.0,"Action, Thriller",John McTiernan,Die Hard,1
+174,Die Hard 2,02-07-1990,,https://www.imdb.com/title/tt0099423/,124.0,"Action, Thriller",Renny Harlin,Die Hard,2
+175,Die Hard: With a Vengeance,15-05-1995,,https://www.imdb.com/title/tt0112864/,128.0,"Action, Adventure, Thriller",John McTiernan,Die Hard,3
+176,Dirty Dancing,12-05-1987,,https://www.imdb.com/title/tt0092890/,100.0,"Drama, Music, Romance",Emile Ardolino,Dirty Dancing,1
+177,Dirty Dancing: Havana Nights,27-02-2004,,https://www.imdb.com/title/tt0338096/,86.0,"Drama, Music, Romance",Guy Ferland,Dirty Dancing,2
+178,Dirty Harry,21-12-1971,,https://www.imdb.com/title/tt0066999/,102.0,"Action, Crime, Thriller",Don Siegel,Dirty Harry,1
+179,Divergent,18-03-2014,,https://www.imdb.com/title/tt1840309/,139.0,"Action, Adventure, Mystery, Sci-Fi",Neil Burger,Divergent,1
+180,Insurgent,11-03-2015,,https://www.imdb.com/title/tt2908446/,119.0,"Action, Adventure, Sci-Fi, Thriller",Robert Schwentke,Divergent,2
+181,Allegiant,08-03-2016,,https://www.imdb.com/title/tt3410834/,120.0,"Action, Adventure, Mystery, Sci-Fi, Thriller",Robert Schwentke,Divergent,3
+182,Doctor Dolittle,13-06-1998,,https://www.imdb.com/title/tt0118998/,85.0,"Comedy, Family, Fantasy",Betty Thomas,Doctor Dolittle,1
+183,Dr. Dolittle 2,19-06-2001,,https://www.imdb.com/title/tt0240462/,87.0,"Comedy, Family, Fantasy",Steve Carr,Doctor Dolittle,2
+184,Dolphin Tale,21-09-2011,,https://www.imdb.com/title/tt1564349/,113.0,"Drama, Family",Charles Martin Smith,Dolphin Tale,1
+185,Dolphin Tale 2,11-09-2014,,https://www.imdb.com/title/tt2978462/,107.0,"Drama, Family",Charles Martin Smith,Dolphin Tale,2
+186,Dominion: Prequel to the Exorcist,18-03-2005,,https://www.imdb.com/title/tt0449086/,117.0,"Drama, Horror, Thriller",Paul Schrader,Dominion,1
+187,Dumb and Dumber,06-12-1994,,https://www.imdb.com/title/tt0109686/,107.0,Comedy,"Bobby Farrelly, Peter Farrelly",Dumb and Dumber,1
+188,Dumb and Dumberer: When Harry Met Lloyd,13-06-2003,,https://www.imdb.com/title/tt0329028/,85.0,Comedy,Troy Miller,Dumb and Dumber,2
+189,Dumb and Dumber To,03-11-2014,,https://www.imdb.com/title/tt2096672/,109.0,Comedy,"Bobby Farrelly, Peter Farrelly",Dumb and Dumber,3
+190,Elektra,08-01-2005,,https://www.imdb.com/title/tt0357277/,97.0,"Action, Adventure, Crime, Fantasy",Rob Bowman,Elektra,1
+191,Elizabeth,08-09-1998,,https://www.imdb.com/title/tt0127536/,124.0,"Biography, Drama, History",Shekhar Kapur,Elizabeth,1
+192,Elizabeth: The Golden Age,09-09-2007,,https://www.imdb.com/title/tt0414055/,114.0,"Biography, Drama, History, War",Shekhar Kapur,Elizabeth,2
+193,Escape from the Planet of the Apes,26-05-1971,,https://www.imdb.com/title/tt0067065/,98.0,"Action, Sci-Fi",Don Taylor,Escape from the Planet of the Apes,1
+194,Fantastic Four,29-06-2005,,https://www.imdb.com/title/tt0120667/,106.0,"Action, Adventure, Family, Fantasy, Sci-Fi",Tim Story,Fantastic Four,1
+195,Fantastic Four: Rise of the Silver Surfer,12-06-2007,,https://www.imdb.com/title/tt0486576/,92.0,"Action, Adventure, Family, Fantasy, Sci-Fi",Tim Story,Fantastic Four,2
+196,Furious 6,07-05-2013,,https://www.imdb.com/title/tt1905041/,130.0,"Action, Adventure, Thriller",Justin Lin,Fast & Furious,1
+197,Fast & Furious 7,16-03-2015,,https://www.imdb.com/title/tt2820852/,137.0,"Action, Adventure, Thriller",James Wan,Fast & Furious,2
+198,Father of the Bride,20-12-1991,,https://www.imdb.com/title/tt0101862/,105.0,"Comedy, Family, Romance",Charles Shyer,Father of the Bride,1
+199,Father of the Bride Part II,08-12-1995,,https://www.imdb.com/title/tt0113041/,106.0,"Comedy, Family, Romance",Charles Shyer,Father of the Bride,2
+200,Final Destination,16-03-2000,,https://www.imdb.com/title/tt0195714/,98.0,"Horror, Thriller",James Wong,Final Destination,1
+201,Final Destination 2,30-01-2003,,https://www.imdb.com/title/tt0309593/,90.0,"Horror, Thriller",David R. Ellis,Final Destination,2
+202,Final Destination 3,09-02-2006,,https://www.imdb.com/title/tt0414982/,93.0,"Fantasy, Horror, Thriller",James Wong,Final Destination,3
+203,The Final Destination,26-08-2009,,https://www.imdb.com/title/tt1144884/,82.0,"Fantasy, Horror, Thriller",David R. Ellis,Final Destination,4
+204,Final Destination 5,04-08-2011,,https://www.imdb.com/title/tt1622979/,92.0,"Horror, Thriller",Steven Quale,Final Destination,5
+205,Finding Nemo,18-05-2003,,https://www.imdb.com/title/tt0266543/,100.0,"Animation, Adventure, Comedy, Family","Andrew Stanton, Lee Unkrich",Finding Nemo,1
+206,Finding Dory,08-06-2016,,https://www.imdb.com/title/tt2277860/,97.0,"Animation, Adventure, Comedy, Family","Andrew Stanton, Angus MacLane",Finding Nemo,2
+207,First Blood,22-10-1982,,https://www.imdb.com/title/tt0083944/,93.0,"Action, Adventure",Ted Kotcheff,First Blood,1
+208,Fletch,31-05-1985,,https://www.imdb.com/title/tt0089155/,98.0,"Comedy, Crime, Mystery",Michael Ritchie,Fletch,1
+209,Fletch Lives,17-03-1989,,https://www.imdb.com/title/tt0097366/,95.0,"Comedy, Crime, Mystery",Michael Ritchie,Fletch,2
+210,Fortress,18-12-1992,,https://www.imdb.com/title/tt0106950/,95.0,"Action, Crime, Sci-Fi, Thriller",Stuart Gordon,Fortress,1
+211,Fortress 2,02-03-2000,,https://www.imdb.com/title/tt0179183/,92.0,"Action, Sci-Fi",Geoff Murphy,Fortress,2
+212,Freddy vs. Jason,13-08-2003,,https://www.imdb.com/title/tt0329101/,97.0,"Action, Horror",Ronny Yu,Freddy vs. Jason,1
+213,Freddy's Dead: The Final Nightmare,05-09-1991,,https://www.imdb.com/title/tt0101917/,89.0,"Fantasy, Horror",Rachel Talalay,Freddy's Dead,1
+214,Friday the 13th,09-05-1980,,https://www.imdb.com/title/tt0080761/,95.0,"Horror, Mystery, Thriller",Sean S. Cunningham,Friday the 13th,1
+215,Friday the 13th Part 2,30-04-1981,,https://www.imdb.com/title/tt0082418/,87.0,"Horror, Mystery, Thriller",Steve Miner,Friday the 13th,2
+216,Friday the 13th Part III,13-08-1982,,https://www.imdb.com/title/tt0083972/,95.0,"Horror, Thriller",Steve Miner,Friday the 13th,3
+217,Friday the 13th: The Final Chapter,13-04-1984,,https://www.imdb.com/title/tt0087298/,91.0,"Horror, Thriller",Joseph Zito,Friday the 13th,4
+218,Friday the 13th: A New Beginning,22-03-1985,,https://www.imdb.com/title/tt0089173/,92.0,"Horror, Mystery, Thriller",Danny Steinmann,Friday the 13th,5
+219,Friday the 13th Part VI: Jason Lives,01-08-1986,,https://www.imdb.com/title/tt0091080/,86.0,"Horror, Thriller",Tom McLoughlin,Friday the 13th,6
+220,Friday the 13th Part VII: The New Blood,13-05-1988,,https://www.imdb.com/title/tt0095179/,88.0,"Horror, Thriller",John Carl Buechler,Friday the 13th,7
+221,Friday the 13th Part VIII: Jason Takes Manhattan,28-07-1989,,https://www.imdb.com/title/tt0097388/,100.0,"Adventure, Horror, Thriller",Rob Hedden,Friday the 13th,8
+222,Friday the 13th,09-02-2009,,https://www.imdb.com/title/tt0758746/,97.0,"Horror, Mystery, Thriller",Marcus Nispel,Friday the 13th,9
+223,Fright Night,02-08-1985,,https://www.imdb.com/title/tt0089175/,106.0,"Horror, Thriller",Tom Holland,Fright Night,1
+224,Fright Night Part 2,31-10-1988,,https://www.imdb.com/title/tt0097390/,104.0,"Comedy, Horror, Thriller",Tommy Lee Wallace,Fright Night,2
+225,Fright Night,14-08-2011,,https://www.imdb.com/title/tt1438176/,106.0,"Comedy, Horror",Craig Gillespie,Fright Night,3
+226,From Dusk Till Dawn,19-01-1996,,https://www.imdb.com/title/tt0116367/,108.0,"Action, Crime, Horror",Robert Rodriguez,From Dusk Till Dawn,1
+227,G.I. Joe: The Rise of Cobra,27-07-2009,,https://www.imdb.com/title/tt1046173/,118.0,"Action, Adventure, Sci-Fi, Thriller",Stephen Sommers,G.I. Joe,1
+228,G.I. Joe: Retaliation,11-03-2013,,https://www.imdb.com/title/tt1583421/,110.0,"Action, Adventure, Sci-Fi, Thriller",Jon M. Chu,G.I. Joe,2
+229,Garfield,06-06-2004,,https://www.imdb.com/title/tt0356634/,80.0,"Animation, Comedy, Family, Fantasy",Peter Hewitt,Garfield,1
+230,Garfield: A Tale of Two Kitties,15-06-2006,,https://www.imdb.com/title/tt0455499/,82.0,"Animation, Adventure, Comedy, Family",Tim Hill,Garfield,2
+233,Ghost Rider,15-01-2007,,https://www.imdb.com/title/tt0259324/,110.0,"Action, Fantasy, Thriller",Mark Steven Johnson,Ghost Rider,1
+234,Ghost Rider: Spirit of Vengeance,11-12-2011,,https://www.imdb.com/title/tt1071875/,96.0,"Action, Fantasy, Thriller","Brian Taylor, Mark Neveldine",Ghost Rider,2
+235,Ghostbusters,07-06-1984,,https://www.imdb.com/title/tt0087332/,105.0,"Action, Comedy, Fantasy",Ivan Reitman,Ghostbusters,1
+236,Ghostbusters II,15-06-1989,,https://www.imdb.com/title/tt0097428/,108.0,"Action, Comedy, Fantasy, Sci-Fi",Ivan Reitman,Ghostbusters,2
+237,Glass,07-01-2019,,https://www.imdb.com/title/tt6823368/,129.0,"Drama, Sci-Fi, Thriller",M. Night Shyamalan,Glass,1
+238,Goon,10-09-2011,,https://www.imdb.com/title/tt1456635/,92.0,"Comedy, Drama, Sport",Michael Dowse,Goon,1
+239,Goon: Last of the Enforcers,17-03-2017,,https://www.imdb.com/title/tt2417712/,101.0,"Comedy, Sport",Jay Baruchel,Goon,2
+240,Grave Encounters,22-04-2011,,https://www.imdb.com/title/tt1703199/,92.0,"Adventure, Fantasy, Horror, Mystery","The Vicious Brothers, Colin Minihan, Stuart Ortiz",Grave Encounters,1
+241,Grave Encounters 2,02-10-2012,,https://www.imdb.com/title/tt2231554/,95.0,"Action, Adventure, Fantasy, Horror, Sci-Fi",John Poliquin,Grave Encounters,2
+243,Gremlins,08-06-1984,,https://www.imdb.com/title/tt0087363/,106.0,"Comedy, Fantasy, Horror",Joe Dante,Gremlins,1
+244,Gremlins 2: The New Batch,15-06-1990,,https://www.imdb.com/title/tt0099700/,106.0,"Comedy, Fantasy, Horror","Joe Dante, Chuck Jones",Gremlins,2
+245,Guardians of the Galaxy,21-07-2014,,https://www.imdb.com/title/tt2015381/,121.0,"Action, Adventure, Comedy, Sci-Fi",James Gunn,Guardians of the Galaxy,1
+246,Guardians of the Galaxy Vol. 2,10-04-2017,,https://www.imdb.com/title/tt3896198/,136.0,"Action, Adventure, Comedy, Sci-Fi",James Gunn,Guardians of the Galaxy,2
+247,Guardians of the Galaxy Vol. 3,05-05-2023,,https://www.imdb.com/title/tt6791350/,,"Action, Adventure, Comedy, Sci-Fi, Thriller",James Gunn,Guardians of the Galaxy,3
+248,Halloween,25-10-1978,,https://www.imdb.com/title/tt0077651/,91.0,"Horror, Thriller",John Carpenter,Halloween,1
+249,Halloween II,30-10-1981,,https://www.imdb.com/title/tt0082495/,92.0,Horror,Rick Rosenthal,Halloween,2
+250,Halloween III: Season of the Witch,22-10-1982,,https://www.imdb.com/title/tt0085636/,98.0,"Horror, Mystery, Sci-Fi",Tommy Lee Wallace,Halloween,3
+251,Halloween 4: The Return of Michael Myers,21-10-1988,,https://www.imdb.com/title/tt0095271/,88.0,"Horror, Thriller",Dwight H. Little,Halloween,4
+252,Halloween 5: The Revenge of Michael Myers,13-10-1989,,https://www.imdb.com/title/tt0097474/,96.0,"Horror, Thriller",Dominique Othenin-Girard,Halloween,5
+253,Halloween: The Curse of Michael Myers,29-09-1995,,https://www.imdb.com/title/tt0113253/,87.0,"Horror, Thriller",Joe Chappelle,Halloween,6
+254,Halloween H20: 20 Years Later,27-07-1998,,https://www.imdb.com/title/tt0120694/,86.0,"Horror, Thriller",Steve Miner,Halloween,7
+255,Halloween: Resurrection,01-07-2002,,https://www.imdb.com/title/tt0220506/,94.0,"Horror, Thriller",Rick Rosenthal,Halloween,8
+256,Halloween,31-08-2007,,https://www.imdb.com/title/tt0373883/,109.0,Horror,Rob Zombie,Halloween,9
+257,Halloween II,28-08-2009,,https://www.imdb.com/title/tt1311067/,105.0,Horror,Rob Zombie,Halloween,10
+258,Halloween,08-09-2018,,https://www.imdb.com/title/tt1502407/,106.0,"Horror, Thriller",David Gordon Green,Halloween,11
+259,Hannibal,09-02-2001,,https://www.imdb.com/title/tt0212985/,131.0,"Crime, Drama, Thriller",Ridley Scott,Hannibal,1
+260,Hannibal Rising,07-02-2007,,https://www.imdb.com/title/tt0367959/,121.0,"Adventure, Crime, Drama, Thriller, War",Peter Webber,Hannibal,2
+261,Happy Death Day,07-10-2017,,https://www.imdb.com/title/tt5308322/,96.0,"Horror, Mystery, Thriller",Christopher Landon,Happy Death Day,1
+262,Happy Death Day 2U,13-02-2019,,https://www.imdb.com/title/tt8155288/,100.0,"Comedy, Horror, Mystery, Sci-Fi, Thriller",Christopher Landon,Happy Death Day,2
+263,Happy Feet,16-11-2006,,https://www.imdb.com/title/tt0366548/,108.0,"Animation, Adventure, Comedy, Family, Music, Musical, Romance","Judy Morris, Warren Coleman, George Miller",Happy Feet,1
+264,Happy Feet Two,17-11-2011,,https://www.imdb.com/title/tt1402488/,100.0,"Animation, Adventure, Comedy, Family, Musical","George Miller, David Peers, Gary Eck",Happy Feet,2
+265,Harold & Kumar Go to White Castle,20-05-2004,,https://www.imdb.com/title/tt0366551/,88.0,"Adventure, Comedy",Danny Leiner,Harold & Kumar,1
+266,Harold & Kumar Escape from Guantanamo Bay,24-04-2008,,https://www.imdb.com/title/tt0481536/,114.0,"Adventure, Comedy","Jon Hurwitz, Hayden Schlossberg",Harold & Kumar,2
+267,A Very Harold & Kumar 3D Christmas,04-11-2011,,https://www.imdb.com/title/tt1268799/,90.0,"Adventure, Comedy",Todd Strauss-Schulson,Harold & Kumar,3
+268,Harry Potter and the Sorcerer's Stone,04-11-2001,,https://www.imdb.com/title/tt0241527/,152.0,"Adventure, Family, Fantasy",Chris Columbus,Harry Potter,1
+269,Harry Potter and the Chamber of Secrets,03-11-2002,,https://www.imdb.com/title/tt0295297/,161.0,"Adventure, Family, Fantasy, Mystery",Chris Columbus,Harry Potter,2
+270,Harry Potter and the Prisoner of Azkaban,23-05-2004,,https://www.imdb.com/title/tt0304141/,142.0,"Adventure, Family, Fantasy, Mystery",Alfonso Cuarón,Harry Potter,3
+271,Harry Potter and the Goblet of Fire,06-11-2005,,https://www.imdb.com/title/tt0330373/,157.0,"Adventure, Family, Fantasy, Mystery",Mike Newell,Harry Potter,4
+272,Harry Potter and the Order of the Phoenix,28-06-2007,,https://www.imdb.com/title/tt0373889/,138.0,"Action, Adventure, Family, Fantasy, Mystery",David Yates,Harry Potter,5
+273,Harry Potter and the Half-Blood Prince,06-07-2009,,https://www.imdb.com/title/tt0417741/,153.0,"Action, Adventure, Family, Fantasy, Mystery",David Yates,Harry Potter,6
+274,Harry Potter and the Deathly Hallows: Part 1,11-11-2010,,https://www.imdb.com/title/tt0926084/,146.0,"Adventure, Family, Fantasy, Mystery",David Yates,Harry Potter,7
+275,Harry Potter and the Deathly Hallows: Part 2,07-07-2011,,https://www.imdb.com/title/tt1201607/,130.0,"Adventure, Drama, Fantasy, Mystery",David Yates,Harry Potter,8
+276,Hellbound: Hellraiser II,09-09-1988,,https://www.imdb.com/title/tt0095294/,97.0,"Horror, Thriller",Tony Randel,Hellbound,1
+277,Hellboy,30-03-2004,,https://www.imdb.com/title/tt0167190/,122.0,"Action, Fantasy, Horror",Guillermo del Toro,Hellboy,1
+278,Hellboy II: The Golden Army,28-06-2008,,https://www.imdb.com/title/tt0411477/,120.0,"Action, Adventure, Fantasy, Horror, Sci-Fi",Guillermo del Toro,Hellboy,2
+280,Hellraiser,13-05-1987,,https://www.imdb.com/title/tt0093177/,94.0,"Horror, Thriller",Clive Barker,Hellraiser,1
+281,Hellraiser III: Hell on Earth,31-05-1992,,https://www.imdb.com/title/tt0104409/,97.0,Horror,Anthony Hickox,Hellraiser,2
+282,Hellraiser: Bloodline,08-03-1996,,https://www.imdb.com/title/tt0116514/,85.0,"Horror, Sci-Fi",Kevin Yagher,Hellraiser,3
+283,Hellraiser: Revelations,18-03-2011,,https://www.imdb.com/title/tt1716747/,75.0,Horror,Víctor García,Hellraiser,4
+284,Hollow Man,02-08-2000,,https://www.imdb.com/title/tt0164052/,112.0,"Action, Horror, Sci-Fi, Thriller",Paul Verhoeven,Hollow Man,1
+285,Home Alone,10-11-1990,,https://www.imdb.com/title/tt0099785/,103.0,"Comedy, Family",Chris Columbus,Home Alone,1
+286,Home Alone 2: Lost in New York,15-11-1992,,https://www.imdb.com/title/tt0104431/,120.0,"Adventure, Comedy, Crime, Family",Chris Columbus,Home Alone,2
+287,Home Alone 3,12-12-1997,,https://www.imdb.com/title/tt0119303/,102.0,"Comedy, Crime, Family",Raja Gosnell,Home Alone,3
+288,Honey,24-11-2003,,https://www.imdb.com/title/tt0322589/,94.0,"Drama, Music, Romance",Bille Woodruff,Honey,1
+289,Honey 2,10-06-2011,,https://www.imdb.com/title/tt1657283/,110.0,"Comedy, Drama, Music",Bille Woodruff,Honey,2
+290,"Honey, I Shrunk the Kids",23-06-1989,,https://www.imdb.com/title/tt0097523/,93.0,"Adventure, Comedy, Family, Sci-Fi",Joe Johnston,"Honey,  Shrunk the Kids",1
+291,"Honey, I Blew Up the Kid",17-07-1992,,https://www.imdb.com/title/tt0104437/,89.0,"Adventure, Comedy, Family, Romance, Sci-Fi",Randal Kleiser,"Honey,  Shrunk the Kids",2
+292,Horrible Bosses,08-07-2011,,https://www.imdb.com/title/tt1499658/,98.0,"Comedy, Crime",Seth Gordon,Horrible Bosses,1
+293,Horrible Bosses 2,12-11-2014,,https://www.imdb.com/title/tt2170439/,108.0,"Comedy, Crime",Sean Anders,Horrible Bosses,2
+294,Hostel,17-09-2005,,https://www.imdb.com/title/tt0450278/,94.0,Horror,Eli Roth,Hostel,1
+295,Hostel: Part II,07-06-2007,,https://www.imdb.com/title/tt0498353/,94.0,Horror,Eli Roth,Hostel,2
+296,Hot Shots!,26-07-1991,,https://www.imdb.com/title/tt0102059/,84.0,"Action, Comedy",Jim Abrahams,Hot Shots!,1
+297,Hot Shots! Part Deux,21-05-1993,,https://www.imdb.com/title/tt0107144/,86.0,"Action, Comedy",Jim Abrahams,Hot Shots!,2
+298,Hot Tub Time Machine,17-03-2010,,https://www.imdb.com/title/tt1231587/,101.0,"Comedy, Sci-Fi",Steve Pink,Hot Tub Time Machine,1
+299,Hot Tub Time Machine 2,20-02-2015,,https://www.imdb.com/title/tt2637294/,93.0,"Comedy, Mystery, Sci-Fi",Steve Pink,Hot Tub Time Machine,2
+300,Hotel Transylvania,08-09-2012,,https://www.imdb.com/title/tt0837562/,91.0,"Animation, Comedy, Family, Fantasy",Genndy Tartakovsky,Hotel Transylvania,1
+301,Hotel Transylvania 2,21-09-2015,,https://www.imdb.com/title/tt2510894/,89.0,"Animation, Comedy, Family, Fantasy",Genndy Tartakovsky,Hotel Transylvania,2
+302,Hotel Transylvania 3: Summer Vacation,13-06-2018,,https://www.imdb.com/title/tt5220122/,97.0,"Animation, Adventure, Comedy, Family, Fantasy",Genndy Tartakovsky,Hotel Transylvania,3
+303,How to Train Your Dragon,18-03-2010,,https://www.imdb.com/title/tt0892769/,98.0,"Animation, Action, Adventure, Family, Fantasy","Chris Sanders, Dean DeBlois",How to Train Your Dragon,1
+304,How to Train Your Dragon 2,16-05-2014,,https://www.imdb.com/title/tt1646971/,102.0,"Animation, Action, Adventure, Family, Fantasy",Dean DeBlois,How to Train Your Dragon,2
+305,How to Train Your Dragon: The Hidden World,03-01-2019,,https://www.imdb.com/title/tt2386490/,104.0,"Animation, Action, Adventure, Family, Fantasy",Dean DeBlois,How to Train Your Dragon,3
+306,I Know What You Did Last Summer,09-10-1997,,https://www.imdb.com/title/tt0119345/,101.0,"Horror, Mystery",Jim Gillespie,I Know What You Did Last Summer,1
+307,I Still Know What You Did Last Summer,13-11-1998,,https://www.imdb.com/title/tt0130018/,100.0,"Horror, Mystery",Danny Cannon,I Know What You Did Last Summer,2
+308,I Spit on Your Grave,01-05-2010,,https://www.imdb.com/title/tt1242432/,108.0,"Horror, Thriller",Steven R. Monroe,I Spit on Your Grave,1
+309,I Spit on Your Grave 2,25-08-2013,,https://www.imdb.com/title/tt2537176/,106.0,"Horror, Thriller",Steven R. Monroe,I Spit on Your Grave,2
+310,"I, Robot",07-07-2004,,https://www.imdb.com/title/tt0343818/,115.0,"Action, Drama, Sci-Fi, Thriller",Alex Proyas,"I, Robot",1
+311,Ice Age,12-03-2002,,https://www.imdb.com/title/tt0268380/,81.0,"Animation, Adventure, Comedy, Family, Fantasy","Chris Wedge, Carlos Saldanha",Ice Age,1
+312,Ice Age: The Meltdown,29-03-2006,,https://www.imdb.com/title/tt0438097/,91.0,"Animation, Adventure, Comedy, Family, Fantasy",Carlos Saldanha,Ice Age,2
+313,Ice Age: Dawn of the Dinosaurs,26-06-2009,,https://www.imdb.com/title/tt1080016/,94.0,"Animation, Adventure, Comedy, Family, Fantasy","Mike Thurmeier, Carlos Saldanha",Ice Age,3
+314,Ice Age: Continental Drift,26-06-2012,,https://www.imdb.com/title/tt1667889/,88.0,"Animation, Adventure, Comedy, Family, Fantasy","Mike Thurmeier, Steve Martino",Ice Age,4
+315,In the Name of the King: A Dungeon Siege Tale,11-04-2007,,https://www.imdb.com/title/tt0460780/,127.0,"Action, Adventure, Fantasy, Horror, Thriller, War",Uwe Boll,In the Name of the King,1
+316,In the Name of the King: Two Worlds,27-12-2011,,https://www.imdb.com/title/tt1767319/,96.0,"Action, Adventure, Fantasy, Thriller",Uwe Boll,In the Name of the King,2
+317,In the Name of the King: The Last Mission,05-02-2014,,https://www.imdb.com/title/tt2379386/,86.0,"Action, Adventure, Fantasy, Thriller",Uwe Boll,In the Name of the King,3
+318,Independence Day,25-06-1996,,https://www.imdb.com/title/tt0116629/,145.0,"Action, Adventure, Sci-Fi",Roland Emmerich,Independence Day,1
+319,Independence Day: Resurgence,20-06-2016,,https://www.imdb.com/title/tt1628841/,120.0,"Action, Adventure, Sci-Fi",Roland Emmerich,Independence Day,2
+320,Indiana Jones and the Temple of Doom,08-05-1984,,https://www.imdb.com/title/tt0087469/,118.0,"Action, Adventure",Steven Spielberg,Indiana Jones,1
+321,Indiana Jones and the Last Crusade,24-05-1989,,https://www.imdb.com/title/tt0097576/,127.0,"Action, Adventure",Steven Spielberg,Indiana Jones,2
+322,Indiana Jones and the Kingdom of the Crystal Skull,18-05-2008,,https://www.imdb.com/title/tt0367882/,122.0,"Action, Adventure",Steven Spielberg,Indiana Jones,3
+323,Insidious,14-09-2010,,https://www.imdb.com/title/tt1591095/,103.0,"Horror, Mystery, Thriller",James Wan,Insidious,1
+324,Insidious: Chapter 2,13-09-2013,,https://www.imdb.com/title/tt2226417/,106.0,"Horror, Mystery, Thriller",James Wan,Insidious,2
+325,Insidious: Chapter 3,28-05-2015,,https://www.imdb.com/title/tt3195644/,97.0,"Horror, Mystery, Thriller",Leigh Whannell,Insidious,3
+326,Into the Blue,21-09-2005,,https://www.imdb.com/title/tt0378109/,110.0,"Action, Adventure, Crime, Thriller",John Stockwell,Into the Blue,1
+327,Iron Man,14-04-2008,,https://www.imdb.com/title/tt0371746/,126.0,"Action, Adventure, Sci-Fi",Jon Favreau,Iron Man,1
+328,Iron Man 2,26-04-2010,,https://www.imdb.com/title/tt1228705/,124.0,"Action, Adventure, Sci-Fi",Jon Favreau,Iron Man,2
+329,Iron Man Three,12-04-2013,,https://www.imdb.com/title/tt1300854/,130.0,"Action, Adventure, Sci-Fi",Shane Black,Iron Man,3
+330,It,05-09-2017,,https://www.imdb.com/title/tt1396484/,135.0,Horror,Andy Muschietti,It,1
+331,It Chapter Two,26-08-2019,,https://www.imdb.com/title/tt7349950/,169.0,"Drama, Fantasy, Horror",Andy Muschietti,It,2
+332,Jarhead,27-10-2005,,https://www.imdb.com/title/tt0418763/,125.0,"Action, Biography, Drama, War",Sam Mendes,Jarhead,1
+333,Jason Goes to Hell: The Final Friday,13-08-1993,,https://www.imdb.com/title/tt0107254/,87.0,"Fantasy, Horror, Thriller",Adam Marcus,Jason Goes to Hell,1
+334,Jeepers Creepers,20-07-2001,,https://www.imdb.com/title/tt0263488/,90.0,"Horror, Mystery",Victor Salva,Jeepers Creepers,1
+335,Jeepers Creepers 2,08-08-2003,,https://www.imdb.com/title/tt0301470/,106.0,Horror,Victor Salva,Jeepers Creepers,2
+336,Jeepers Creepers 3,26-09-2017,,https://www.imdb.com/title/tt1139592/,100.0,"Action, Horror, Mystery, Thriller",Victor Salva,Jeepers Creepers,3
+337,John Wick,19-09-2014,,https://www.imdb.com/title/tt2911666/,101.0,"Action, Crime, Thriller","David Leitch, Chad Stahelski",John Wick,1
+338,John Wick: Chapter 2,30-01-2017,,https://www.imdb.com/title/tt4425200/,122.0,"Action, Crime, Thriller",Chad Stahelski,John Wick,2
+339,John Wick: Chapter 3 - Parabellum,15-05-2019,,https://www.imdb.com/title/tt6146586/,130.0,"Action, Crime, Thriller",Chad Stahelski,John Wick,3
+340,John Wick: Chapter 4,27-05-2022,,https://www.imdb.com/title/tt10366206/,,"Action, Crime, Thriller",Chad Stahelski,John Wick,4
+341,Johnny English,06-04-2003,,https://www.imdb.com/title/tt0274166/,89.0,"Action, Adventure, Comedy",Peter Howitt,Johnny English,1
+342,Johnny English Reborn,15-09-2011,,https://www.imdb.com/title/tt1634122/,101.0,"Action, Adventure, Comedy, Crime",Oliver Parker,Johnny English,2
+343,Johnny English Strikes Again,13-09-2018,,https://www.imdb.com/title/tt6921996/,89.0,"Action, Adventure, Comedy",David Kerr,Johnny English,3
+344,Joy Ride,09-09-2001,,https://www.imdb.com/title/tt0206314/,97.0,"Mystery, Thriller",John Dahl,Joy Ride,1
+345,Jumper,06-02-2008,,https://www.imdb.com/title/tt0489099/,88.0,"Action, Adventure, Sci-Fi, Thriller",Doug Liman,Jumper,1
+346,Jurassic Park,09-06-1993,,https://www.imdb.com/title/tt0107290/,127.0,"Action, Adventure, Sci-Fi, Thriller",Steven Spielberg,Jurassic Park,1
+347,The Lost World: Jurassic Park,19-05-1997,,https://www.imdb.com/title/tt0119567/,129.0,"Action, Adventure, Sci-Fi",Steven Spielberg,Jurassic Park,2
+348,Jurassic Park III,16-07-2001,,https://www.imdb.com/title/tt0163025/,92.0,"Action, Adventure, Sci-Fi, Thriller",Joe Johnston,Jurassic Park,3
+349,Jurassic World,29-05-2015,,https://www.imdb.com/title/tt0369610/,124.0,"Action, Adventure, Sci-Fi",Colin Trevorrow,Jurassic Park,4
+352,Kick-Ass,12-03-2010,,https://www.imdb.com/title/tt1250777/,117.0,"Action, Comedy, Crime",Matthew Vaughn,Kick-Ass,1
+353,Kick-Ass 2,14-08-2013,,https://www.imdb.com/title/tt1650554/,103.0,"Action, Comedy, Crime, Thriller",Jeff Wadlow,Kick-Ass,2
+355,Kill Bill: Vol. 1,29-09-2003,,https://www.imdb.com/title/tt0266697/,111.0,"Action, Crime, Thriller",Quentin Tarantino,Kill Bill,1
+356,Kill Bill: Vol. 2,08-04-2004,,https://www.imdb.com/title/tt0378194/,137.0,"Action, Crime, Thriller",Quentin Tarantino,Kill Bill,2
+357,Kingsman: The Secret Service,13-12-2014,,https://www.imdb.com/title/tt2802144/,129.0,"Action, Adventure, Comedy, Thriller",Matthew Vaughn,Kingsman,1
+358,Kingsman: The Golden Circle,20-09-2017,,https://www.imdb.com/title/tt4649466/,141.0,"Action, Adventure, Comedy, Crime, Thriller",Matthew Vaughn,Kingsman,2
+359,Kung Fu Panda,15-05-2008,,https://www.imdb.com/title/tt0441773/,92.0,"Animation, Action, Adventure, Comedy, Family","Mark Osborne, John Stevenson",Kung Fu Panda,1
+360,Kung Fu Panda 2,22-05-2011,,https://www.imdb.com/title/tt1302011/,90.0,"Animation, Action, Adventure, Comedy, Family, Fantasy",Jennifer Yuh Nelson,Kung Fu Panda,2
+361,Land of the Dead,18-06-2005,,https://www.imdb.com/title/tt0418819/,93.0,"Horror, Sci-Fi, Thriller",George A. Romero,Land of the Dead,1
+362,Lara Croft: Tomb Raider,11-06-2001,,https://www.imdb.com/title/tt0146316/,100.0,"Action, Adventure, Fantasy, Thriller",Simon West,Lara Croft,1
+363,Lara Croft Tomb Raider: The Cradle of Life,21-07-2003,,https://www.imdb.com/title/tt0325703/,117.0,"Action, Adventure, Fantasy",Jan de Bont,Lara Croft,2
+364,The Lawnmower Man,06-03-1992,,https://www.imdb.com/title/tt0104692/,108.0,"Horror, Sci-Fi",Brett Leonard,Lawnmower Man,1
+365,Lawnmower Man 2: Beyond Cyberspace,12-01-1996,,https://www.imdb.com/title/tt0116839/,93.0,"Action, Sci-Fi, Thriller",Farhad Mann,Lawnmower Man,2
+366,Leatherface: Texas Chainsaw Massacre III,12-01-1990,,https://www.imdb.com/title/tt0099994/,85.0,"Horror, Thriller",Jeff Burr,Leatherface,1
+367,Legally Blonde,26-06-2001,,https://www.imdb.com/title/tt0250494/,96.0,"Comedy, Romance",Robert Luketic,Legally Blonde,1
+368,"Legally Blonde 2: Red, White & Blonde",30-06-2003,,https://www.imdb.com/title/tt0333780/,95.0,Comedy,Charles Herman-Wurmfeld,Legally Blonde,2
+369,Lethal Weapon,06-03-1987,,https://www.imdb.com/title/tt0093409/,109.0,"Action, Crime, Thriller",Richard Donner,Lethal Weapon,1
+370,Lethal Weapon 2,05-07-1989,,https://www.imdb.com/title/tt0097733/,114.0,"Action, Crime, Thriller",Richard Donner,Lethal Weapon,2
+371,Lethal Weapon 3,11-05-1992,,https://www.imdb.com/title/tt0104714/,118.0,"Action, Crime, Thriller",Richard Donner,Lethal Weapon,3
+372,Lethal Weapon 4,07-07-1998,,https://www.imdb.com/title/tt0122151/,127.0,"Action, Crime, Thriller",Richard Donner,Lethal Weapon,4
+373,Lilo & Stitch,16-06-2002,,https://www.imdb.com/title/tt0275847/,85.0,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi","Chris Sanders, Dean DeBlois",Lilo & Stitch,1
+374,Live Free or Die Hard,12-06-2007,,https://www.imdb.com/title/tt0337978/,128.0,"Action, Thriller",Len Wiseman,Live Free or Die Hard,1
+375,Look Who's Talking,12-10-1989,,https://www.imdb.com/title/tt0097778/,93.0,Comedy,Amy Heckerling,Look Who's Talking,1
+376,Look Who's Talking Too,14-12-1990,,https://www.imdb.com/title/tt0100050/,81.0,"Comedy, Family, Romance",Amy Heckerling,Look Who's Talking,2
+377,Look Who's Talking Now,15-01-1993,,https://www.imdb.com/title/tt0107438/,96.0,"Comedy, Family, Romance",Tom Ropelewski,Look Who's Talking,3
+381,Mad Max,12-04-1979,,https://www.imdb.com/title/tt0079501/,88.0,"Action, Adventure, Sci-Fi, Thriller",George Miller,Mad Max,1
+382,Mad Max 2,24-12-1981,,https://www.imdb.com/title/tt0082694/,96.0,"Action, Adventure, Sci-Fi, Thriller",George Miller,Mad Max,2
+383,Mad Max Beyond Thunderdome,29-06-1985,,https://www.imdb.com/title/tt0089530/,107.0,"Action, Adventure, Sci-Fi","George Ogilvie, George Miller",Mad Max,3
+384,Madagascar,25-05-2005,,https://www.imdb.com/title/tt0351283/,86.0,"Animation, Adventure, Comedy, Family","Tom McGrath, Eric Darnell",Madagascar,1
+385,Madagascar: Escape 2 Africa,30-10-2008,,https://www.imdb.com/title/tt0479952/,89.0,"Animation, Adventure, Comedy, Family","Tom McGrath, Eric Darnell",Madagascar,2
+386,Madagascar 3: Europe's Most Wanted,18-05-2012,,https://www.imdb.com/title/tt1277953/,95.0,"Animation, Adventure, Comedy, Family","Conrad Vernon, Tom McGrath, Eric Darnell",Madagascar,3
+387,Magic Mike,24-06-2012,,https://www.imdb.com/title/tt1915581/,110.0,"Comedy, Drama",Steven Soderbergh,Magic Mike,1
+388,Magic Mike XXL,01-07-2015,,https://www.imdb.com/title/tt2268016/,115.0,"Comedy, Drama, Music",Gregory Jacobs,Magic Mike,2
+389,Magnum Force,13-12-1973,,https://www.imdb.com/title/tt0070355/,124.0,"Action, Crime, Mystery, Thriller",Ted Post,Magnum Force,1
+390,Major League,07-04-1989,,https://www.imdb.com/title/tt0097815/,107.0,"Comedy, Sport",David S. Ward,Major League,1
+391,Major League II,30-03-1994,,https://www.imdb.com/title/tt0110442/,105.0,"Comedy, Sport",David S. Ward,Major League,2
+392,Major League: Back to the Minors,17-04-1998,,https://www.imdb.com/title/tt0120742/,100.0,"Comedy, Sport",John Warren,Major League,3
+393,Mamma Mia!,30-06-2008,,https://www.imdb.com/title/tt0795421/,108.0,"Comedy, Musical, Romance",Phyllida Lloyd,Mamma Mia!,1
+394,Mamma Mia! Here We Go Again,11-07-2018,,https://www.imdb.com/title/tt6911608/,114.0,"Comedy, Musical, Romance",Ol Parker,Mamma Mia!,2
+395,Man of Steel,10-06-2013,,https://www.imdb.com/title/tt0770828/,143.0,"Action, Adventure, Sci-Fi",Zack Snyder,Man of Steel,1
+396,Manhunter,15-08-1986,,https://www.imdb.com/title/tt0091474/,120.0,"Crime, Horror, Mystery, Thriller",Michael Mann,Manhunter,1
+397,Marley & Me,25-12-2008,,https://www.imdb.com/title/tt0822832/,111.0,"Comedy, Drama, Family",David Frankel,Marley & Me,1
+398,The Maze Runner,11-09-2014,,https://www.imdb.com/title/tt1790864/,113.0,"Action, Mystery, Sci-Fi, Thriller",Wes Ball,Maze Runner,1
+399,Maze Runner: The Scorch Trials,01-09-2015,,https://www.imdb.com/title/tt4046784/,131.0,"Action, Adventure, Sci-Fi, Thriller",Wes Ball,Maze Runner,2
+400,Maze Runner: The Death Cure,17-01-2018,,https://www.imdb.com/title/tt4500922/,143.0,"Action, Adventure, Sci-Fi, Thriller",Wes Ball,Maze Runner,3
+401,Megiddo: The Omega Code 2,07-09-2001,,https://www.imdb.com/title/tt0263728/,104.0,"Action, Adventure, Fantasy, Sci-Fi, Thriller",Brian Trenchard-Smith,Megiddo,1
+402,Men in Black,25-06-1997,,https://www.imdb.com/title/tt0119654/,98.0,"Action, Adventure, Comedy, Sci-Fi",Barry Sonnenfeld,Men in Black,1
+403,Men in Black II,03-07-2002,,https://www.imdb.com/title/tt0120912/,88.0,"Action, Adventure, Comedy, Mystery, Sci-Fi",Barry Sonnenfeld,Men in Black,2
+404,Men in Black 3,14-05-2012,,https://www.imdb.com/title/tt1409024/,106.0,"Action, Adventure, Comedy, Family, Sci-Fi",Barry Sonnenfeld,Men in Black,3
+405,Mimic,30-06-1997,,https://www.imdb.com/title/tt0119675/,105.0,"Horror, Sci-Fi",Guillermo del Toro,Mimic,1
+406,Mirrors,14-08-2008,,https://www.imdb.com/title/tt0790686/,110.0,"Horror, Mystery",Alexandre Aja,Mirrors,1
+407,Miss Congeniality,14-12-2000,,https://www.imdb.com/title/tt0212346/,109.0,"Action, Comedy, Crime, Romance",Donald Petrie,Miss Congeniality,1
+408,Miss Congeniality 2: Armed & Fabulous,11-03-2005,,https://www.imdb.com/title/tt0385307/,115.0,"Action, Comedy, Crime",John Pasquin,Miss Congeniality,2
+409,Mission: Impossible,20-05-1996,,https://www.imdb.com/title/tt0117060/,110.0,"Action, Adventure, Thriller",Brian De Palma,Mission,1
+410,Mission: Impossible II,18-05-2000,,https://www.imdb.com/title/tt0120755/,123.0,"Action, Adventure, Thriller",John Woo,Mission,2
+411,Mission: Impossible III,24-04-2006,,https://www.imdb.com/title/tt0317919/,126.0,"Action, Adventure, Thriller",J.J. Abrams,Mission,3
+412,Mission: Impossible - Ghost Protocol,07-12-2011,,https://www.imdb.com/title/tt1229238/,132.0,"Action, Adventure, Thriller",Brad Bird,Mission,4
+413,Mission: Impossible - Rogue Nation,23-07-2015,,https://www.imdb.com/title/tt2381249/,131.0,"Action, Adventure, Thriller",Christopher McQuarrie,Mission,5
+414,Mission: Impossible - Fallout,12-07-2018,,https://www.imdb.com/title/tt4912910/,147.0,"Action, Adventure, Thriller",Christopher McQuarrie,Mission,6
+417,Monsters,13-03-2010,,https://www.imdb.com/title/tt1470827/,94.0,"Adventure, Drama, Romance, Sci-Fi, Thriller",Gareth Edwards,Monsters,1
+418,Monsters: Dark Continent,26-09-2014,,https://www.imdb.com/title/tt1935302/,119.0,"Action, Drama, Horror, Sci-Fi, Thriller, War",Tom Green,Monsters,2
+419,Mulan,05-06-1998,,https://www.imdb.com/title/tt0120762/,88.0,"Animation, Adventure, Family, Fantasy, Musical, War","Tony Bancroft, Barry Cook",Mulan,1
+420,My Big Fat Greek Wedding,22-02-2002,,https://www.imdb.com/title/tt0259446/,95.0,"Comedy, Drama, Romance",Joel Zwick,My Big Fat Greek Wedding,1
+421,My Big Fat Greek Wedding 2,15-03-2016,,https://www.imdb.com/title/tt3760922/,94.0,"Comedy, Romance",Kirk Jones,My Big Fat Greek Wedding,2
+422,Nanny McPhee,21-10-2005,,https://www.imdb.com/title/tt0396752/,97.0,"Comedy, Family, Fantasy",Kirk Jones,Nanny McPhee,1
+423,Nanny McPhee and the Big Bang,24-03-2010,,https://www.imdb.com/title/tt1415283/,109.0,"Comedy, Family, Fantasy",Susanna White,Nanny McPhee,2
+425,National Treasure,08-11-2004,,https://www.imdb.com/title/tt0368891/,131.0,"Action, Adventure, Mystery, Thriller",Jon Turteltaub,National Treasure,1
+426,National Treasure: Book of Secrets,13-12-2007,,https://www.imdb.com/title/tt0465234/,124.0,"Action, Adventure, Family, Mystery, Thriller",Jon Turteltaub,National Treasure,2
+427,Night at the Museum,17-12-2006,,https://www.imdb.com/title/tt0477347/,108.0,"Adventure, Comedy, Family, Fantasy",Shawn Levy,Night at the Museum,1
+428,Night at the Museum: Battle of the Smithsonian,14-05-2009,,https://www.imdb.com/title/tt1078912/,105.0,"Adventure, Comedy, Family, Fantasy",Shawn Levy,Night at the Museum,2
+429,Nymphomaniac: Vol. I,25-12-2013,,https://www.imdb.com/title/tt1937390/,117.0,Drama,Lars von Trier,Nymphomaniac,1
+430,Nymphomaniac: Vol. II,25-12-2013,,https://www.imdb.com/title/tt2382009/,124.0,Drama,Lars von Trier,Nymphomaniac,2
+431,Ocean's Eleven,05-12-2001,,https://www.imdb.com/title/tt0240772/,116.0,"Crime, Thriller",Steven Soderbergh,Ocean's Eleven,1
+432,Ocean's Twelve,08-12-2004,,https://www.imdb.com/title/tt0349903/,125.0,"Crime, Thriller",Steven Soderbergh,Ocean's Eleven,2
+433,Ocean's Thirteen,24-05-2007,,https://www.imdb.com/title/tt0496806/,122.0,"Action, Crime, Thriller",Steven Soderbergh,Ocean's Eleven,3
+434,Olympus Has Fallen,18-03-2013,,https://www.imdb.com/title/tt2302755/,119.0,"Action, Thriller",Antoine Fuqua,Olympus Has Fallen,1
+435,London Has Fallen,01-03-2016,,https://www.imdb.com/title/tt3300542/,99.0,"Action, Thriller",Babak Najafi,Olympus Has Fallen,2
+436,Open Season,27-09-2006,,https://www.imdb.com/title/tt0400717/,86.0,"Animation, Adventure, Comedy, Family, Fantasy","Anthony Stacchi, Jill Culton, Roger Allers",Open Season,1
+437,Open Season 3,21-10-2010,,https://www.imdb.com/title/tt1646926/,75.0,"Animation, Adventure, Comedy, Family",Cody Cameron,Open Season,2
+438,Paddington,23-11-2014,,https://www.imdb.com/title/tt1109624/,95.0,"Adventure, Comedy, Family, Fantasy",Paul King,Paddington,1
+439,Paddington 2,05-11-2017,,https://www.imdb.com/title/tt4468740/,103.0,"Adventure, Comedy, Family, Fantasy",Paul King,Paddington,2
+441,Paranormal Activity,14-10-2007,,https://www.imdb.com/title/tt1179904/,86.0,"Horror, Mystery, Thriller",Oren Peli,Paranormal Activity,1
+442,Paranormal Activity 2,20-10-2010,,https://www.imdb.com/title/tt1536044/,91.0,Horror,Tod Williams,Paranormal Activity,2
+443,Paranormal Activity 3,14-10-2011,,https://www.imdb.com/title/tt1778304/,83.0,"Horror, Mystery, Thriller","Henry Joost, Ariel Schulman",Paranormal Activity,3
+444,Paranormal Activity 4,16-10-2012,,https://www.imdb.com/title/tt2109184/,88.0,"Horror, Mystery, Thriller","Henry Joost, Ariel Schulman",Paranormal Activity,4
+445,Paul Blart: Mall Cop,06-01-2009,,https://www.imdb.com/title/tt1114740/,91.0,"Action, Comedy, Crime, Family",Steve Carr,Paul Blart,1
+446,Paul Blart: Mall Cop 2,09-04-2015,,https://www.imdb.com/title/tt3450650/,94.0,"Action, Comedy, Crime, Family",Andy Fickman,Paul Blart,2
+447,Pet Sematary,21-04-1989,,https://www.imdb.com/title/tt0098084/,103.0,"Horror, Thriller",Mary Lambert,Pet Sematary,1
+448,Pet Sematary II,28-08-1992,,https://www.imdb.com/title/tt0105128/,100.0,"Fantasy, Horror",Mary Lambert,Pet Sematary,2
+449,Piranha 3D,20-08-2010,,https://www.imdb.com/title/tt0464154/,88.0,"Comedy, Horror",Alexandre Aja,Piranha 3D,1
+450,Piranha 3DD,11-05-2012,,https://www.imdb.com/title/tt1714203/,83.0,"Comedy, Horror",John Gulager,Piranha 3D,2
+451,Pirates of the Caribbean: The Curse of the Black Pearl,28-06-2003,,https://www.imdb.com/title/tt0325980/,143.0,"Action, Adventure, Fantasy",Gore Verbinski,Pirates of the Caribbean,1
+452,Pirates of the Caribbean: Dead Man's Chest,24-06-2006,,https://www.imdb.com/title/tt0383574/,151.0,"Action, Adventure, Fantasy",Gore Verbinski,Pirates of the Caribbean,2
+453,Pirates of the Caribbean: At World's End,19-05-2007,,https://www.imdb.com/title/tt0449088/,169.0,"Action, Adventure, Fantasy",Gore Verbinski,Pirates of the Caribbean,3
+454,Pirates of the Caribbean: On Stranger Tides,07-05-2011,,https://www.imdb.com/title/tt1298650/,137.0,"Action, Adventure, Fantasy",Rob Marshall,Pirates of the Caribbean,4
+455,Pitch Black,18-02-2000,,https://www.imdb.com/title/tt0134847/,109.0,"Action, Horror, Sci-Fi",David Twohy,Pitch Black,1
+456,Planet of the Apes,08-02-1968,,https://www.imdb.com/title/tt0063442/,112.0,"Adventure, Sci-Fi",Franklin J. Schaffner,Planet of the Apes,1
+457,Police Academy,23-03-1984,,https://www.imdb.com/title/tt0087928/,96.0,Comedy,Hugh Wilson,Police Academy,1
+458,Police Academy 2: Their First Assignment,29-03-1985,,https://www.imdb.com/title/tt0089822/,87.0,Comedy,"James Signorelli, Jerry Paris",Police Academy,2
+459,Police Academy 3: Back in Training,21-03-1986,,https://www.imdb.com/title/tt0091777/,83.0,Comedy,Jerry Paris,Police Academy,3
+460,Police Academy 4: Citizens on Patrol,03-04-1987,,https://www.imdb.com/title/tt0093756/,88.0,"Comedy, Crime",Jim Drake,Police Academy,4
+461,Police Academy 5: Assignment: Miami Beach,18-03-1988,,https://www.imdb.com/title/tt0095882/,90.0,"Comedy, Crime",Alan Myerson,Police Academy,5
+462,Police Academy 6: City Under Siege,10-03-1989,,https://www.imdb.com/title/tt0098105/,84.0,"Comedy, Crime",Peter Bonerz,Police Academy,6
+463,Police Academy: Mission to Moscow,10-06-1994,,https://www.imdb.com/title/tt0110857/,83.0,"Comedy, Crime",Alan Metter,Police Academy,7
+464,Poltergeist,04-06-1982,,https://www.imdb.com/title/tt0084516/,114.0,"Horror, Thriller",Tobe Hooper,Poltergeist,1
+465,Poltergeist II: The Other Side,23-05-1986,,https://www.imdb.com/title/tt0091778/,91.0,Horror,Brian Gibson,Poltergeist,2
+466,Poltergeist III,10-06-1988,,https://www.imdb.com/title/tt0095889/,98.0,"Horror, Thriller",Gary Sherman,Poltergeist,3
+467,Predator,12-06-1987,,https://www.imdb.com/title/tt0093773/,107.0,"Action, Adventure, Sci-Fi, Thriller",John McTiernan,Predator,1
+468,Predator 2,19-11-1990,,https://www.imdb.com/title/tt0100403/,108.0,"Action, Horror, Sci-Fi",Stephen Hopkins,Predator,2
+469,Predators,07-07-2010,,https://www.imdb.com/title/tt1424381/,107.0,"Action, Adventure, Sci-Fi, Thriller",Nimród Antal,Predator,3
+470,Prometheus,11-04-2012,,https://www.imdb.com/title/tt1446714/,124.0,"Adventure, Mystery, Sci-Fi",Ridley Scott,Prometheus,1
+471,Psycho,16-06-1960,,https://www.imdb.com/title/tt0054215/,109.0,"Horror, Mystery, Thriller",Alfred Hitchcock,Psycho,1
+472,Psycho II,03-06-1983,,https://www.imdb.com/title/tt0086154/,113.0,"Crime, Horror, Mystery, Thriller",Richard Franklin,Psycho,2
+473,Quarantine,10-10-2008,,https://www.imdb.com/title/tt1082868/,89.0,"Action, Horror, Sci-Fi, Thriller",John Erick Dowdle,Quarantine,1
+474,Quarantine 2: Terminal,27-01-2011,,https://www.imdb.com/title/tt1699231/,86.0,"Action, Horror, Sci-Fi, Thriller",John Pogue,Quarantine,2
+475,RED,29-09-2010,,https://www.imdb.com/title/tt1245526/,111.0,"Action, Comedy, Crime, Thriller",Robert Schwentke,RED,1
+476,RED 2,18-07-2013,,https://www.imdb.com/title/tt1821694/,116.0,"Action, Adventure, Comedy, Crime, Thriller",Dean Parisot,RED,2
+477,Raiders of the Lost Ark,12-06-1981,,https://www.imdb.com/title/tt0082971/,115.0,"Action, Adventure",Steven Spielberg,Raiders of the Lost Ark,1
+478,Rambo: First Blood Part II,22-05-1985,,https://www.imdb.com/title/tt0089880/,96.0,"Action, Adventure, Thriller",George P. Cosmatos,Rambo,1
+479,Rambo III,25-05-1988,,https://www.imdb.com/title/tt0095956/,102.0,"Action, Adventure",Peter MacDonald,Rambo,2
+480,Rambo,23-01-2008,,https://www.imdb.com/title/tt0462499/,92.0,"Action, Thriller, War",Sylvester Stallone,Rambo,3
+481,Red Dragon,30-09-2002,,https://www.imdb.com/title/tt0289765/,124.0,"Crime, Drama, Thriller",Brett Ratner,Red Dragon,1
+482,Resident Evil,12-03-2002,,https://www.imdb.com/title/tt0120804/,100.0,"Action, Horror, Sci-Fi",Paul W.S. Anderson,Resident Evil,1
+483,Resident Evil: Apocalypse,23-08-2004,,https://www.imdb.com/title/tt0318627/,94.0,"Action, Horror, Sci-Fi, Thriller",Alexander Witt,Resident Evil,2
+484,Resident Evil: Extinction,20-09-2007,,https://www.imdb.com/title/tt0432021/,94.0,"Action, Horror, Sci-Fi, Thriller",Russell Mulcahy,Resident Evil,3
+485,Resident Evil: Afterlife,02-09-2010,,https://www.imdb.com/title/tt1220634/,96.0,"Action, Adventure, Horror, Sci-Fi, Thriller",Paul W.S. Anderson,Resident Evil,4
+486,Resident Evil: Retribution,03-09-2012,,https://www.imdb.com/title/tt1855325/,95.0,"Action, Horror, Sci-Fi, Thriller",Paul W.S. Anderson,Resident Evil,5
+487,Ride Along,17-01-2014,,https://www.imdb.com/title/tt1408253/,99.0,"Action, Comedy, Crime",Tim Story,Ride Along,1
+488,Ride Along 2,06-01-2016,,https://www.imdb.com/title/tt2869728/,102.0,"Action, Comedy, Crime",Tim Story,Ride Along,2
+489,Rio,22-03-2011,,https://www.imdb.com/title/tt1436562/,96.0,"Animation, Adventure, Comedy, Crime, Family, Musical",Carlos Saldanha,Rio,1
+490,Rio 2,20-03-2014,,https://www.imdb.com/title/tt2357291/,101.0,"Animation, Adventure, Comedy, Family, Musical",Carlos Saldanha,Rio,2
+491,Ripley's Game,02-09-2002,,https://www.imdb.com/title/tt0265651/,110.0,"Crime, Drama, Mystery, Thriller",Liliana Cavani,Ripley's Game,1
+492,Ripley Under Ground,06-11-2005,,https://www.imdb.com/title/tt0219171/,101.0,"Crime, Drama, Thriller",Roger Spottiswoode,Ripley's Game,2
+493,Rise of the Planet of the Apes,28-07-2011,,https://www.imdb.com/title/tt1318514/,105.0,"Action, Drama, Sci-Fi, Thriller",Rupert Wyatt,Rise of the Planet of the Apes,1
+494,RoboCop,17-07-1987,,https://www.imdb.com/title/tt0093870/,102.0,"Action, Crime, Sci-Fi, Thriller",Paul Verhoeven,RoboCop,1
+495,RoboCop 2,22-06-1990,,https://www.imdb.com/title/tt0100502/,117.0,"Action, Crime, Sci-Fi, Thriller",Irvin Kershner,RoboCop,2
+496,RoboCop 3,01-05-1993,,https://www.imdb.com/title/tt0107978/,104.0,"Action, Crime, Sci-Fi, Thriller",Fred Dekker,RoboCop,3
+497,Rocky,20-11-1976,,https://www.imdb.com/title/tt0075148/,120.0,"Drama, Sport",John G. Avildsen,Rocky,1
+498,Rocky II,14-06-1979,,https://www.imdb.com/title/tt0079817/,119.0,"Drama, Sport",Sylvester Stallone,Rocky,2
+499,Rocky III,24-05-1982,,https://www.imdb.com/title/tt0084602/,99.0,"Drama, Sport",Sylvester Stallone,Rocky,3
+500,Rocky IV,21-11-1985,,https://www.imdb.com/title/tt0089927/,91.0,"Drama, Sport",Sylvester Stallone,Rocky,4
+501,Rocky V,13-11-1990,,https://www.imdb.com/title/tt0100507/,104.0,"Drama, Sport",John G. Avildsen,Rocky,5
+502,Rocky Balboa,13-12-2006,,https://www.imdb.com/title/tt0479143/,102.0,"Action, Drama, Sport",Sylvester Stallone,Rocky,6
+503,Romancing the Stone,24-03-1984,,https://www.imdb.com/title/tt0088011/,106.0,"Action, Adventure, Comedy, Romance",Robert Zemeckis,Romancing the Stone,1
+505,Rush Hour,18-09-1998,,https://www.imdb.com/title/tt0120812/,98.0,"Action, Comedy, Crime, Thriller",Brett Ratner,Rush Hour,1
+506,Rush Hour 2,26-07-2001,,https://www.imdb.com/title/tt0266915/,90.0,"Action, Comedy, Crime, Thriller",Brett Ratner,Rush Hour,2
+507,Rush Hour 3,30-07-2007,,https://www.imdb.com/title/tt0293564/,91.0,"Action, Comedy, Crime, Thriller",Brett Ratner,Rush Hour,3
+508,S.W.A.T.,08-08-2003,,https://www.imdb.com/title/tt0257076/,117.0,"Action, Adventure, Crime, Thriller",Clark Johnson,S.W.A.T.,1
+509,Save the Last Dance,09-01-2001,,https://www.imdb.com/title/tt0206275/,112.0,"Drama, Music, Romance",Thomas Carter,Save the Last Dance,1
+510,Saw,19-01-2004,,https://www.imdb.com/title/tt0387564/,103.0,"Horror, Mystery",James Wan,Saw,1
+511,Saw II,28-10-2005,,https://www.imdb.com/title/tt0432348/,93.0,"Horror, Mystery",Darren Lynn Bousman,Saw,2
+512,Saw III,26-10-2006,,https://www.imdb.com/title/tt0489270/,108.0,"Horror, Mystery, Thriller",Darren Lynn Bousman,Saw,3
+513,Saw IV,25-10-2007,,https://www.imdb.com/title/tt0890870/,93.0,"Horror, Mystery, Thriller",Darren Lynn Bousman,Saw,4
+514,Saw V,23-10-2008,,https://www.imdb.com/title/tt1132626/,92.0,"Horror, Mystery",David Hackl,Saw,5
+515,Saw VI,22-10-2009,,https://www.imdb.com/title/tt1233227/,90.0,"Fantasy, Horror, Mystery",Kevin Greutert,Saw,6
+516,Saw 3D,22-10-2010,,https://www.imdb.com/title/tt1477076/,90.0,"Fantasy, Horror, Mystery",Kevin Greutert,Saw,7
+517,Scary Movie,07-07-2000,,https://www.imdb.com/title/tt0175142/,88.0,Comedy,Keenen Ivory Wayans,Scary Movie,1
+518,Scary Movie 2,04-07-2001,,https://www.imdb.com/title/tt0257106/,83.0,"Comedy, Horror",Keenen Ivory Wayans,Scary Movie,2
+519,Scary Movie 3,20-10-2003,,https://www.imdb.com/title/tt0306047/,84.0,"Comedy, Horror",David Zucker,Scary Movie,3
+520,Scary Movie 4,12-04-2006,,https://www.imdb.com/title/tt0362120/,83.0,"Comedy, Horror",David Zucker,Scary Movie,4
+521,Scary Movie 5,11-04-2013,,https://www.imdb.com/title/tt0795461/,88.0,"Comedy, Horror","Malcolm D. Lee, David Zucker",Scary Movie,5
+522,Scooby-Doo,08-06-2002,,https://www.imdb.com/title/tt0267913/,89.0,"Adventure, Comedy, Family, Fantasy, Mystery",Raja Gosnell,Scooby-Doo,1
+523,Scooby-Doo 2: Monsters Unleashed,20-03-2004,,https://www.imdb.com/title/tt0331632/,93.0,"Adventure, Comedy, Family, Fantasy, Horror, Mystery, Sci-Fi",Raja Gosnell,Scooby-Doo,2
+524,Scream,18-12-1996,,https://www.imdb.com/title/tt0117571/,111.0,"Horror, Mystery",Wes Craven,Scream,1
+525,Scream 2,10-12-1997,,https://www.imdb.com/title/tt0120082/,120.0,"Horror, Mystery",Wes Craven,Scream,2
+526,Scream 3,03-02-2000,,https://www.imdb.com/title/tt0134084/,116.0,"Horror, Mystery",Wes Craven,Scream,3
+527,Scream 4,11-04-2011,,https://www.imdb.com/title/tt1262416/,111.0,"Horror, Mystery",Wes Craven,Scream,4
+528,Screamers,08-09-1995,,https://www.imdb.com/title/tt0114367/,108.0,"Horror, Sci-Fi, Thriller",Christian Duguay,Screamers,1
+529,Secret of the Wings,16-08-2012,,https://www.imdb.com/title/tt1217213/,75.0,"Animation, Family, Fantasy","Roberts Gannaway, Peggy Holmes",Secret of the Wings,1
+530,Serbuan maut,08-09-2011,,https://www.imdb.com/title/tt1899353/,101.0,"Action, Thriller",Gareth Evans,Serbuan maut,1
+531,Serbuan maut 2: Berandal,21-01-2014,,https://www.imdb.com/title/tt2265171/,150.0,"Action, Crime, Thriller",Gareth Evans,Serbuan maut,2
+532,Sex and the City,12-05-2008,,https://www.imdb.com/title/tt1000774/,145.0,"Comedy, Drama, Romance",Michael Patrick King,Sex and the City,1
+533,Shanghai Noon,19-05-2000,,https://www.imdb.com/title/tt0184894/,110.0,"Action, Adventure, Comedy, Western",Tom Dey,Shanghai Noon,1
+534,Shanghai Knights,30-01-2003,,https://www.imdb.com/title/tt0300471/,114.0,"Action, Adventure, Comedy",David Dobkin,Shanghai Noon,2
+535,Sherlock Holmes,14-12-2009,,https://www.imdb.com/title/tt0988045/,128.0,"Action, Adventure, Mystery",Guy Ritchie,Sherlock Holmes,1
+536,Sherlock Holmes: A Game of Shadows,10-12-2011,,https://www.imdb.com/title/tt1515091/,129.0,"Action, Adventure, Mystery",Guy Ritchie,Sherlock Holmes,2
+537,Short Circuit,09-05-1986,,https://www.imdb.com/title/tt0091949/,98.0,"Comedy, Family, Sci-Fi",John Badham,Short Circuit,1
+538,Short Circuit 2,06-07-1988,,https://www.imdb.com/title/tt0096101/,110.0,"Comedy, Drama, Family, Sci-Fi",Kenneth Johnson,Short Circuit,2
+539,Shrek,22-04-2001,,https://www.imdb.com/title/tt0126029/,90.0,"Animation, Adventure, Comedy, Family, Fantasy","Vicky Jenson, Andrew Adamson",Shrek,1
+540,Shrek 2,08-05-2004,,https://www.imdb.com/title/tt0298148/,93.0,"Animation, Adventure, Comedy, Family, Fantasy, Romance","Conrad Vernon, Kelly Asbury, Andrew Adamson",Shrek,2
+541,Shrek the Third,06-05-2007,,https://www.imdb.com/title/tt0413267/,93.0,"Animation, Adventure, Comedy, Family, Fantasy","Chris Miller, Raman Hui",Shrek,3
+542,Shrek Forever After,21-04-2010,,https://www.imdb.com/title/tt0892791/,93.0,"Animation, Adventure, Comedy, Family, Fantasy, Romance",Mike Mitchell,Shrek,4
+543,Sin City,28-03-2005,,https://www.imdb.com/title/tt0401792/,124.0,"Crime, Thriller","Frank Miller, Quentin Tarantino, Robert Rodriguez",Sin City,1
+544,Sin City: A Dame to Kill For,19-08-2014,,https://www.imdb.com/title/tt0458481/,102.0,"Action, Crime, Thriller","Frank Miller, Robert Rodriguez",Sin City,2
+545,Smokin' Aces,09-12-2006,,https://www.imdb.com/title/tt0475394/,109.0,"Action, Comedy, Crime, Drama, Thriller",Joe Carnahan,Smokin' Aces,1
+546,Sniper,29-01-1993,,https://www.imdb.com/title/tt0108171/,98.0,"Action, Thriller, War",Luis Llosa,Sniper,1
+547,Species,07-07-1995,,https://www.imdb.com/title/tt0114508/,108.0,"Action, Horror, Sci-Fi, Thriller",Roger Donaldson,Species,1
+548,Species II,10-04-1998,,https://www.imdb.com/title/tt0120841/,93.0,"Action, Horror, Sci-Fi, Thriller",Peter Medak,Species,2
+549,Speed,07-06-1994,,https://www.imdb.com/title/tt0111257/,116.0,"Action, Adventure, Thriller",Jan de Bont,Speed,1
+550,Speed 2: Cruise Control,13-06-1997,,https://www.imdb.com/title/tt0120179/,121.0,"Action, Adventure, Crime, Romance, Thriller",Jan de Bont,Speed,2
+551,Spider-Man,30-04-2002,,https://www.imdb.com/title/tt0145487/,121.0,"Action, Adventure, Sci-Fi",Sam Raimi,Spider-Man,1
+552,Spider-Man 2,25-06-2004,,https://www.imdb.com/title/tt0316654/,127.0,"Action, Adventure, Sci-Fi",Sam Raimi,Spider-Man,2
+553,Spider-Man 3,03-04-2007,,https://www.imdb.com/title/tt0413300/,139.0,"Action, Adventure, Sci-Fi",Sam Raimi,Spider-Man,3
+554,Spider-Man: Homecoming,28-06-2017,,https://www.imdb.com/title/tt2250912/,133.0,"Action, Adventure, Sci-Fi",Jon Watts,Spider-Man,4
+555,Spider-Man: Far from Home,26-06-2019,,https://www.imdb.com/title/tt6320628/,129.0,"Action, Adventure, Sci-Fi",Jon Watts,Spider-Man,5
+556,Split,26-09-2016,,https://www.imdb.com/title/tt4972582/,117.0,"Horror, Thriller",M. Night Shyamalan,Split,1
+557,Spy Kids,18-03-2001,,https://www.imdb.com/title/tt0227538/,88.0,"Action, Adventure, Comedy, Family, Sci-Fi",Robert Rodriguez,Spy Kids,1
+558,Spy Kids 2: Island of Lost Dreams,07-08-2002,,https://www.imdb.com/title/tt0287717/,100.0,"Action, Adventure, Comedy, Family, Sci-Fi",Robert Rodriguez,Spy Kids,2
+559,Spy Kids 3: Game Over,13-07-2003,,https://www.imdb.com/title/tt0338459/,84.0,"Action, Adventure, Comedy, Family, Sci-Fi",Robert Rodriguez,Spy Kids,3
+560,Spy Kids 4: All the Time in the World,18-08-2011,,https://www.imdb.com/title/tt1517489/,89.0,"Action, Adventure, Comedy, Family, Sci-Fi",Robert Rodriguez,Spy Kids,4
+562,Star Trek: The Motion Picture,06-12-1979,,https://www.imdb.com/title/tt0079945/,132.0,"Adventure, Mystery, Sci-Fi",Robert Wise,Star Trek,1
+563,Star Trek II: The Wrath of Khan,04-06-1982,,https://www.imdb.com/title/tt0084726/,113.0,"Action, Adventure, Sci-Fi",Nicholas Meyer,Star Trek,2
+564,Star Trek III: The Search for Spock,01-06-1984,,https://www.imdb.com/title/tt0088170/,105.0,"Action, Adventure, Sci-Fi",Leonard Nimoy,Star Trek,3
+565,Star Trek IV: The Voyage Home,21-11-1986,,https://www.imdb.com/title/tt0092007/,119.0,"Adventure, Comedy, Sci-Fi",Leonard Nimoy,Star Trek,4
+566,Star Trek V: The Final Frontier,09-06-1989,,https://www.imdb.com/title/tt0098382/,107.0,"Action, Adventure, Fantasy, Sci-Fi, Thriller",William Shatner,Star Trek,5
+567,Star Trek VI: The Undiscovered Country,03-12-1991,,https://www.imdb.com/title/tt0102975/,110.0,"Action, Adventure, Sci-Fi, Thriller",Nicholas Meyer,Star Trek,6
+568,Star Trek: Generations,17-11-1994,,https://www.imdb.com/title/tt0111280/,118.0,"Action, Adventure, Mystery, Sci-Fi, Thriller",David Carson,Star Trek,7
+569,Star Trek: First Contact,18-11-1996,,https://www.imdb.com/title/tt0117731/,111.0,"Action, Adventure, Drama, Sci-Fi, Thriller",Jonathan Frakes,Star Trek,8
+570,Star Trek: Insurrection,10-12-1998,,https://www.imdb.com/title/tt0120844/,103.0,"Action, Adventure, Sci-Fi, Thriller",Jonathan Frakes,Star Trek,9
+571,Star Trek: Nemesis,09-12-2002,,https://www.imdb.com/title/tt0253754/,116.0,"Action, Adventure, Sci-Fi, Thriller",Stuart Baird,Star Trek,10
+572,Star Trek,06-04-2009,,https://www.imdb.com/title/tt0796366/,127.0,"Action, Adventure, Sci-Fi",J.J. Abrams,Star Trek,11
+573,Star Trek Into Darkness,02-05-2013,,https://www.imdb.com/title/tt1408101/,132.0,"Action, Adventure, Sci-Fi",J.J. Abrams,Star Trek,12
+574,Star Trek Beyond,20-07-2016,,https://www.imdb.com/title/tt2660888/,122.0,"Action, Adventure, Sci-Fi, Thriller",Justin Lin,Star Trek,13
+575,Star Wars,25-05-1977,,https://www.imdb.com/title/tt0076759/,121.0,"Action, Adventure, Fantasy, Sci-Fi",George Lucas,Star Wars,1
+576,Star Wars: Episode V - The Empire Strikes Back,17-05-1980,,https://www.imdb.com/title/tt0080684/,124.0,"Action, Adventure, Fantasy, Sci-Fi",Irvin Kershner,Star Wars,2
+577,Star Wars: Episode VI - Return of the Jedi,25-05-1983,,https://www.imdb.com/title/tt0086190/,131.0,"Action, Adventure, Fantasy, Sci-Fi",Richard Marquand,Star Wars,3
+578,Star Wars: Episode I - The Phantom Menace,16-05-1999,,https://www.imdb.com/title/tt0120915/,136.0,"Action, Adventure, Fantasy, Sci-Fi",George Lucas,Star Wars,4
+579,Star Wars: Episode II - Attack of the Clones,12-05-2002,,https://www.imdb.com/title/tt0121765/,142.0,"Action, Adventure, Fantasy, Sci-Fi",George Lucas,Star Wars,5
+580,Star Wars: Episode III - Revenge of the Sith,12-05-2005,,https://www.imdb.com/title/tt0121766/,140.0,"Action, Adventure, Fantasy, Sci-Fi",George Lucas,Star Wars,6
+581,Starship Troopers,04-11-1997,,https://www.imdb.com/title/tt0120201/,129.0,"Action, Adventure, Sci-Fi, Thriller",Paul Verhoeven,Starship Troopers,1
+582,Step Up,07-08-2006,,https://www.imdb.com/title/tt0462590/,104.0,"Crime, Drama, Music, Romance",Anne Fletcher,Step Up,1
+583,Step Up 2: The Streets,14-02-2008,,https://www.imdb.com/title/tt1023481/,98.0,"Drama, Music, Romance",Jon M. Chu,Step Up,2
+584,Step Up 3D,04-08-2010,,https://www.imdb.com/title/tt1193631/,107.0,"Drama, Music, Romance",Jon M. Chu,Step Up,3
+585,Step Up Revolution,26-07-2012,,https://www.imdb.com/title/tt1800741/,99.0,"Drama, Music, Romance",Scott Speer,Step Up,4
+586,Street Kings,03-04-2008,,https://www.imdb.com/title/tt0421073/,109.0,"Action, Crime, Drama, Thriller",David Ayer,Street Kings,1
+587,Sudden Impact,08-12-1983,,https://www.imdb.com/title/tt0086383/,117.0,"Action, Crime, Thriller",Clint Eastwood,Sudden mpact,1
+588,Superman,10-12-1978,,https://www.imdb.com/title/tt0078346/,143.0,"Action, Adventure, Drama, Sci-Fi",Richard Donner,Superman,1
+589,Superman II,04-12-1980,,https://www.imdb.com/title/tt0081573/,127.0,"Action, Adventure, Sci-Fi","Richard Donner, Richard Lester",Superman,2
+590,Superman III,17-06-1983,,https://www.imdb.com/title/tt0086393/,125.0,"Action, Adventure, Comedy, Sci-Fi",Richard Lester,Superman,3
+591,Superman IV: The Quest for Peace,23-07-1987,,https://www.imdb.com/title/tt0094074/,90.0,"Action, Adventure, Family, Sci-Fi",Sidney J. Furie,Superman,4
+592,Superman Returns,21-06-2006,,https://www.imdb.com/title/tt0348150/,154.0,"Action, Sci-Fi",Bryan Singer,Superman Returns,1
+593,Taken,27-02-2008,,https://www.imdb.com/title/tt0936501/,90.0,"Action, Thriller",Pierre Morel,Taken,1
+594,Taken 2,07-09-2012,,https://www.imdb.com/title/tt1397280/,92.0,"Action, Thriller",Olivier Megaton,Taken,2
+595,Taken 3,16-12-2014,,https://www.imdb.com/title/tt2446042/,108.0,"Action, Thriller",Olivier Megaton,Taken,3
+596,Taxi,08-04-1998,,https://www.imdb.com/title/tt0152930/,86.0,"Action, Comedy, Crime",Gérard Pirès,Taxi,1
+597,Taxi 2,25-03-2000,,https://www.imdb.com/title/tt0183869/,88.0,"Action, Comedy, Crime",Gérard Krawczyk,Taxi,2
+598,Taxi 3,29-01-2003,,https://www.imdb.com/title/tt0295721/,84.0,"Action, Comedy, Crime",Gérard Krawczyk,Taxi,3
+599,Taxi 4,14-02-2007,,https://www.imdb.com/title/tt0804540/,91.0,"Action, Comedy, Crime, Family",Gérard Krawczyk,Taxi,4
+600,Ted,29-06-2012,,https://www.imdb.com/title/tt1637725/,106.0,Comedy,Seth MacFarlane,Ted,1
+601,Ted 2,25-06-2015,,https://www.imdb.com/title/tt2637276/,115.0,Comedy,Seth MacFarlane,Ted,2
+602,Teenage Mutant Ninja Turtles,03-08-2014,,https://www.imdb.com/title/tt1291150/,101.0,"Action, Adventure, Comedy, Sci-Fi",Jonathan Liebesman,Teenage Mutant Ninja Turtles,1
+603,Teenage Mutant Ninja Turtles: Out of the Shadows,22-05-2016,,https://www.imdb.com/title/tt3949660/,112.0,"Action, Adventure, Comedy, Sci-Fi",Dave Green,Teenage Mutant Ninja Turtles,2
+604,The Terminator,26-10-1984,,https://www.imdb.com/title/tt0088247/,107.0,"Action, Sci-Fi",James Cameron,Terminator,1
+605,Terminator 2: Judgment Day,01-07-1991,,https://www.imdb.com/title/tt0103064/,137.0,"Action, Sci-Fi",James Cameron,Terminator,2
+606,Terminator 3: Rise of the Machines,30-06-2003,,https://www.imdb.com/title/tt0181852/,109.0,"Action, Sci-Fi",Jonathan Mostow,Terminator,3
+607,Terminator Salvation,14-05-2009,,https://www.imdb.com/title/tt0438488/,115.0,"Action, Adventure, Sci-Fi",McG,Terminator,4
+608,Terms of Endearment,20-11-1983,,https://www.imdb.com/title/tt0086425/,132.0,"Comedy, Drama",James L. Brooks,Terms of Endearment,1
+609,The Addams Family,19-11-1991,,https://www.imdb.com/title/tt0101272/,99.0,"Comedy, Fantasy",Barry Sonnenfeld,The Addams Family,1
+610,The Amazing Spider-Man,13-06-2012,,https://www.imdb.com/title/tt0948470/,136.0,"Action, Adventure, Sci-Fi",Marc Webb,The Amazing Spider-Man,1
+611,The Amazing Spider-Man 2,10-04-2014,,https://www.imdb.com/title/tt1872181/,142.0,"Action, Adventure, Sci-Fi",Marc Webb,The Amazing Spider-Man,2
+612,The Arrival,05-03-1996,,https://www.imdb.com/title/tt0115571/,115.0,"Sci-Fi, Thriller",David Twohy,The Arrival,1
+613,The Second Arrival,06-11-1998,,https://www.imdb.com/title/tt0122961/,101.0,"Drama, Horror, Sci-Fi, Thriller",Kevin Tenney,The Arrival,2
+614,The Avengers,11-04-2012,,https://www.imdb.com/title/tt0848228/,143.0,"Action, Adventure, Sci-Fi",Joss Whedon,The Avengers,1
+615,Avengers: Age of Ultron,13-04-2015,,https://www.imdb.com/title/tt2395427/,141.0,"Action, Adventure, Sci-Fi",Joss Whedon,The Avengers,2
+616,Avengers: Infinity War,23-04-2018,,https://www.imdb.com/title/tt4154756/,149.0,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo",The Avengers,3
+617,Avengers: Endgame,22-04-2019,,https://www.imdb.com/title/tt4154796/,181.0,"Action, Adventure, Drama, Sci-Fi","Anthony Russo, Joe Russo",The Avengers,4
+618,The Best Exotic Marigold Hotel,30-11-2011,,https://www.imdb.com/title/tt1412386/,124.0,"Comedy, Drama, Romance",John Madden,The Best Exotic Marigold Hotel,1
+620,The Best Man,02-09-1999,,https://www.imdb.com/title/tt0168501/,120.0,"Comedy, Drama, Romance",Malcolm D. Lee,The Best Man,1
+621,The Best Man Holiday,15-11-2013,,https://www.imdb.com/title/tt2083355/,123.0,"Comedy, Drama",Malcolm D. Lee,The Best Man,2
+622,The Boondock Saints,04-08-1999,,https://www.imdb.com/title/tt0144117/,108.0,"Action, Crime, Thriller",Troy Duffy,The Boondock Saints,1
+623,The Boondock Saints II: All Saints Day,19-10-2009,,https://www.imdb.com/title/tt1300851/,118.0,"Action, Crime, Thriller",Troy Duffy,The Boondock Saints,2
+624,The Bourne Identity,06-06-2002,,https://www.imdb.com/title/tt0258463/,119.0,"Action, Mystery, Thriller",Doug Liman,The Bourne Identity,1
+625,The Bourne Supremacy,16-07-2004,,https://www.imdb.com/title/tt0372183/,108.0,"Action, Mystery, Thriller",Paul Greengrass,The Bourne Identity,2
+626,The Bourne Ultimatum,25-07-2007,,https://www.imdb.com/title/tt0440963/,115.0,"Action, Mystery, Thriller",Paul Greengrass,The Bourne Identity,3
+627,The Bourne Legacy,30-07-2012,,https://www.imdb.com/title/tt1194173/,135.0,"Action, Adventure, Thriller",Tony Gilroy,The Bourne Identity,4
+628,The Butterfly Effect,17-01-2004,,https://www.imdb.com/title/tt0289879/,113.0,"Drama, Sci-Fi, Thriller","J. Mackye Gruber, Eric Bress",The Butterfly Effect,1
+629,The Butterfly Effect 2,10-08-2006,,https://www.imdb.com/title/tt0457297/,92.0,"Drama, Sci-Fi, Thriller",John R. Leonetti,The Butterfly Effect,2
+630,The Butterfly Effect 3: Revelations,09-01-2009,,https://www.imdb.com/title/tt1234541/,90.0,"Crime, Sci-Fi, Thriller",Seth Grossman,The Butterfly Effect,3
+631,The Chronicles of Riddick,03-06-2004,,https://www.imdb.com/title/tt0296572/,119.0,"Action, Adventure, Sci-Fi, Thriller",David Twohy,The Chronicles of Riddick,1
+632,Riddick,28-08-2013,,https://www.imdb.com/title/tt1411250/,119.0,"Action, Adventure, Sci-Fi, Thriller",David Twohy,The Chronicles of Riddick,2
+633,The Collector,31-07-2009,,https://www.imdb.com/title/tt0844479/,90.0,"Action, Crime, Horror, Thriller",Marcus Dunstan,The Collector,1
+634,The Collection,21-09-2012,,https://www.imdb.com/title/tt1748227/,82.0,"Action, Adventure, Crime, Horror, Thriller",Marcus Dunstan,The Collector,2
+635,The Color of Money,08-10-1986,,https://www.imdb.com/title/tt0090863/,119.0,"Drama, Sport",Martin Scorsese,The Color of Money,1
+636,The Conjuring,08-06-2013,,https://www.imdb.com/title/tt1457767/,112.0,"Horror, Mystery, Thriller",James Wan,The Conjuring,1
+637,The Conjuring 2,13-05-2016,,https://www.imdb.com/title/tt3065204/,134.0,"Horror, Mystery, Thriller",James Wan,The Conjuring,2
+638,The Conjuring: The Devil Made Me Do It,09-09-2020,,https://www.imdb.com/title/tt7069210/,,"Horror, Mystery, Thriller",Michael Chaves,The Conjuring,3
+639,The Crow,10-05-1994,,https://www.imdb.com/title/tt0109506/,102.0,"Action, Drama, Fantasy",Alex Proyas,The Crow,1
+640,The Crow: City of Angels,30-08-1996,,https://www.imdb.com/title/tt0115986/,84.0,"Action, Crime, Fantasy, Thriller",Tim Pope,The Crow,2
+641,The Crow: Salvation,23-01-2000,,https://www.imdb.com/title/tt0132910/,102.0,"Action, Crime, Fantasy, Mystery, Thriller",Bharat Nalluri,The Crow,3
+642,The Crow: Wicked Prayer,03-06-2005,,https://www.imdb.com/title/tt0353324/,99.0,"Action, Adventure, Comedy, Fantasy, Horror, Thriller",Lance Mungia,The Crow,4
+643,The Da Vinci Code,17-05-2006,,https://www.imdb.com/title/tt0382625/,149.0,"Mystery, Thriller",Ron Howard,The Da Vinci Code,1
+644,Angels & Demons,04-05-2009,,https://www.imdb.com/title/tt0808151/,138.0,"Action, Mystery, Thriller",Ron Howard,The Da Vinci Code,2
+645,The Dead,30-08-2010,,https://www.imdb.com/title/tt1386925/,105.0,"Action, Adventure, Drama, Horror, Sci-Fi, Thriller","Jonathan Ford, Howard J. Ford",The Dead,1
+646,The Dead 2: India,22-08-2013,,https://www.imdb.com/title/tt2917336/,98.0,Horror,"Jonathan Ford, Howard J. Ford",The Dead,2
+647,The Dead Pool,13-07-1988,,https://www.imdb.com/title/tt0094963/,91.0,"Action, Crime, Mystery, Thriller",Buddy Van Horn,The Dead Pool,1
+648,The Descent,11-03-2005,,https://www.imdb.com/title/tt0435625/,99.0,"Adventure, Horror, Thriller",Neil Marshall,The Descent,1
+649,The Descent: Part 2,24-08-2009,,https://www.imdb.com/title/tt1073105/,94.0,"Adventure, Horror, Thriller",Jon Harris,The Descent,2
+650,The Enforcer,16-12-1976,,https://www.imdb.com/title/tt0074483/,96.0,"Action, Crime, Thriller",James Fargo,The Enforcer,1
+651,The Equalizer,07-09-2014,,https://www.imdb.com/title/tt0455944/,132.0,"Action, Crime, Thriller",Antoine Fuqua,The Equalizer,1
+652,The Equalizer 2,19-07-2018,,https://www.imdb.com/title/tt3766354/,121.0,"Action, Crime, Thriller",Antoine Fuqua,The Equalizer,2
+653,The Evening Star,05-12-1996,,https://www.imdb.com/title/tt0116240/,129.0,"Comedy, Drama, Romance",Robert Harling,The Evening Star,1
+654,The Evil Dead,15-10-1981,,https://www.imdb.com/title/tt0083907/,85.0,Horror,Sam Raimi,The Evil Dead,1
+655,Evil Dead II,13-03-1987,,https://www.imdb.com/title/tt0092991/,84.0,"Comedy, Horror",Sam Raimi,The Evil Dead,2
+656,The Exorcist,26-12-1973,,https://www.imdb.com/title/tt0070047/,122.0,Horror,William Friedkin,The Exorcist,1
+657,Exorcist II: The Heretic,17-06-1977,,https://www.imdb.com/title/tt0076009/,117.0,Horror,John Boorman,The Exorcist,2
+658,The Exorcist III,17-08-1990,,https://www.imdb.com/title/tt0099528/,110.0,"Drama, Horror, Mystery",William Peter Blatty,The Exorcist,3
+659,Exorcist: The Beginning,18-08-2004,,https://www.imdb.com/title/tt0204313/,114.0,"Horror, Mystery, Thriller",Renny Harlin,The Exorcist,4
+660,The Last Exorcism,24-06-2010,,https://www.imdb.com/title/tt1320244/,87.0,"Horror, Mystery, Thriller",Daniel Stamm,The Exorcist,5
+661,The Expendables,03-08-2010,,https://www.imdb.com/title/tt1320253/,103.0,"Action, Adventure, Thriller",Sylvester Stallone,The Expendables,1
+662,The Expendables 2,08-08-2012,,https://www.imdb.com/title/tt1764651/,103.0,"Action, Adventure, Thriller",Simon West,The Expendables,2
+663,The Fast and the Furious,18-06-2001,,https://www.imdb.com/title/tt0232500/,106.0,"Action, Crime, Thriller",Rob Cohen,The Fast and the Furious,1
+664,2 Fast 2 Furious,03-06-2003,,https://www.imdb.com/title/tt0322259/,107.0,"Action, Crime, Thriller",John Singleton,The Fast and the Furious,2
+665,The Fast and the Furious: Tokyo Drift,04-06-2006,,https://www.imdb.com/title/tt0463985/,104.0,"Action, Crime, Thriller",Justin Lin,The Fast and the Furious,3
+666,Fast & Furious,12-03-2009,,https://www.imdb.com/title/tt1013752/,107.0,"Action, Thriller",Justin Lin,The Fast and the Furious,4
+667,Fast Five,15-04-2011,,https://www.imdb.com/title/tt1596343/,130.0,"Action, Adventure, Crime, Thriller",Justin Lin,The Fast and the Furious,5
+668,The Final Conflict,20-03-1981,,https://www.imdb.com/title/tt0082377/,108.0,Horror,Graham Baker,The Final Conflict,1
+669,The Fly,15-08-1986,,https://www.imdb.com/title/tt0091064/,96.0,"Drama, Horror, Sci-Fi",David Cronenberg,The Fly,1
+670,The Fly II,10-02-1989,,https://www.imdb.com/title/tt0097368/,105.0,"Drama, Horror, Sci-Fi",Chris Walas,The Fly,2
+671,The Fox and the Hound,10-07-1981,,https://www.imdb.com/title/tt0082406/,83.0,"Animation, Adventure, Drama, Family","Art Stevens, David Hand, Wolfgang Reitherman, Ted Berman, Richard Rich",The Fox and the Hound,1
+672,The French Connection,07-10-1971,,https://www.imdb.com/title/tt0067116/,104.0,"Action, Crime, Drama, Thriller",William Friedkin,The French Connection,1
+673,French Connection II,18-05-1975,,https://www.imdb.com/title/tt0073018/,119.0,"Action, Crime, Drama, Thriller",John Frankenheimer,The French Connection,2
+674,The Fugitive,29-07-1993,,https://www.imdb.com/title/tt0106977/,130.0,"Action, Crime, Drama, Mystery, Thriller",Andrew Davis,The Fugitive,1
+675,The Godfather,14-03-1972,,https://www.imdb.com/title/tt0068646/,175.0,"Crime, Drama",Francis Ford Coppola,The Godfather,1
+676,The Godfather: Part II,12-12-1974,,https://www.imdb.com/title/tt0071562/,202.0,"Crime, Drama",Francis Ford Coppola,The Godfather,2
+677,The Godfather: Part III,20-12-1990,,https://www.imdb.com/title/tt0099674/,162.0,"Crime, Drama",Francis Ford Coppola,The Godfather,3
+678,The Grudge,12-10-2004,,https://www.imdb.com/title/tt0391198/,91.0,"Horror, Mystery, Thriller",Takashi Shimizu,The Grudge,1
+679,The Grudge 2,12-10-2006,,https://www.imdb.com/title/tt0433386/,102.0,"Horror, Thriller",Takashi Shimizu,The Grudge,2
+680,The Grudge 3,12-05-2009,,https://www.imdb.com/title/tt1053859/,90.0,"Horror, Mystery, Thriller",Toby Wilkins,The Grudge,3
+681,The Hangover,30-05-2009,,https://www.imdb.com/title/tt1119646/,100.0,Comedy,Todd Phillips,The Hangover,1
+682,The Hangover Part II,19-05-2011,,https://www.imdb.com/title/tt1411697/,102.0,Comedy,Todd Phillips,The Hangover,2
+683,The Hangover Part III,20-05-2013,,https://www.imdb.com/title/tt1951261/,100.0,"Comedy, Crime",Todd Phillips,The Hangover,3
+684,The Hills Have Eyes,15-06-1977,,https://www.imdb.com/title/tt0077681/,90.0,"Horror, Thriller",Wes Craven,The Hills Have Eyes,1
+685,The Hills Have Eyes Part II,30-06-1984,,https://www.imdb.com/title/tt0089274/,86.0,"Horror, Thriller",Wes Craven,The Hills Have Eyes,2
+686,The Hills Have Eyes,10-03-2006,,https://www.imdb.com/title/tt0454841/,107.0,"Horror, Thriller",Alexandre Aja,The Hills Have Eyes,3
+687,The Hills Have Eyes II,16-03-2007,,https://www.imdb.com/title/tt0800069/,89.0,"Horror, Thriller",Martin Weisz,The Hills Have Eyes,4
+688,The Hobbit: An Unexpected Journey,28-11-2012,,https://www.imdb.com/title/tt0903624/,169.0,"Adventure, Family, Fantasy",Peter Jackson,The Hobbit,1
+689,The Hobbit: The Desolation of Smaug,02-12-2013,,https://www.imdb.com/title/tt1170358/,161.0,"Adventure, Fantasy",Peter Jackson,The Hobbit,2
+690,The Hobbit: The Battle of the Five Armies,01-12-2014,,https://www.imdb.com/title/tt2310332/,144.0,"Adventure, Fantasy",Peter Jackson,The Hobbit,3
+691,The Hunger Games,12-03-2012,,https://www.imdb.com/title/tt1392170/,142.0,"Action, Adventure, Sci-Fi, Thriller",Gary Ross,The Hunger Games,1
+692,The Hunger Games: Catching Fire,11-11-2013,,https://www.imdb.com/title/tt1951264/,146.0,"Action, Adventure, Mystery, Sci-Fi, Thriller",Francis Lawrence,The Hunger Games,2
+693,The Hunger Games: Mockingjay - Part 1,10-11-2014,,https://www.imdb.com/title/tt1951265/,123.0,"Action, Adventure, Sci-Fi, Thriller",Francis Lawrence,The Hunger Games,3
+694,The Hunger Games: Mockingjay - Part 2,04-11-2015,,https://www.imdb.com/title/tt1951266/,137.0,"Action, Adventure, Sci-Fi, Thriller",Francis Lawrence,The Hunger Games,4
+695,The Hustler,24-09-1961,,https://www.imdb.com/title/tt0054997/,134.0,"Drama, Sport",Robert Rossen,The Hustler,1
+696,Hulk,17-06-2003,,https://www.imdb.com/title/tt0286716/,138.0,"Action, Sci-Fi",Ang Lee,The Incredible Hulk,1
+697,The Incredible Hulk,06-06-2008,,https://www.imdb.com/title/tt0800080/,112.0,"Action, Adventure, Sci-Fi",Louis Leterrier,The Incredible Hulk,2
+698,The Incredibles,27-10-2004,,https://www.imdb.com/title/tt0317705/,115.0,"Animation, Action, Adventure, Family",Brad Bird,The Incredibles,1
+699,Incredibles 2,05-06-2018,,https://www.imdb.com/title/tt3606756/,118.0,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",Brad Bird,The Incredibles,2
+700,The Jewel of the Nile,04-12-1985,,https://www.imdb.com/title/tt0089370/,106.0,"Action, Adventure, Comedy, Romance",Lewis Teague,The Jewel of the Nile,1
+702,The Karate Kid,22-06-1984,,https://www.imdb.com/title/tt0087538/,126.0,"Action, Drama, Family, Sport",John G. Avildsen,The Karate Kid,1
+703,The Karate Kid Part II,19-06-1986,,https://www.imdb.com/title/tt0091326/,113.0,"Action, Family, Romance, Sport",John G. Avildsen,The Karate Kid,2
+704,The Karate Kid Part III,15-04-1989,,https://www.imdb.com/title/tt0097647/,112.0,"Action, Drama, Family, Sport",John G. Avildsen,The Karate Kid,3
+705,The Karate Kid,07-06-2010,,https://www.imdb.com/title/tt1155076/,140.0,"Action, Drama, Family, Sport",Harald Zwart,The Karate Kid,4
+706,The King's Man,16-09-2020,,https://www.imdb.com/title/tt6856242/,,"Action, Adventure, Comedy, Crime, Thriller",Matthew Vaughn,The King's Man,1
+707,The Lego Movie,01-02-2014,,https://www.imdb.com/title/tt1490017/,100.0,"Animation, Action, Adventure, Comedy, Family, Fantasy","Christopher Miller, Phil Lord",The Lego Movie,1
+708,The Lego Movie 2: The Second Part,02-02-2019,,https://www.imdb.com/title/tt3513498/,107.0,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical",Mike Mitchell,The Lego Movie,2
+709,The Lion King,12-06-1994,,https://www.imdb.com/title/tt0110357/,88.0,"Animation, Adventure, Drama, Family, Musical","Rob Minkoff, Roger Allers",The Lion King,1
+710,The Little Mermaid,13-11-1989,,https://www.imdb.com/title/tt0097757/,83.0,"Animation, Family, Fantasy, Musical, Romance","Ron Clements, John Musker",The Little Mermaid,1
+711,The Lord of the Rings: The Fellowship of the Ring,10-12-2001,,https://www.imdb.com/title/tt0120737/,178.0,"Action, Adventure, Drama, Fantasy",Peter Jackson,The Lord of the Rings,1
+712,The Lord of the Rings: The Two Towers,05-12-2002,,https://www.imdb.com/title/tt0167261/,179.0,"Adventure, Drama, Fantasy",Peter Jackson,The Lord of the Rings,2
+713,The Lord of the Rings: The Return of the King,01-12-2003,,https://www.imdb.com/title/tt0167260/,201.0,"Adventure, Drama, Fantasy",Peter Jackson,The Lord of the Rings,3
+714,The Marine,03-10-2006,,https://www.imdb.com/title/tt0419946/,92.0,"Action, Comedy, Drama, Thriller",John Bonito,The Marine,1
+715,The Mask,28-07-1994,,https://www.imdb.com/title/tt0110475/,101.0,"Action, Comedy, Crime, Fantasy",Chuck Russell,The Mask,1
+716,Son of the Mask,11-02-2005,,https://www.imdb.com/title/tt0362165/,94.0,"Comedy, Family, Fantasy",Lawrence Guterman,The Mask,2
+717,The Mask of Zorro,17-07-1998,,https://www.imdb.com/title/tt0120746/,136.0,"Action, Adventure, Comedy, Romance, Thriller, Western",Martin Campbell,The Mask of Zorro,1
+718,The Legend of Zorro,24-10-2005,,https://www.imdb.com/title/tt0386140/,129.0,"Action, Adventure, Romance, Thriller, Western",Martin Campbell,The Mask of Zorro,2
+719,The Matrix,24-03-1999,,https://www.imdb.com/title/tt0133093/,136.0,"Action, Sci-Fi","Lilly Wachowski, Lana Wachowski",The Matrix,1
+720,The Matrix Reloaded,07-05-2003,,https://www.imdb.com/title/tt0234215/,138.0,"Action, Sci-Fi","Lilly Wachowski, Lana Wachowski",The Matrix,2
+721,The Matrix Revolutions,27-10-2003,,https://www.imdb.com/title/tt0242653/,129.0,"Action, Sci-Fi","Lilly Wachowski, Lana Wachowski",The Matrix,3
+722,The Mechanic,13-01-2011,,https://www.imdb.com/title/tt0472399/,93.0,"Action, Thriller",Simon West,The Mechanic,1
+723,Mechanic: Resurrection,22-08-2016,,https://www.imdb.com/title/tt3522806/,98.0,"Action, Adventure, Thriller",Dennis Gansel,The Mechanic,2
+724,The Mummy,16-04-1999,,https://www.imdb.com/title/tt0120616/,124.0,"Action, Adventure, Fantasy",Stephen Sommers,The Mummy,1
+725,The Mummy Returns,29-04-2001,,https://www.imdb.com/title/tt0209163/,130.0,"Action, Adventure, Fantasy, Thriller",Stephen Sommers,The Mummy,2
+726,The Mummy: Tomb of the Dragon Emperor,24-07-2008,,https://www.imdb.com/title/tt0859163/,112.0,"Action, Adventure, Fantasy, Horror, Thriller",Rob Cohen,The Mummy,3
+727,The Muppet Movie,31-05-1979,,https://www.imdb.com/title/tt0079588/,95.0,"Adventure, Comedy, Family, Musical",James Frawley,The Muppets,1
+728,The Great Muppet Caper,26-06-1981,,https://www.imdb.com/title/tt0082474/,97.0,"Adventure, Comedy, Crime, Family, Musical, Mystery",Jim Henson,The Muppets,2
+729,The Muppets Take Manhattan,13-07-1984,,https://www.imdb.com/title/tt0087755/,94.0,"Adventure, Comedy, Drama, Family, Musical, Romance",Frank Oz,The Muppets,3
+730,Muppets from Space,14-07-1999,,https://www.imdb.com/title/tt0158811/,87.0,"Adventure, Comedy, Family, Fantasy, Sci-Fi",Tim Hill,The Muppets,4
+731,The Muppets,04-11-2011,,https://www.imdb.com/title/tt1204342/,120.0,"Adventure, Comedy, Family, Musical",James Bobin,The Muppets,5
+732,Muppets Most Wanted,11-03-2014,,https://www.imdb.com/title/tt2281587/,107.0,"Adventure, Comedy, Crime, Family, Musical, Mystery",James Bobin,The Muppets,6
+733,The Naked Gun: From the Files of Police Squad!,02-12-1988,,https://www.imdb.com/title/tt0095705/,85.0,"Comedy, Crime",David Zucker,The Naked Gun,1
+734,The Naked Gun 2½: The Smell of Fear,27-06-1991,,https://www.imdb.com/title/tt0102510/,85.0,"Comedy, Crime",David Zucker,The Naked Gun,2
+735,Naked Gun 33 1/3: The Final Insult,18-03-1994,,https://www.imdb.com/title/tt0110622/,83.0,"Comedy, Crime",Peter Segal,The Naked Gun,3
+736,The Next Karate Kid,03-08-1994,,https://www.imdb.com/title/tt0110657/,107.0,"Action, Drama, Family, Romance, Sport",Christopher Cain,The Next Karate Kid,1
+737,The Nutty Professor,27-06-1996,,https://www.imdb.com/title/tt0117218/,95.0,"Comedy, Romance, Sci-Fi",Tom Shadyac,The Nutty Professor,1
+738,Nutty Professor II: The Klumps,24-07-2000,,https://www.imdb.com/title/tt0144528/,106.0,"Comedy, Romance, Sci-Fi",Peter Segal,The Nutty Professor,2
+739,The Omega Code,27-08-1999,,https://www.imdb.com/title/tt0203408/,100.0,"Action, Adventure, Fantasy, Sci-Fi, Thriller",Robert Marcarelli,The Omega Code,1
+740,The Omen,25-06-1976,,https://www.imdb.com/title/tt0075005/,111.0,Horror,Richard Donner,The Omen,1
+741,The Pink Panther,19-01-2006,,https://www.imdb.com/title/tt0383216/,93.0,"Adventure, Comedy, Crime, Family, Mystery",Shawn Levy,The Pink Panther,1
+742,The Pink Panther 2,24-01-2009,,https://www.imdb.com/title/tt0838232/,92.0,"Action, Adventure, Comedy, Crime, Family, Mystery",Harald Zwart,The Pink Panther,2
+743,The Prince & Me,28-03-2004,,https://www.imdb.com/title/tt0337697/,111.0,"Comedy, Family, Romance",Martha Coolidge,The Prince & Me,1
+744,The Princess Diaries,29-07-2001,,https://www.imdb.com/title/tt0247638/,111.0,"Comedy, Family, Romance",Garry Marshall,The Princess Diaries,1
+745,The Princess Diaries 2: Royal Engagement,07-08-2004,,https://www.imdb.com/title/tt0368933/,113.0,"Comedy, Family, Romance",Garry Marshall,The Princess Diaries,2
+746,The Prophecy,31-03-1995,,https://www.imdb.com/title/tt0114194/,98.0,"Action, Crime, Drama, Fantasy, Horror, Mystery, Thriller",Gregory Widen,The Prophecy,1
+747,The Punisher,12-04-2004,,https://www.imdb.com/title/tt0330793/,124.0,"Action, Crime, Drama, Thriller",Jonathan Hensleigh,The Punisher,1
+748,Punisher: War Zone,04-12-2008,,https://www.imdb.com/title/tt0450314/,103.0,"Action, Crime, Drama, Thriller",Lexi Alexander,The Punisher,2
+749,The Purge,02-05-2013,,https://www.imdb.com/title/tt2184339/,85.0,"Horror, Thriller",James DeMonaco,The Purge,1
+750,The Purge: Anarchy,17-07-2014,,https://www.imdb.com/title/tt2975578/,103.0,"Action, Horror, Sci-Fi, Thriller",James DeMonaco,The Purge,2
+751,The Purge: Election Year,29-06-2016,,https://www.imdb.com/title/tt4094724/,108.0,"Action, Horror, Sci-Fi, Thriller",James DeMonaco,The Purge,3
+752,The Ring,02-10-2002,,https://www.imdb.com/title/tt0298130/,115.0,"Horror, Mystery",Gore Verbinski,The Ring,1
+753,The Ring Two,17-03-2005,,https://www.imdb.com/title/tt0377109/,110.0,"Horror, Mystery",Hideo Nakata,The Ring,2
+754,The Santa Clause,11-11-1994,,https://www.imdb.com/title/tt0111070/,97.0,"Comedy, Drama, Family, Fantasy",John Pasquin,The Santa Clause,1
+755,The Santa Clause 2,27-10-2002,,https://www.imdb.com/title/tt0304669/,104.0,"Comedy, Family, Fantasy",Michael Lembeck,The Santa Clause,2
+756,The Santa Clause 3: The Escape Clause,02-11-2006,,https://www.imdb.com/title/tt0452681/,97.0,"Adventure, Comedy, Family, Fantasy",Michael Lembeck,The Santa Clause,3
+757,The Scorpion King,15-04-2002,,https://www.imdb.com/title/tt0277296/,92.0,"Action, Adventure, Fantasy",Chuck Russell,The Scorpion King,1
+758,The Second Best Exotic Marigold Hotel,26-02-2015,,https://www.imdb.com/title/tt2555736/,122.0,"Comedy, Drama",John Madden,The Second Best Exotic Marigold Hotel,1
+759,The Secret Life of Pets,16-06-2016,,https://www.imdb.com/title/tt2709768/,87.0,"Animation, Adventure, Comedy, Family","Yarrow Cheney, Chris Renaud",The Secret Life of Pets,1
+760,The Secret Life of Pets 2,24-05-2019,,https://www.imdb.com/title/tt5113040/,86.0,"Animation, Adventure, Comedy, Family","Chris Renaud, Jonathan del Val",The Secret Life of Pets,2
+761,The Shining,23-05-1980,,https://www.imdb.com/title/tt0081505/,146.0,"Drama, Horror",Stanley Kubrick,The Shining,1
+762,The Silence of the Lambs,30-01-1991,,https://www.imdb.com/title/tt0102926/,118.0,"Crime, Drama, Thriller",Jonathan Demme,The Silence of the Lambs,1
+763,The Sisterhood of the Traveling Pants,31-05-2005,,https://www.imdb.com/title/tt0403508/,119.0,"Comedy, Drama, Romance",Ken Kwapis,The Sisterhood of the Traveling Pants,1
+764,The Sisterhood of the Traveling Pants 2,06-08-2008,,https://www.imdb.com/title/tt1018785/,119.0,"Comedy, Drama, Romance",Sanaa Hamri,The Sisterhood of the Traveling Pants,2
+765,The Talented Mr. Ripley,12-12-1999,,https://www.imdb.com/title/tt0134119/,139.0,"Crime, Drama, Thriller",Anthony Minghella,The Talented Mr. Ripley,1
+766,The Texas Chainsaw Massacre 2,22-08-1986,,https://www.imdb.com/title/tt0092076/,101.0,"Comedy, Horror",Tobe Hooper,The Texas Chainsaw Massacre,1
+767,The Return of the Texas Chainsaw Massacre,12-03-1995,,https://www.imdb.com/title/tt0110978/,87.0,"Comedy, Horror, Thriller",Kim Henkel,The Texas Chainsaw Massacre,2
+768,The Texas Chainsaw Massacre,15-10-2003,,https://www.imdb.com/title/tt0324216/,98.0,Horror,Marcus Nispel,The Texas Chainsaw Massacre,3
+769,The Texas Chainsaw Massacre: The Beginning,05-10-2006,,https://www.imdb.com/title/tt0420294/,91.0,"Horror, Thriller",Jonathan Liebesman,The Texas Chainsaw Massacre,4
+770,The Transporter,02-10-2002,,https://www.imdb.com/title/tt0293662/,92.0,"Action, Crime, Thriller","Corey Yuen, Louis Leterrier",The Transporter,1
+771,Transporter 2,03-08-2005,,https://www.imdb.com/title/tt0388482/,87.0,"Action, Thriller",Louis Leterrier,The Transporter,2
+772,Transporter 3,26-11-2008,,https://www.imdb.com/title/tt1129442/,104.0,"Action, Thriller",Olivier Megaton,The Transporter,3
+773,The Trip,30-09-2010,,https://www.imdb.com/title/tt1740047/,112.0,"Comedy, Drama",Michael Winterbottom,The Trip,1
+774,The Trip to Italy,20-01-2014,,https://www.imdb.com/title/tt2967006/,108.0,"Comedy, Drama",Michael Winterbottom,The Trip,2
+775,The Messengers,02-02-2007,,https://www.imdb.com/title/tt0425430/,90.0,"Horror, Thriller","Danny Pang, Oxide Chun Pang",The Twilight Saga,1
+776,Twilight,17-11-2008,,https://www.imdb.com/title/tt1099212/,122.0,"Drama, Fantasy, Romance",Catherine Hardwicke,The Twilight Saga,2
+777,The Twilight Saga: New Moon,16-11-2009,,https://www.imdb.com/title/tt1259571/,130.0,"Adventure, Drama, Fantasy, Romance",Chris Weitz,The Twilight Saga,3
+778,The Twilight Saga: Eclipse,30-06-2010,,https://www.imdb.com/title/tt1325004/,124.0,"Adventure, Drama, Fantasy, Romance",David Slade,The Twilight Saga,4
+779,The Twilight Saga: Breaking Dawn - Part 1,30-10-2011,,https://www.imdb.com/title/tt1324999/,117.0,"Adventure, Drama, Fantasy, Romance, Thriller",Bill Condon,The Twilight Saga,5
+780,The Twilight Saga: Breaking Dawn - Part 2,12-11-2012,,https://www.imdb.com/title/tt1673434/,115.0,"Adventure, Drama, Fantasy, Romance",Bill Condon,The Twilight Saga,6
+781,The War of the Roses,04-12-1989,,https://www.imdb.com/title/tt0098621/,116.0,"Comedy, Romance",Danny DeVito,The War of the Roses,1
+782,The Whole Nine Yards,17-02-2000,,https://www.imdb.com/title/tt0190138/,98.0,"Comedy, Crime",Jonathan Lynn,The Whole Nine Yards,1
+783,The Whole Ten Yards,07-04-2004,,https://www.imdb.com/title/tt0327247/,98.0,"Comedy, Crime, Thriller",Howard Deutch,The Whole Ten Yards,1
+784,The Woman in Black,24-01-2012,,https://www.imdb.com/title/tt1596365/,95.0,"Drama, Fantasy, Horror, Thriller",James Watkins,The Woman in Black,1
+785,The Woman in Black 2: Angel of Death,30-12-2014,,https://www.imdb.com/title/tt2339741/,98.0,"Drama, Horror, Thriller",Tom Harper,The Woman in Black,2
+786,The X Files,19-06-1998,,https://www.imdb.com/title/tt0120902/,121.0,"Drama, Mystery, Sci-Fi, Thriller",Rob Bowman,The X Files,1
+787,The X Files: I Want to Believe,24-07-2008,,https://www.imdb.com/title/tt0443701/,104.0,"Crime, Drama, Horror, Mystery, Sci-Fi, Thriller",Chris Carter,The X Files,2
+788,Think Like a Man,10-02-2012,,https://www.imdb.com/title/tt1621045/,122.0,"Comedy, Romance",Tim Story,Think Like a Man,1
+789,Think Like a Man Too,20-06-2014,,https://www.imdb.com/title/tt2239832/,106.0,"Comedy, Romance",Tim Story,Think Like a Man,2
+790,Thor,17-04-2011,,https://www.imdb.com/title/tt0800369/,115.0,"Action, Adventure, Fantasy",Kenneth Branagh,Thor,1
+791,Thor: The Dark World,22-10-2013,,https://www.imdb.com/title/tt1981115/,112.0,"Action, Adventure, Fantasy",Alan Taylor,Thor,2
+792,Thor: Ragnarok,10-10-2017,,https://www.imdb.com/title/tt3501632/,130.0,"Action, Adventure, Comedy, Fantasy, Sci-Fi",Taika Waititi,Thor,3
+793,Toy Story,19-11-1995,,https://www.imdb.com/title/tt0114709/,81.0,"Animation, Adventure, Comedy, Family, Fantasy",John Lasseter,Toy Story,1
+794,Toy Story 2,13-11-1999,,https://www.imdb.com/title/tt0120363/,92.0,"Animation, Adventure, Comedy, Family, Fantasy","John Lasseter, Lee Unkrich, Ash Brannon",Toy Story,2
+795,Toy Story 3,12-06-2010,,https://www.imdb.com/title/tt0435761/,103.0,"Animation, Adventure, Comedy, Family, Fantasy",Lee Unkrich,Toy Story,3
+796,Toy Story 4,11-06-2019,,https://www.imdb.com/title/tt1979376/,100.0,"Animation, Adventure, Comedy, Family, Fantasy",Josh Cooley,Toy Story,4
+797,Trainspotting,23-02-1996,,https://www.imdb.com/title/tt0117951/,93.0,Drama,Danny Boyle,Trainspotting,1
+798,T2 Trainspotting,22-01-2017,,https://www.imdb.com/title/tt2763304/,117.0,Drama,Danny Boyle,Trainspotting,2
+799,Transformers,12-06-2007,,https://www.imdb.com/title/tt0418279/,144.0,"Action, Adventure, Sci-Fi",Michael Bay,Transformers,1
+800,Transformers: Revenge of the Fallen,08-06-2009,,https://www.imdb.com/title/tt1055369/,149.0,"Action, Adventure, Sci-Fi",Michael Bay,Transformers,2
+801,Transformers: Dark of the Moon,23-06-2011,,https://www.imdb.com/title/tt1399103/,154.0,"Action, Adventure, Sci-Fi",Michael Bay,Transformers,3
+802,Transformers: Age of Extinction,19-06-2014,,https://www.imdb.com/title/tt2109248/,165.0,"Action, Adventure, Sci-Fi",Michael Bay,Transformers,4
+803,Transformers: The Last Knight,18-06-2017,,https://www.imdb.com/title/tt3371366/,154.0,"Action, Adventure, Sci-Fi",Michael Bay,Transformers,5
+804,Tremors,19-01-1990,,https://www.imdb.com/title/tt0100814/,96.0,"Comedy, Horror",Ron Underwood,Tremors,1
+805,Trois couleurs: Bleu,03-09-1993,,https://www.imdb.com/title/tt0108394/,94.0,"Drama, Music, Mystery, Romance",Krzysztof Kieslowski,Trois couleurs,1
+806,Trois couleurs: Blanc,26-01-1994,,https://www.imdb.com/title/tt0111507/,92.0,"Comedy, Drama, Romance",Krzysztof Kieslowski,Trois couleurs,2
+807,Trois couleurs: Rouge,16-05-1994,,https://www.imdb.com/title/tt0111495/,99.0,"Drama, Mystery, Romance",Krzysztof Kieslowski,Trois couleurs,3
+808,Tropa de Elite,17-08-2007,,https://www.imdb.com/title/tt0861739/,115.0,"Action, Crime, Drama, Thriller",José Padilha,Tropa de Elite,1
+809,Tropa de Elite 2: O Inimigo Agora é Outro,08-10-2010,,https://www.imdb.com/title/tt1555149/,115.0,"Action, Crime, Drama, Thriller",José Padilha,Tropa de Elite,2
+810,Turbulence,10-01-1997,,https://www.imdb.com/title/tt0120390/,100.0,"Action, Thriller",Robert Butler,Turbulence,1
+811,Turbulence 2: Fear of Flying,01-09-1999,,https://www.imdb.com/title/tt0192701/,101.0,"Action, Thriller",David Mackay,Turbulence,2
+812,U.S. Marshals,06-03-1998,,https://www.imdb.com/title/tt0120873/,131.0,"Action, Crime, Thriller",Stuart Baird,U.S. Marshals,1
+813,Unbreakable,14-11-2000,,https://www.imdb.com/title/tt0217869/,106.0,"Drama, Mystery, Sci-Fi, Thriller",M. Night Shyamalan,Unbreakable,1
+814,Under Siege,09-10-1992,,https://www.imdb.com/title/tt0105690/,103.0,"Action, Thriller",Andrew Davis,Under Siege,1
+815,Under Siege 2: Dark Territory,14-07-1995,,https://www.imdb.com/title/tt0114781/,100.0,"Action, Thriller",Geoff Murphy,Under Siege,2
+816,Underworld,08-09-2003,,https://www.imdb.com/title/tt0320691/,121.0,"Action, Fantasy, Thriller",Len Wiseman,Underworld,1
+817,Underworld: Evolution,12-01-2006,,https://www.imdb.com/title/tt0401855/,106.0,"Action, Fantasy, Thriller",Len Wiseman,Underworld,2
+818,Underworld: Rise of the Lycans,22-01-2009,,https://www.imdb.com/title/tt0834001/,92.0,"Action, Fantasy",Patrick Tatopoulos,Underworld,3
+819,Underworld Awakening,19-01-2012,,https://www.imdb.com/title/tt1496025/,88.0,"Action, Fantasy, Horror","Björn Stein, Måns Mårlind",Underworld,4
+820,Undisputed,31-05-2002,,https://www.imdb.com/title/tt0281322/,94.0,"Action, Crime, Drama, Sport",Walter Hill,Undisputed,1
+821,Universal Soldier,10-07-1992,,https://www.imdb.com/title/tt0105698/,102.0,"Action, Sci-Fi",Roland Emmerich,Universal Soldier,1
+822,Universal Soldier: The Return,04-07-1999,,https://www.imdb.com/title/tt0176269/,83.0,"Action, Sci-Fi",Mic Rodgers,Universal Soldier,2
+823,Universal Soldier: Regeneration,01-10-2009,,https://www.imdb.com/title/tt1288403/,97.0,"Action, Adventure, Sci-Fi",John Hyams,Universal Soldier,3
+824,Universal Soldier: Day of Reckoning,23-08-2012,,https://www.imdb.com/title/tt1659343/,114.0,"Action, Horror, Mystery, Sci-Fi, Thriller",John Hyams,Universal Soldier,4
+825,Urban Legend,25-09-1998,,https://www.imdb.com/title/tt0146336/,99.0,"Horror, Mystery, Thriller",Jamie Blanks,Urban Legend,1
+826,Urban Legends: Final Cut,19-09-2000,,https://www.imdb.com/title/tt0192731/,97.0,"Horror, Mystery, Thriller",John Ottman,Urban Legend,2
+827,Vacancy,20-04-2007,,https://www.imdb.com/title/tt0452702/,85.0,"Horror, Thriller",Nimród Antal,Vacancy,1
+828,Vacancy 2: The First Cut,24-10-2008,,https://www.imdb.com/title/tt1204979/,86.0,"Horror, Thriller",Eric Bross,Vacancy,2
+829,Walking Tall,22-02-1973,,https://www.imdb.com/title/tt0070895/,125.0,"Action, Biography, Crime, Drama, Thriller",Phil Karlson,Walking Tall,1
+830,Walking Tall Part II,28-09-1975,,https://www.imdb.com/title/tt0073880/,109.0,"Action, Biography, Crime, Drama, Thriller",Earl Bellamy,Walking Tall,2
+831,Final Chapter: Walking Tall,10-08-1977,,https://www.imdb.com/title/tt0076028/,112.0,"Action, Crime, Drama",Jack Starrett,Walking Tall,3
+832,Walking Tall,29-03-2004,,https://www.imdb.com/title/tt0351977/,86.0,"Action, Crime",Kevin Bray,Walking Tall,4
+833,Wall Street,11-12-1987,,https://www.imdb.com/title/tt0094291/,126.0,"Crime, Drama",Oliver Stone,Wall Street,1
+834,Wall Street: Money Never Sleeps,14-05-2010,,https://www.imdb.com/title/tt1027718/,133.0,Drama,Oliver Stone,Wall Street,2
+835,War for the Planet of the Apes,07-07-2017,,https://www.imdb.com/title/tt3450958/,140.0,"Action, Adventure, Drama, Sci-Fi, Thriller",Matt Reeves,War for the Planet of the Apes,1
+836,Wayne's World,14-02-1992,,https://www.imdb.com/title/tt0105793/,94.0,"Comedy, Music",Penelope Spheeris,Wayne's World,1
+837,Wayne's World 2,10-12-1993,,https://www.imdb.com/title/tt0108525/,95.0,"Comedy, Music",Stephen Surjik,Wayne's World,2
+838,Wes Craven's New Nightmare,31-08-1994,,https://www.imdb.com/title/tt0111686/,112.0,"Fantasy, Horror, Mystery, Thriller",Wes Craven,Wes Craven's New Nightmare,1
+839,White Noise,07-01-2005,,https://www.imdb.com/title/tt0375210/,101.0,"Drama, Horror, Mystery, Thriller",Geoffrey Sax,White Noise,1
+840,White Noise 2: The Light,05-01-2007,,https://www.imdb.com/title/tt0496436/,99.0,"Drama, Fantasy, Horror, Thriller",Patrick Lussier,White Noise,2
+841,Wild Things,20-03-1998,,https://www.imdb.com/title/tt0120890/,108.0,"Crime, Drama, Mystery, Thriller",John McNaughton,Wild Things,1
+842,Wishmaster,19-09-1997,,https://www.imdb.com/title/tt0120524/,90.0,"Fantasy, Horror",Robert Kurtzman,Wishmaster,1
+843,Wrath of the Titans,28-03-2012,,https://www.imdb.com/title/tt1646987/,99.0,"Action, Adventure, Fantasy",Jonathan Liebesman,Wrath of the Titans,1
+844,Wreck-It Ralph,01-11-2012,,https://www.imdb.com/title/tt1772341/,101.0,"Animation, Adventure, Comedy, Family, Fantasy",Rich Moore,Wreck-It Ralph,1
+845,Ralph Breaks the Internet,05-11-2018,,https://www.imdb.com/title/tt5848272/,112.0,"Animation, Adventure, Comedy, Family, Fantasy","Rich Moore, Phil Johnston",Wreck-It Ralph,2
+846,Wrong Turn,30-05-2003,,https://www.imdb.com/title/tt0295700/,84.0,Horror,Rob Schmidt,Wrong Turn,1
+847,X-Men,12-07-2000,,https://www.imdb.com/title/tt0120903/,104.0,"Action, Adventure, Sci-Fi",Bryan Singer,X-Men,1
+848,X2,24-04-2003,,https://www.imdb.com/title/tt0290334/,134.0,"Action, Sci-Fi, Thriller",Bryan Singer,X-Men,2
+849,X-Men: The Last Stand,22-05-2006,,https://www.imdb.com/title/tt0376994/,104.0,"Action, Adventure, Sci-Fi",Brett Ratner,X-Men,3
+850,X-Men Origins: Wolverine,08-04-2009,,https://www.imdb.com/title/tt0458525/,107.0,"Action, Adventure, Sci-Fi",Gavin Hood,X-Men,4
+851,X: First Class,25-05-2011,,https://www.imdb.com/title/tt1270798/,131.0,"Action, Adventure, Sci-Fi",Matthew Vaughn,X-Men,5
+852,The Wolverine,16-07-2013,,https://www.imdb.com/title/tt1430132/,126.0,"Action, Adventure, Sci-Fi",James Mangold,X-Men,6
+853,X-Men: Days of Future Past,10-05-2014,,https://www.imdb.com/title/tt1877832/,132.0,"Action, Adventure, Sci-Fi, Thriller",Bryan Singer,X-Men,7
+854,Young Guns,10-08-1988,,https://www.imdb.com/title/tt0096487/,107.0,"Action, Western",Christopher Cain,Young Guns,1
+855,Young Guns II,30-07-1990,,https://www.imdb.com/title/tt0100994/,104.0,"Action, Western",Geoff Murphy,Young Guns,2
+856,Zombieland,25-09-2009,,https://www.imdb.com/title/tt1156398/,88.0,"Adventure, Comedy, Fantasy, Sci-Fi",Ruben Fleischer,Zombieland,1
+857,Zombieland: Double Tap,09-10-2019,,https://www.imdb.com/title/tt1560220/,99.0,"Action, Comedy, Horror",Ruben Fleischer,Zombieland,2
+858,Zoolander,28-09-2001,,https://www.imdb.com/title/tt0196229/,90.0,Comedy,Ben Stiller,Zoolander,1
+859,Zoolander 2,01-02-2016,,https://www.imdb.com/title/tt1608290/,101.0,"Action, Adventure, Comedy, Mystery, Romance",Ben Stiller,Zoolander,2
+860,[Rec],29-08-2007,,https://www.imdb.com/title/tt1038988/,78.0,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller","Jaume Balagueró, Paco Plaza",[Rec],1
+861,[Rec]²,02-09-2009,,https://www.imdb.com/title/tt1245112/,85.0,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller","Jaume Balagueró, Paco Plaza",[Rec],2
+862,[Rec]³: Génesis,09-03-2012,,https://www.imdb.com/title/tt1649444/,80.0,"Action, Comedy, Horror, Romance, Sci-Fi, Thriller",Paco Plaza,[Rec],3
+863,[REC] 4: Apocalipsis,09-09-2014,,https://www.imdb.com/title/tt1649443/,95.0,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller",Jaume Balagueró,[Rec],4
+864,xXx,09-08-2002,,https://www.imdb.com/title/tt0295701/,124.0,"Action, Adventure, Thriller",Rob Cohen,xXx,1
+865,xXx: State of the Union,27-04-2005,,https://www.imdb.com/title/tt0329774/,101.0,"Action, Adventure, Crime, Sci-Fi, Thriller",Lee Tamahori,xXx,2
