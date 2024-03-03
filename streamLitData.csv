@@ -1,0 +1,730 @@
+,IMDb_ID,Title,Movie Series,Order,Genres,Year,IMDb Rating,Num Votes
+0,tt0115433,101 Dalmatians,101 Dalmatians,1,"Adventure, Comedy, Crime, Family",1996,5.7,98439.0
+1,tt0211181,102 Dalmatians,101 Dalmatians,2,"Adventure, Comedy, Family",2000,4.9,33823.0
+2,tt1160368,12 Rounds,12 Rounds,1,"Action, Crime, Thriller",2009,5.6,26828.0
+3,tt2317524,12 Rounds 2: Reloaded,12 Rounds,2,"Action, Adventure, Thriller",2013,5.3,5141.0
+4,tt1232829,21 Jump Street,21 Jump Street,1,"Action, Comedy, Crime",2012,7.2,498876.0
+5,tt2294449,22 Jump Street,21 Jump Street,2,"Action, Comedy, Crime",2014,7.0,336672.0
+6,tt0289043,28 Days Later...,28 Days Later...,1,"Drama, Horror, Sci-Fi, Thriller",2002,7.6,366735.0
+7,tt0463854,28 Weeks Later,28 Days Later...,2,"Horror, Sci-Fi",2007,7.0,253260.0
+9,tt0083511,48 Hrs.,48 Hrs.,1,"Action, Comedy, Crime, Drama, Thriller",1982,6.9,66889.0
+10,tt0099044,Another 48 Hrs.,48 Hrs.,2,"Action, Comedy, Crime, Drama, Mystery, Thriller",1990,5.9,37294.0
+12,tt1753383,A Dog's Purpose,A Dog's Purpose,1,"Adventure, Comedy, Drama, Family, Fantasy",2017,7.2,62603.0
+13,tt8385474,A Dog's Journey,A Dog's Purpose,2,"Adventure, Comedy, Drama, Family, Fantasy",2019,7.5,15850.0
+15,tt2243537,A Haunted House,A Haunted House,1,"Comedy, Fantasy",2013,5.0,42526.0
+16,tt2828996,A Haunted House 2,A Haunted House,2,"Comedy, Fantasy",2014,4.7,19178.0
+17,tt0087800,A Nightmare on Elm Street,A Nightmare on Elm Street,1,Horror,1984,7.5,198163.0
+18,tt0089686,A Nightmare on Elm Street Part 2: Freddy's Revenge,A Nightmare on Elm Street,2,Horror,1985,5.5,59000.0
+19,tt0093629,A Nightmare on Elm Street 3: Dream Warriors,A Nightmare on Elm Street,3,"Fantasy, Horror",1987,6.6,67906.0
+20,tt0095742,A Nightmare on Elm Street 4: The Dream Master,A Nightmare on Elm Street,4,Horror,1988,5.7,48140.0
+21,tt0097981,A Nightmare on Elm Street: The Dream Child,A Nightmare on Elm Street,5,"Fantasy, Horror",1989,5.2,39327.0
+22,tt1179056,A Nightmare on Elm Street,A Nightmare on Elm Street,6,"Crime, Drama, Horror, Mystery",2010,5.2,90163.0
+23,tt0370263,AVP: Alien vs. Predator,AVP,1,"Action, Adventure, Horror, Sci-Fi, Thriller",2004,5.6,180689.0
+24,tt0758730,AVPR: Aliens vs Predator - Requiem,AVP,2,"Action, Horror, Sci-Fi, Thriller",2007,4.7,113544.0
+25,tt0109040,Ace Ventura: Pet Detective,Ace Ventura,1,Comedy,1994,6.9,270045.0
+26,tt0112281,Ace Ventura: When Nature Calls,Ace Ventura,2,"Adventure, Comedy, Crime",1995,6.4,197557.0
+28,tt0313911,Agent Cody Banks,Agent Cody Banks,1,"Action, Adventure, Comedy, Crime, Family, Romance, Thriller",2003,5.0,32212.0
+29,tt0358349,Agent Cody Banks 2: Destination London,Agent Cody Banks,2,"Action, Adventure, Comedy, Family, Romance, Sci-Fi",2004,4.6,13722.0
+30,tt1014759,Alice in Wonderland,Alice in Wonderland,1,"Adventure, Family, Fantasy",2010,6.4,374321.0
+31,tt2567026,Alice Through the Looking Glass,Alice in Wonderland,2,"Adventure, Family, Fantasy",2016,6.2,88197.0
+32,tt0078748,Alien,Alien,1,"Horror, Sci-Fi",1979,8.4,760584.0
+33,tt0090605,Aliens,Alien,2,"Action, Adventure, Sci-Fi, Thriller",1986,8.3,633950.0
+34,tt0103644,Alien³,Alien,3,"Action, Horror, Sci-Fi",1992,6.5,269421.0
+35,tt0118583,Alien: Resurrection,Alien,4,"Action, Horror, Sci-Fi",1997,6.2,222531.0
+36,tt2316204,Alien: Covenant,Alien,5,"Horror, Sci-Fi, Thriller",2017,6.4,245328.0
+38,tt0952640,Alvin and the Chipmunks,Alvin and the Chipmunks,1,"Animation, Comedy, Family, Fantasy, Music",2007,5.2,74180.0
+39,tt1231580,Alvin and the Chipmunks: The Squeakquel,Alvin and the Chipmunks,2,"Animation, Comedy, Family, Fantasy, Music",2009,4.5,42178.0
+40,tt1615918,Alvin and the Chipmunks: Chipwrecked,Alvin and the Chipmunks,3,"Animation, Adventure, Comedy, Family, Music",2011,4.3,30293.0
+41,tt0163651,American Pie,American Pie,1,Comedy,1999,7.0,367510.0
+42,tt0252866,American Pie 2,American Pie,2,Comedy,2001,6.4,234767.0
+45,tt0118615,Anaconda,Anaconda,1,"Action, Adventure, Horror, Thriller",1997,4.8,92772.0
+46,tt0366174,Anacondas: The Hunt for the Blood Orchid,Anaconda,2,"Action, Adventure, Horror, Thriller",2004,4.7,28132.0
+47,tt0122933,Analyze This,Analyze This,1,"Comedy, Crime",1999,6.7,143004.0
+48,tt0289848,Analyze That,Analyze This,2,"Comedy, Crime",2002,5.9,80916.0
+49,tt0357413,Anchorman: The Legend of Ron Burgundy,Anchorman,1,Comedy,2004,7.2,322161.0
+50,tt1229340,Anchorman 2: The Legend Continues,Anchorman,2,Comedy,2013,6.3,164309.0
+51,tt1985949,Angry Birds,Angry Birds,1,"Animation, Action, Adventure, Comedy, Family",2016,6.3,77321.0
+52,tt6095472,The Angry Birds Movie 2,Angry Birds,2,"Animation, Adventure, Comedy, Family",2019,6.4,18015.0
+53,tt3322940,Annabelle,Annabelle,1,"Horror, Mystery, Thriller",2014,5.4,135436.0
+54,tt5140878,Annabelle: Creation,Annabelle,2,"Horror, Mystery, Thriller",2017,6.5,106310.0
+55,tt8350360,Annabelle Comes Home,Annabelle,3,"Horror, Mystery, Thriller",2019,5.9,51227.0
+57,tt0480239,Atlas Shrugged: Part I,Atlas Shrugged,1,"Drama, Mystery, Sci-Fi",2011,5.6,12891.0
+58,tt1985017,Atlas Shrugged II: The Strike,Atlas Shrugged,2,"Drama, Mystery, Sci-Fi",2012,5.4,6621.0
+59,tt0118655,Austin Powers: International Man of Mystery,Austin Powers,1,"Adventure, Comedy",1997,7.0,216241.0
+60,tt0145660,Austin Powers: The Spy Who Shagged Me,Austin Powers,2,"Action, Adventure, Comedy, Crime",1999,6.6,212203.0
+61,tt0295178,Austin Powers in Goldmember,Austin Powers,3,"Action, Adventure, Comedy, Crime",2002,6.2,191513.0
+62,tt0088763,Back to the Future,Back to the Future,1,"Adventure, Comedy, Sci-Fi",1985,8.5,1010895.0
+63,tt0096874,Back to the Future Part II,Back to the Future,2,"Adventure, Comedy, Sci-Fi",1989,7.8,460788.0
+64,tt0099088,Back to the Future Part III,Back to the Future,3,"Adventure, Comedy, Sci-Fi, Western",1990,7.4,388419.0
+66,tt0112442,Bad Boys,Bad Boys,1,"Action, Comedy, Crime, Thriller",1995,6.9,232706.0
+67,tt0172156,Bad Boys II,Bad Boys,2,"Action, Comedy, Crime, Thriller",2003,6.6,225438.0
+68,tt0103759,Bad Lieutenant,Bad Lieutenant,1,"Crime, Drama, Thriller",1992,7.1,37370.0
+69,tt1095217,The Bad Lieutenant: Port of Call - New Orleans,Bad Lieutenant,2,"Crime, Drama",2009,6.6,73005.0
+70,tt0307987,Bad Santa,Bad Santa,1,"Comedy, Crime, Drama",2003,7.0,131340.0
+71,tt1798603,Bad Santa 2,Bad Santa,2,"Comedy, Crime, Drama",2016,5.6,21964.0
+74,tt0414852,Banlieue 13,Banlieue,1,"Action, Crime, Sci-Fi, Thriller",2004,7.2,65415.0
+75,tt1247640,Banlieue 13: Ultimatum,Banlieue,2,"Action, Crime, Thriller",2009,6.5,42388.0
+76,tt0103772,Basic Instinct,Basic Instinct,1,"Drama, Mystery, Thriller",1992,7.0,166652.0
+77,tt0430912,Basic Instinct 2,Basic Instinct,2,"Drama, Mystery, Thriller",2006,4.3,36610.0
+78,tt0096895,Batman,Batman,1,"Action, Adventure",1989,7.5,329343.0
+79,tt0103776,Batman Returns,Batman,2,"Action, Crime, Fantasy",1992,7.0,266527.0
+80,tt0112462,Batman Forever,Batman,3,"Action, Adventure",1995,5.4,229775.0
+81,tt0118688,Batman & Robin,Batman,4,"Action, Sci-Fi",1997,3.7,228438.0
+82,tt0372784,Batman Begins,Batman,5,"Action, Adventure",2005,8.2,1266591.0
+83,tt0468569,The Dark Knight,Batman,6,"Action, Crime, Drama, Thriller",2008,9.0,2220190.0
+84,tt1345836,The Dark Knight Rises,Batman,7,"Action, Adventure",2012,8.4,1467622.0
+88,tt0112471,Before Sunrise,Before Sunrise,1,"Drama, Romance",1995,8.1,258483.0
+89,tt0381681,Before Sunset,Before Sunrise,2,"Drama, Romance",2004,8.0,225467.0
+90,tt2209418,Before Midnight,Before Sunrise,3,"Drama, Romance",2013,7.9,134325.0
+94,tt0086960,Beverly Hills Cop,Beverly Hills Cop,1,"Action, Comedy, Crime, Thriller",1984,7.3,157560.0
+95,tt0092644,Beverly Hills Cop II,Beverly Hills Cop,2,"Action, Comedy, Crime, Thriller",1987,6.5,103899.0
+96,tt0109254,Beverly Hills Cop III,Beverly Hills Cop,3,"Action, Comedy, Crime, Thriller",1994,5.6,74056.0
+97,tt0208003,Big Momma's House,Big Mommas,1,"Action, Comedy, Crime",2000,5.2,79344.0
+98,tt0421729,Big Momma's House 2,Big Mommas,2,"Comedy, Crime",2006,4.7,39710.0
+99,tt1464174,"Big Mommas: Like Father, Like Son",Big Mommas,3,"Action, Comedy, Crime",2011,4.4,24869.0
+100,tt1174954,Biohazard Regeneration,Biohazard,1,"Animation, Action, Horror, Sci-Fi, Thriller",2008,6.5,28392.0
+101,tt1753496,Biohazard: Damnation,Biohazard,2,"Animation, Action, Horror, Sci-Fi, Thriller",2012,6.5,17858.0
+102,tt0120611,Blade,Blade,1,"Action, Horror, Sci-Fi",1998,7.1,238044.0
+103,tt0187738,Blade II,Blade,2,"Action, Fantasy, Horror, Sci-Fi, Thriller",2002,6.7,195085.0
+104,tt0359013,Blade: Trinity,Blade,3,"Action, Adventure, Fantasy, Horror, Sci-Fi",2004,5.9,162384.0
+105,tt0083658,Blade Runner,Blade Runner,1,"Action, Sci-Fi, Thriller",1982,8.1,671532.0
+106,tt1856101,Blade Runner 2049,Blade Runner,2,"Action, Drama, Mystery, Sci-Fi, Thriller",2017,8.0,433402.0
+107,tt0383222,BloodRayne,BloodRayne,1,"Action, Adventure, Fantasy, Horror",2005,2.9,33689.0
+108,tt1153546,BloodRayne: The Third Reich,BloodRayne,2,"Action, Adventure, Fantasy, Horror",2011,3.0,5834.0
+110,tt0080464,The Boogey Man,Boogeyman,1,Horror,1980,4.6,3704.0
+111,tt0085266,Revenge of the Boogeyman,Boogeyman,2,Horror,1983,2.0,915.0
+112,tt0357507,Boogeyman,Boogeyman,3,"Drama, Horror, Mystery, Thriller",2005,4.2,29225.0
+113,tt0900357,Boogeyman 2,Boogeyman,4,"Drama, Horror, Thriller",2007,5.0,7627.0
+114,tt0118767,Brat,Brat,1,"Crime, Drama, Romance",1997,8.0,16138.0
+115,tt0238883,Brat 2,Brat,2,"Action, Crime, Thriller",2000,7.8,11833.0
+116,tt0243155,Bridget Jones's Diary,Bridget Jones,1,"Comedy, Drama, Romance",2001,6.7,218316.0
+117,tt0317198,Bridget Jones: The Edge of Reason,Bridget Jones,2,"Comedy, Drama, Romance",2004,6.0,102463.0
+118,tt1473832,Bridget Jones's Baby,Bridget Jones,3,"Comedy, Drama, Romance",2016,6.5,65602.0
+120,tt0103919,Candyman,Candyman,1,"Horror, Thriller",1992,6.6,66688.0
+121,tt0112625,Candyman: Farewell to the Flesh,Candyman,2,"Horror, Thriller",1995,5.3,10074.0
+122,tt0458339,Captain America: The First Avenger,Captain America,1,"Action, Adventure, Sci-Fi",2011,6.9,717470.0
+123,tt1843866,Captain America: The Winter Soldier,Captain America,2,"Action, Adventure, Sci-Fi, Thriller",2014,7.7,712991.0
+124,tt3498820,Captain America: Civil War,Captain America,3,"Action, Adventure, Sci-Fi",2016,7.8,637167.0
+125,tt0317219,Cars,Cars,1,"Animation, Comedy, Family, Sport",2006,7.1,354181.0
+126,tt1216475,Cars 2,Cars,2,"Animation, Adventure, Comedy, Family, Sport",2011,6.1,152957.0
+127,tt3606752,Cars 3,Cars,3,"Animation, Adventure, Comedy, Family, Sport",2017,6.7,69955.0
+128,tt0034587,Cat People,Cat People,1,"Fantasy, Horror, Thriller",1942,7.3,18974.0
+129,tt0036733,The Curse of the Cat People,Cat People,2,"Drama, Horror, Mystery",1944,6.9,5531.0
+130,tt0160127,Charlie's Angels,Charlie's Angels,1,"Action, Adventure, Comedy, Crime, Thriller",2000,5.5,172367.0
+131,tt0305357,Charlie's Angels: Full Throttle,Charlie's Angels,2,"Action, Adventure, Comedy, Crime",2003,4.9,118495.0
+132,tt0349205,Cheaper by the Dozen,Cheaper by the Dozen,1,"Comedy, Family",2003,5.9,91516.0
+133,tt0452598,Cheaper by the Dozen 2,Cheaper by the Dozen,2,"Adventure, Comedy, Family",2005,5.5,53182.0
+134,tt0094862,Child's Play,Child's Play,1,"Horror, Thriller",1988,6.6,84237.0
+135,tt0099253,Child's Play 2,Child's Play,2,"Horror, Thriller",1990,5.8,43392.0
+136,tt0103956,Child's Play 3,Child's Play,3,"Horror, Thriller",1991,5.1,34729.0
+137,tt0317248,Cidade de Deus,Cidade de Deus,1,"Crime, Drama",2002,8.6,680822.0
+138,tt0870090,Cidade dos Homens,Cidade de Deus,2,"Crime, Drama",2007,7.2,14888.0
+140,tt0099277,Class of 1999,Class of 1999,1,"Action, Horror, Sci-Fi",1990,5.9,6465.0
+141,tt0109442,Class of 1999 II: The Substitute,Class of 1999,2,"Action, Horror, Sci-Fi, Thriller",1994,4.4,1287.0
+142,tt0109445,Clerks,Clerks,1,Comedy,1994,7.7,208252.0
+143,tt0424345,Clerks II,Clerks,2,Comedy,2006,7.3,128350.0
+144,tt1060277,Cloverfield,Cloverfield,1,"Action, Adventure, Horror, Mystery, Sci-Fi, Thriller",2008,7.0,365423.0
+145,tt1179933,10 Cloverfield Lane,Cloverfield,2,"Drama, Horror, Mystery, Sci-Fi, Thriller",2016,7.2,280260.0
+146,tt0088933,Cocoon,Cocoon,1,"Comedy, Drama, Sci-Fi",1985,6.7,55485.0
+147,tt0094890,Cocoon: The Return,Cocoon,2,"Adventure, Comedy, Mystery, Romance, Sci-Fi",1988,5.4,14994.0
+149,tt0479884,Crank,Crank,1,"Action, Crime, Thriller",2006,6.9,229799.0
+150,tt1121931,Crank: High Voltage,Crank,2,"Action, Thriller",2009,6.2,137542.0
+151,tt0090887,Critters,Critters,1,"Comedy, Horror, Sci-Fi",1986,6.1,30156.0
+152,tt0094919,Critters 2,Critters,2,"Comedy, Horror, Sci-Fi, Thriller",1988,5.5,13408.0
+153,tt0101627,Critters 3,Critters,3,"Comedy, Horror, Sci-Fi, Thriller",1991,4.4,10650.0
+154,tt0101628,Critters 4,Critters,4,"Horror, Sci-Fi",1992,4.1,6575.0
+156,tt0123755,Cube,Cube,1,"Drama, Mystery, Sci-Fi, Thriller",1997,7.2,204349.0
+157,tt0285492,Cube 2: Hypercube,Cube,2,"Drama, Mystery, Sci-Fi, Thriller",2002,5.6,61177.0
+158,tt0377713,Cube Zero,Cube,3,"Drama, Mystery, Sci-Fi, Thriller",2004,5.7,35837.0
+163,tt1431045,Deadpool,Deadpool,1,"Action, Adventure, Comedy, Sci-Fi",2016,8.0,874655.0
+164,tt5463162,Deadpool 2,Deadpool,2,"Action, Adventure, Comedy, Sci-Fi",2018,7.7,453837.0
+166,tt1323594,Despicable Me,Despicable Me,1,"Animation, Comedy, Family, Fantasy",2010,7.6,487822.0
+167,tt1690953,Despicable Me 2,Despicable Me,2,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2013,7.3,360869.0
+168,tt3469046,Despicable Me 3,Despicable Me,3,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",2017,6.3,106910.0
+169,tt0205000,Deuce Bigalow: Male Gigolo,Deuce Bigalow,1,"Comedy, Romance",1999,5.7,69183.0
+170,tt0367652,Deuce Bigalow: European Gigolo,Deuce Bigalow,2,Comedy,2005,4.7,47603.0
+171,tt0095016,Die Hard,Die Hard,1,"Action, Thriller",1988,8.2,761992.0
+172,tt0099423,Die Hard 2,Die Hard,2,"Action, Thriller",1990,7.2,327518.0
+173,tt0112864,Die Hard: With a Vengeance,Die Hard,3,"Action, Adventure, Thriller",1995,7.6,354942.0
+174,tt0092890,Dirty Dancing,Dirty Dancing,1,"Drama, Music, Romance",1987,7.0,194026.0
+175,tt0338096,Dirty Dancing: Havana Nights,Dirty Dancing,2,"Drama, Music, Romance",2004,6.0,26216.0
+177,tt1840309,Divergent,Divergent,1,"Action, Adventure, Mystery, Sci-Fi",2014,6.7,415842.0
+178,tt2908446,Insurgent,Divergent,2,"Action, Adventure, Sci-Fi, Thriller",2015,6.2,211153.0
+179,tt3410834,Allegiant,Divergent,3,"Action, Adventure, Mystery, Sci-Fi, Thriller",2016,5.7,104224.0
+180,tt0118998,Doctor Dolittle,Doctor Dolittle,1,"Comedy, Family, Fantasy",1998,5.4,89682.0
+181,tt0240462,Dr. Dolittle 2,Doctor Dolittle,2,"Comedy, Family, Fantasy",2001,4.7,40966.0
+182,tt1564349,Dolphin Tale,Dolphin Tale,1,"Drama, Family",2011,6.9,21850.0
+183,tt2978462,Dolphin Tale 2,Dolphin Tale,2,"Drama, Family",2014,6.4,8079.0
+185,tt0109686,Dumb and Dumber,Dumb and Dumber,1,Comedy,1994,7.3,344859.0
+186,tt0329028,Dumb and Dumberer: When Harry Met Lloyd,Dumb and Dumber,2,Comedy,2003,3.4,36597.0
+187,tt2096672,Dumb and Dumber To,Dumb and Dumber,3,Comedy,2014,5.6,125447.0
+189,tt0127536,Elizabeth,Elizabeth,1,"Biography, Drama, History",1998,7.4,90473.0
+190,tt0414055,Elizabeth: The Golden Age,Elizabeth,2,"Biography, Drama, History, War",2007,6.8,65365.0
+192,tt0120667,Fantastic Four,Fantastic Four,1,"Action, Adventure, Family, Fantasy, Sci-Fi",2005,5.7,306261.0
+193,tt0486576,Fantastic Four: Rise of the Silver Surfer,Fantastic Four,2,"Action, Adventure, Family, Fantasy, Sci-Fi",2007,5.6,246473.0
+194,tt1905041,Furious 6,Fast & Furious,1,"Action, Adventure, Thriller",2013,7.1,360968.0
+195,tt2820852,Fast & Furious 7,Fast & Furious,2,"Action, Adventure, Thriller",2015,7.1,351037.0
+196,tt0101862,Father of the Bride,Father of the Bride,1,"Comedy, Family, Romance",1991,6.5,66485.0
+197,tt0113041,Father of the Bride Part II,Father of the Bride,2,"Comedy, Family, Romance",1995,6.0,33238.0
+198,tt0195714,Final Destination,Final Destination,1,"Horror, Thriller",2000,6.7,223054.0
+199,tt0309593,Final Destination 2,Final Destination,2,"Horror, Thriller",2003,6.2,148189.0
+200,tt0414982,Final Destination 3,Final Destination,3,"Fantasy, Horror, Thriller",2006,5.8,127306.0
+201,tt1144884,The Final Destination,Final Destination,4,"Fantasy, Horror, Thriller",2009,5.2,94318.0
+202,tt1622979,Final Destination 5,Final Destination,5,"Horror, Thriller",2011,5.8,103775.0
+203,tt0266543,Finding Nemo,Finding Nemo,1,"Animation, Adventure, Comedy, Family",2003,8.1,920423.0
+204,tt2277860,Finding Dory,Finding Nemo,2,"Animation, Adventure, Comedy, Family",2016,7.3,230918.0
+206,tt0089155,Fletch,Fletch,1,"Comedy, Crime, Mystery",1985,6.9,46186.0
+207,tt0097366,Fletch Lives,Fletch,2,"Comedy, Crime, Mystery",1989,6.1,19124.0
+208,tt0106950,Fortress,Fortress,1,"Action, Crime, Sci-Fi, Thriller",1992,5.9,26902.0
+209,tt0179183,Fortress 2,Fortress,2,"Action, Sci-Fi",2000,4.6,6356.0
+212,tt0080761,Friday the 13th,Friday the 13th,1,"Horror, Mystery, Thriller",1980,6.5,114151.0
+213,tt0082418,Friday the 13th Part 2,Friday the 13th,2,"Horror, Mystery, Thriller",1981,6.1,56320.0
+214,tt0083972,Friday the 13th Part III,Friday the 13th,3,"Horror, Thriller",1982,5.7,45331.0
+215,tt0087298,Friday the 13th: The Final Chapter,Friday the 13th,4,"Horror, Thriller",1984,6.0,42829.0
+216,tt0089173,Friday the 13th: A New Beginning,Friday the 13th,5,"Horror, Mystery, Thriller",1985,4.8,32231.0
+217,tt0091080,Friday the 13th Part VI: Jason Lives,Friday the 13th,6,"Horror, Thriller",1986,6.0,36688.0
+218,tt0095179,Friday the 13th Part VII: The New Blood,Friday the 13th,7,"Horror, Thriller",1988,5.3,30981.0
+219,tt0097388,Friday the 13th Part VIII: Jason Takes Manhattan,Friday the 13th,8,"Adventure, Horror, Thriller",1989,4.6,32111.0
+220,tt0758746,Friday the 13th,Friday the 13th,9,"Horror, Mystery, Thriller",2009,5.5,94266.0
+221,tt0089175,Fright Night,Fright Night,1,"Horror, Thriller",1985,7.1,57564.0
+222,tt0097390,Fright Night Part 2,Fright Night,2,"Comedy, Horror, Thriller",1988,5.9,11073.0
+223,tt1438176,Fright Night,Fright Night,3,"Comedy, Horror",2011,6.3,97557.0
+225,tt1046173,G.I. Joe: The Rise of Cobra,G.I. Joe,1,"Action, Adventure, Sci-Fi, Thriller",2009,5.8,196128.0
+226,tt1583421,G.I. Joe: Retaliation,G.I. Joe,2,"Action, Adventure, Sci-Fi, Thriller",2013,5.8,170466.0
+227,tt0356634,Garfield,Garfield,1,"Animation, Comedy, Family, Fantasy",2004,5.0,76978.0
+228,tt0455499,Garfield: A Tale of Two Kitties,Garfield,2,"Animation, Adventure, Comedy, Family",2006,5.0,37634.0
+229,tt0259324,Ghost Rider,Ghost Rider,1,"Action, Fantasy, Thriller",2007,5.2,218580.0
+230,tt1071875,Ghost Rider: Spirit of Vengeance,Ghost Rider,2,"Action, Fantasy, Thriller",2011,4.3,108395.0
+231,tt0087332,Ghostbusters,Ghostbusters,1,"Action, Comedy, Fantasy",1984,7.8,343935.0
+232,tt0097428,Ghostbusters II,Ghostbusters,2,"Action, Comedy, Fantasy, Sci-Fi",1989,6.6,177709.0
+234,tt1456635,Goon,Goon,1,"Comedy, Drama, Sport",2011,6.8,82466.0
+235,tt2417712,Goon: Last of the Enforcers,Goon,2,"Comedy, Sport",2017,5.8,11560.0
+236,tt1703199,Grave Encounters,Grave Encounters,1,"Adventure, Fantasy, Horror, Mystery",2011,6.1,50876.0
+237,tt2231554,Grave Encounters 2,Grave Encounters,2,"Action, Adventure, Fantasy, Horror, Sci-Fi",2012,5.1,22263.0
+238,tt0087363,Gremlins,Gremlins,1,"Comedy, Fantasy, Horror",1984,7.3,190142.0
+239,tt0099700,Gremlins 2: The New Batch,Gremlins,2,"Comedy, Fantasy, Horror",1990,6.4,89843.0
+240,tt2015381,Guardians of the Galaxy,Guardians of the Galaxy,1,"Action, Adventure, Comedy, Sci-Fi",2014,8.0,1015774.0
+241,tt3896198,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,2,"Action, Adventure, Comedy, Sci-Fi",2017,7.6,542701.0
+242,tt0077651,Halloween,Halloween,1,"Horror, Thriller",1978,7.8,220286.0
+243,tt0082495,Halloween II,Halloween,2,Horror,1981,6.5,71710.0
+244,tt0085636,Halloween III: Season of the Witch,Halloween,3,"Horror, Mystery, Sci-Fi",1982,4.9,41473.0
+245,tt0095271,Halloween 4: The Return of Michael Myers,Halloween,4,"Horror, Thriller",1988,5.9,41941.0
+246,tt0097474,Halloween 5: The Revenge of Michael Myers,Halloween,5,"Horror, Thriller",1989,5.2,33232.0
+247,tt0113253,Halloween: The Curse of Michael Myers,Halloween,6,"Horror, Thriller",1995,4.9,29916.0
+248,tt0120694,Halloween H20: 20 Years Later,Halloween,7,"Horror, Thriller",1998,5.8,64251.0
+249,tt0220506,Halloween: Resurrection,Halloween,8,"Horror, Thriller",2002,4.0,36221.0
+250,tt0373883,Halloween,Halloween,9,Horror,2007,6.1,106486.0
+251,tt1311067,Halloween II,Halloween,10,Horror,2009,4.9,47066.0
+252,tt1502407,Halloween,Halloween,11,"Horror, Thriller",2018,6.6,109901.0
+253,tt0212985,Hannibal,Hannibal,1,"Crime, Drama, Thriller",2001,6.8,247854.0
+254,tt0367959,Hannibal Rising,Hannibal,2,"Adventure, Crime, Drama, Thriller, War",2007,6.2,101488.0
+255,tt5308322,Happy Death Day,Happy Death Day,1,"Horror, Mystery, Thriller",2017,6.5,108354.0
+256,tt8155288,Happy Death Day 2U,Happy Death Day,2,"Comedy, Horror, Mystery, Sci-Fi, Thriller",2019,6.2,50611.0
+257,tt0366548,Happy Feet,Happy Feet,1,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",2006,6.4,165591.0
+258,tt1402488,Happy Feet Two,Happy Feet,2,"Animation, Adventure, Comedy, Family, Musical",2011,5.9,40599.0
+259,tt0366551,Harold & Kumar Go to White Castle,Harold & Kumar,1,"Adventure, Comedy",2004,7.1,178460.0
+260,tt0481536,Harold & Kumar Escape from Guantanamo Bay,Harold & Kumar,2,"Adventure, Comedy",2008,6.6,128663.0
+261,tt1268799,A Very Harold & Kumar 3D Christmas,Harold & Kumar,3,"Adventure, Comedy",2011,6.3,64273.0
+262,tt0241527,Harry Potter and the Sorcerer's Stone,Harry Potter,1,"Adventure, Family, Fantasy",2001,7.6,617029.0
+263,tt0295297,Harry Potter and the Chamber of Secrets,Harry Potter,2,"Adventure, Family, Fantasy, Mystery",2002,7.4,529927.0
+264,tt0304141,Harry Potter and the Prisoner of Azkaban,Harry Potter,3,"Adventure, Family, Fantasy, Mystery",2004,7.9,527151.0
+265,tt0330373,Harry Potter and the Goblet of Fire,Harry Potter,4,"Adventure, Family, Fantasy, Mystery",2005,7.7,524796.0
+266,tt0373889,Harry Potter and the Order of the Phoenix,Harry Potter,5,"Action, Adventure, Family, Fantasy, Mystery",2007,7.5,488506.0
+267,tt0417741,Harry Potter and the Half-Blood Prince,Harry Potter,6,"Action, Adventure, Family, Fantasy, Mystery",2009,7.6,452646.0
+268,tt0926084,Harry Potter and the Deathly Hallows: Part 1,Harry Potter,7,"Adventure, Family, Fantasy, Mystery",2010,7.7,457952.0
+269,tt1201607,Harry Potter and the Deathly Hallows: Part 2,Harry Potter,8,"Adventure, Drama, Fantasy, Mystery",2011,8.1,736025.0
+271,tt0167190,Hellboy,Hellboy,1,"Action, Fantasy, Horror",2004,6.8,301159.0
+272,tt0411477,Hellboy II: The Golden Army,Hellboy,2,"Action, Adventure, Fantasy, Horror, Sci-Fi",2008,7.0,251211.0
+273,tt0093177,Hellraiser,Hellraiser,1,"Horror, Thriller",1987,7.0,99267.0
+274,tt0104409,Hellraiser III: Hell on Earth,Hellraiser,2,Horror,1992,5.5,26484.0
+275,tt0116514,Hellraiser: Bloodline,Hellraiser,3,"Horror, Sci-Fi",1996,5.2,18630.0
+276,tt1716747,Hellraiser: Revelations,Hellraiser,4,Horror,2011,2.7,6760.0
+278,tt0099785,Home Alone,Home Alone,1,"Comedy, Family",1990,7.6,448017.0
+279,tt0104431,Home Alone 2: Lost in New York,Home Alone,2,"Adventure, Comedy, Crime, Family",1992,6.8,288823.0
+280,tt0119303,Home Alone 3,Home Alone,3,"Comedy, Crime, Family",1997,4.5,101693.0
+281,tt0322589,Honey,Honey,1,"Drama, Music, Romance",2003,5.4,42620.0
+282,tt1657283,Honey 2,Honey,2,"Comedy, Drama, Music",2011,5.3,6760.0
+283,tt0097523,"Honey, I Shrunk the Kids","Honey,  Shrunk the Kids",1,"Adventure, Comedy, Family, Sci-Fi",1989,6.3,138376.0
+284,tt0104437,"Honey, I Blew Up the Kid","Honey,  Shrunk the Kids",2,"Adventure, Comedy, Family, Romance, Sci-Fi",1992,4.8,40073.0
+285,tt1499658,Horrible Bosses,Horrible Bosses,1,"Comedy, Crime",2011,6.9,413344.0
+286,tt2170439,Horrible Bosses 2,Horrible Bosses,2,"Comedy, Crime",2014,6.3,153584.0
+287,tt0450278,Hostel,Hostel,1,Horror,2005,5.9,165629.0
+288,tt0498353,Hostel: Part II,Hostel,2,Horror,2007,5.5,83568.0
+289,tt0102059,Hot Shots!,Hot Shots!,1,"Action, Comedy",1991,6.8,96430.0
+290,tt0107144,Hot Shots! Part Deux,Hot Shots!,2,"Action, Comedy",1993,6.6,82178.0
+291,tt1231587,Hot Tub Time Machine,Hot Tub Time Machine,1,"Comedy, Sci-Fi",2010,6.4,159010.0
+292,tt2637294,Hot Tub Time Machine 2,Hot Tub Time Machine,2,"Comedy, Mystery, Sci-Fi",2015,5.1,36060.0
+293,tt0837562,Hotel Transylvania,Hotel Transylvania,1,"Animation, Comedy, Family, Fantasy",2012,7.1,216609.0
+294,tt2510894,Hotel Transylvania 2,Hotel Transylvania,2,"Animation, Comedy, Family, Fantasy",2015,6.7,102225.0
+295,tt5220122,Hotel Transylvania 3: Summer Vacation,Hotel Transylvania,3,"Animation, Adventure, Comedy, Family, Fantasy",2018,6.3,52356.0
+296,tt0892769,How to Train Your Dragon,How to Train Your Dragon,1,"Animation, Action, Adventure, Family, Fantasy",2010,8.1,646045.0
+297,tt1646971,How to Train Your Dragon 2,How to Train Your Dragon,2,"Animation, Action, Adventure, Family, Fantasy",2014,7.8,296002.0
+298,tt2386490,How to Train Your Dragon: The Hidden World,How to Train Your Dragon,3,"Animation, Action, Adventure, Family, Fantasy",2019,7.5,94167.0
+299,tt0119345,I Know What You Did Last Summer,I Know What You Did Last Summer,1,"Horror, Mystery",1997,5.7,129411.0
+300,tt0130018,I Still Know What You Did Last Summer,I Know What You Did Last Summer,2,"Horror, Mystery",1998,4.7,66830.0
+301,tt1242432,I Spit on Your Grave,I Spit on Your Grave,1,"Horror, Thriller",2010,6.3,73452.0
+302,tt2537176,I Spit on Your Grave 2,I Spit on Your Grave,2,"Horror, Thriller",2013,5.7,26227.0
+304,tt0268380,Ice Age,Ice Age,1,"Animation, Adventure, Comedy, Family, Fantasy",2002,7.5,428053.0
+305,tt0438097,Ice Age: The Meltdown,Ice Age,2,"Animation, Adventure, Comedy, Family, Fantasy",2006,6.8,249083.0
+306,tt1080016,Ice Age: Dawn of the Dinosaurs,Ice Age,3,"Animation, Adventure, Comedy, Family, Fantasy",2009,6.9,216962.0
+307,tt1667889,Ice Age: Continental Drift,Ice Age,4,"Animation, Adventure, Comedy, Family, Fantasy",2012,6.6,186136.0
+308,tt0460780,In the Name of the King: A Dungeon Siege Tale,In the Name of the King,1,"Action, Adventure, Fantasy, Horror, Thriller, War",2007,3.8,43665.0
+309,tt1767319,In the Name of the King: Two Worlds,In the Name of the King,2,"Action, Adventure, Fantasy, Thriller",2011,3.1,4574.0
+310,tt2379386,In the Name of the King: The Last Mission,In the Name of the King,3,"Action, Adventure, Fantasy, Thriller",2014,3.1,1878.0
+311,tt0116629,Independence Day,Independence Day,1,"Action, Adventure, Sci-Fi",1996,7.0,515622.0
+312,tt1628841,Independence Day: Resurgence,Independence Day,2,"Action, Adventure, Sci-Fi",2016,5.2,162278.0
+313,tt0087469,Indiana Jones and the Temple of Doom,Indiana Jones,1,"Action, Adventure",1984,7.6,433496.0
+314,tt0097576,Indiana Jones and the Last Crusade,Indiana Jones,2,"Action, Adventure",1989,8.2,670923.0
+315,tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,Indiana Jones,3,"Action, Adventure",2008,6.1,413892.0
+316,tt1591095,Insidious,Insidious,1,"Horror, Mystery, Thriller",2010,6.8,269307.0
+317,tt2226417,Insidious: Chapter 2,Insidious,2,"Horror, Mystery, Thriller",2013,6.6,149986.0
+318,tt3195644,Insidious: Chapter 3,Insidious,3,"Horror, Mystery, Thriller",2015,6.1,89717.0
+320,tt0371746,Iron Man,Iron Man,1,"Action, Adventure, Sci-Fi",2008,7.9,914174.0
+321,tt1228705,Iron Man 2,Iron Man,2,"Action, Adventure, Sci-Fi",2010,7.0,700641.0
+322,tt1300854,Iron Man Three,Iron Man,3,"Action, Adventure, Sci-Fi",2013,7.2,734324.0
+323,tt1396484,It,It,1,Horror,2017,7.3,436367.0
+324,tt7349950,It Chapter Two,It,2,"Drama, Fantasy, Horror",2019,6.6,181429.0
+327,tt0263488,Jeepers Creepers,Jeepers Creepers,1,"Horror, Mystery",2001,6.2,107692.0
+328,tt0301470,Jeepers Creepers 2,Jeepers Creepers,2,Horror,2003,5.6,56795.0
+329,tt1139592,Jeepers Creepers 3,Jeepers Creepers,3,"Action, Horror, Mystery, Thriller",2017,3.9,16223.0
+330,tt2911666,John Wick,John Wick,1,"Action, Crime, Thriller",2014,7.4,512923.0
+331,tt4425200,John Wick: Chapter 2,John Wick,2,"Action, Crime, Thriller",2017,7.5,346320.0
+332,tt6146586,John Wick: Chapter 3 - Parabellum,John Wick,3,"Action, Crime, Thriller",2019,7.5,249939.0
+333,tt0274166,Johnny English,Johnny English,1,"Action, Adventure, Comedy",2003,6.2,143834.0
+334,tt1634122,Johnny English Reborn,Johnny English,2,"Action, Adventure, Comedy, Crime",2011,6.3,116845.0
+335,tt6921996,Johnny English Strikes Again,Johnny English,3,"Action, Adventure, Comedy",2018,6.2,58428.0
+338,tt0107290,Jurassic Park,Jurassic Park,1,"Action, Adventure, Sci-Fi, Thriller",1993,8.1,834461.0
+339,tt0119567,The Lost World: Jurassic Park,Jurassic Park,2,"Action, Adventure, Sci-Fi",1997,6.6,366886.0
+340,tt0163025,Jurassic Park III,Jurassic Park,3,"Action, Adventure, Sci-Fi, Thriller",2001,5.9,288341.0
+341,tt0369610,Jurassic World,Jurassic Park,4,"Action, Adventure, Sci-Fi",2015,7.0,565368.0
+342,tt1250777,Kick-Ass,Kick-Ass,1,"Action, Comedy, Crime",2010,7.6,515259.0
+343,tt1650554,Kick-Ass 2,Kick-Ass,2,"Action, Comedy, Crime, Thriller",2013,6.5,249528.0
+344,tt0266697,Kill Bill: Vol. 1,Kill Bill,1,"Action, Crime, Thriller",2003,8.1,968381.0
+345,tt0378194,Kill Bill: Vol. 2,Kill Bill,2,"Action, Crime, Thriller",2004,8.0,662085.0
+346,tt2802144,Kingsman: The Secret Service,Kingsman,1,"Action, Adventure, Comedy, Thriller",2014,7.7,574743.0
+347,tt4649466,Kingsman: The Golden Circle,Kingsman,2,"Action, Adventure, Comedy, Crime, Thriller",2017,6.7,258047.0
+348,tt0441773,Kung Fu Panda,Kung Fu Panda,1,"Animation, Action, Adventure, Comedy, Family",2008,7.5,405897.0
+349,tt1302011,Kung Fu Panda 2,Kung Fu Panda,2,"Animation, Action, Adventure, Comedy, Family, Fantasy",2011,7.2,244717.0
+351,tt0146316,Lara Croft: Tomb Raider,Lara Croft,1,"Action, Adventure, Fantasy, Thriller",2001,5.8,193901.0
+352,tt0325703,Lara Croft Tomb Raider: The Cradle of Life,Lara Croft,2,"Action, Adventure, Fantasy",2003,5.5,127435.0
+353,tt0104692,The Lawnmower Man,Lawnmower Man,1,"Horror, Sci-Fi",1992,5.5,33069.0
+354,tt0116839,Lawnmower Man 2: Beyond Cyberspace,Lawnmower Man,2,"Action, Sci-Fi, Thriller",1996,2.5,8836.0
+356,tt0250494,Legally Blonde,Legally Blonde,1,"Comedy, Romance",2001,6.3,177493.0
+357,tt0333780,"Legally Blonde 2: Red, White & Blonde",Legally Blonde,2,Comedy,2003,4.8,59735.0
+358,tt0093409,Lethal Weapon,Lethal Weapon,1,"Action, Crime, Thriller",1987,7.6,230529.0
+359,tt0097733,Lethal Weapon 2,Lethal Weapon,2,"Action, Crime, Thriller",1989,7.2,157468.0
+360,tt0104714,Lethal Weapon 3,Lethal Weapon,3,"Action, Crime, Thriller",1992,6.7,153359.0
+361,tt0122151,Lethal Weapon 4,Lethal Weapon,4,"Action, Crime, Thriller",1998,6.6,149989.0
+364,tt0097778,Look Who's Talking,Look Who's Talking,1,Comedy,1989,5.9,75547.0
+365,tt0100050,Look Who's Talking Too,Look Who's Talking,2,"Comedy, Family, Romance",1990,4.7,43575.0
+366,tt0107438,Look Who's Talking Now,Look Who's Talking,3,"Comedy, Family, Romance",1993,4.4,27072.0
+367,tt0079501,Mad Max,Mad Max,1,"Action, Adventure, Sci-Fi, Thriller",1979,6.9,185672.0
+368,tt0082694,Mad Max 2,Mad Max,2,"Action, Adventure, Sci-Fi, Thriller",1981,7.6,162063.0
+369,tt0089530,Mad Max Beyond Thunderdome,Mad Max,3,"Action, Adventure, Sci-Fi",1985,6.3,123729.0
+370,tt0351283,Madagascar,Madagascar,1,"Animation, Adventure, Comedy, Family",2005,6.9,354682.0
+371,tt0479952,Madagascar: Escape 2 Africa,Madagascar,2,"Animation, Adventure, Comedy, Family",2008,6.6,198043.0
+372,tt1277953,Madagascar 3: Europe's Most Wanted,Madagascar,3,"Animation, Adventure, Comedy, Family",2012,6.8,157495.0
+373,tt1915581,Magic Mike,Magic Mike,1,"Comedy, Drama",2012,6.1,128563.0
+374,tt2268016,Magic Mike XXL,Magic Mike,2,"Comedy, Drama, Music",2015,5.6,50805.0
+376,tt0097815,Major League,Major League,1,"Comedy, Sport",1989,7.2,60202.0
+377,tt0110442,Major League II,Major League,2,"Comedy, Sport",1994,5.6,24537.0
+378,tt0120742,Major League: Back to the Minors,Major League,3,"Comedy, Sport",1998,4.6,6959.0
+379,tt0795421,Mamma Mia!,Mamma Mia!,1,"Comedy, Musical, Romance",2008,6.4,207864.0
+380,tt6911608,Mamma Mia! Here We Go Again,Mamma Mia!,2,"Comedy, Musical, Romance",2018,6.7,73155.0
+384,tt1790864,The Maze Runner,Maze Runner,1,"Action, Mystery, Sci-Fi, Thriller",2014,6.8,405872.0
+385,tt4046784,Maze Runner: The Scorch Trials,Maze Runner,2,"Action, Adventure, Sci-Fi, Thriller",2015,6.3,214083.0
+386,tt4500922,Maze Runner: The Death Cure,Maze Runner,3,"Action, Adventure, Sci-Fi, Thriller",2018,6.2,105193.0
+388,tt0119654,Men in Black,Men in Black,1,"Action, Adventure, Comedy, Sci-Fi",1997,7.3,503188.0
+389,tt0120912,Men in Black II,Men in Black,2,"Action, Adventure, Comedy, Mystery, Sci-Fi",2002,6.2,334354.0
+390,tt1409024,Men in Black 3,Men in Black,3,"Action, Adventure, Comedy, Family, Sci-Fi",2012,6.8,327084.0
+393,tt0212346,Miss Congeniality,Miss Congeniality,1,"Action, Comedy, Crime, Romance",2000,6.2,181080.0
+394,tt0385307,Miss Congeniality 2: Armed & Fabulous,Miss Congeniality,2,"Action, Comedy, Crime",2005,5.1,67685.0
+395,tt0117060,Mission: Impossible,Mission,1,"Action, Adventure, Thriller",1996,7.1,376875.0
+396,tt0120755,Mission: Impossible II,Mission,2,"Action, Adventure, Thriller",2000,6.1,305739.0
+397,tt0317919,Mission: Impossible III,Mission,3,"Action, Adventure, Thriller",2006,6.9,321562.0
+398,tt1229238,Mission: Impossible - Ghost Protocol,Mission,4,"Action, Adventure, Thriller",2011,7.4,446322.0
+399,tt2381249,Mission: Impossible - Rogue Nation,Mission,5,"Action, Adventure, Thriller",2015,7.4,331437.0
+400,tt4912910,Mission: Impossible - Fallout,Mission,6,"Action, Adventure, Thriller",2018,7.7,274887.0
+401,tt1470827,Monsters,Monsters,1,"Adventure, Drama, Romance, Sci-Fi, Thriller",2010,6.4,86384.0
+402,tt1935302,Monsters: Dark Continent,Monsters,2,"Action, Drama, Horror, Sci-Fi, Thriller, War",2014,4.3,9802.0
+404,tt0259446,My Big Fat Greek Wedding,My Big Fat Greek Wedding,1,"Comedy, Drama, Romance",2002,6.5,117317.0
+405,tt3760922,My Big Fat Greek Wedding 2,My Big Fat Greek Wedding,2,"Comedy, Romance",2016,6.0,27518.0
+406,tt0396752,Nanny McPhee,Nanny McPhee,1,"Comedy, Family, Fantasy",2005,6.5,65500.0
+407,tt1415283,Nanny McPhee and the Big Bang,Nanny McPhee,2,"Comedy, Family, Fantasy",2010,6.1,27125.0
+408,tt0368891,National Treasure,National Treasure,1,"Action, Adventure, Mystery, Thriller",2004,6.8,297370.0
+409,tt0465234,National Treasure: Book of Secrets,National Treasure,2,"Action, Adventure, Family, Mystery, Thriller",2007,6.5,213808.0
+410,tt0477347,Night at the Museum,Night at the Museum,1,"Adventure, Comedy, Family, Fantasy",2006,6.4,304614.0
+411,tt1078912,Night at the Museum: Battle of the Smithsonian,Night at the Museum,2,"Adventure, Comedy, Family, Fantasy",2009,6.0,171512.0
+412,tt1937390,Nymphomaniac: Vol. I,Nymphomaniac,1,Drama,2013,6.9,113492.0
+413,tt2382009,Nymphomaniac: Vol. II,Nymphomaniac,2,Drama,2013,6.7,84318.0
+414,tt0240772,Ocean's Eleven,Ocean's Eleven,1,"Crime, Thriller",2001,7.7,499949.0
+415,tt0349903,Ocean's Twelve,Ocean's Eleven,2,"Crime, Thriller",2004,6.5,348680.0
+416,tt0496806,Ocean's Thirteen,Ocean's Eleven,3,"Action, Crime, Thriller",2007,6.9,312272.0
+417,tt2302755,Olympus Has Fallen,Olympus Has Fallen,1,"Action, Thriller",2013,6.5,250938.0
+418,tt3300542,London Has Fallen,Olympus Has Fallen,2,"Action, Thriller",2016,5.9,139661.0
+419,tt0400717,Open Season,Open Season,1,"Animation, Adventure, Comedy, Family, Fantasy",2006,6.1,83891.0
+420,tt1646926,Open Season 3,Open Season,2,"Animation, Adventure, Comedy, Family",2010,5.1,9698.0
+421,tt1109624,Paddington,Paddington,1,"Adventure, Comedy, Family, Fantasy",2014,7.2,93758.0
+422,tt4468740,Paddington 2,Paddington,2,"Adventure, Comedy, Family, Fantasy",2017,7.8,56808.0
+423,tt1179904,Paranormal Activity,Paranormal Activity,1,"Horror, Mystery, Thriller",2007,6.3,215732.0
+424,tt1536044,Paranormal Activity 2,Paranormal Activity,2,Horror,2010,5.6,96598.0
+425,tt1778304,Paranormal Activity 3,Paranormal Activity,3,"Horror, Mystery, Thriller",2011,5.8,88479.0
+426,tt2109184,Paranormal Activity 4,Paranormal Activity,4,"Horror, Mystery, Thriller",2012,4.6,60819.0
+427,tt1114740,Paul Blart: Mall Cop,Paul Blart,1,"Action, Comedy, Crime, Family",2009,5.2,100345.0
+428,tt3450650,Paul Blart: Mall Cop 2,Paul Blart,2,"Action, Comedy, Crime, Family",2015,4.4,33132.0
+429,tt0098084,Pet Sematary,Pet Sematary,1,"Horror, Thriller",1989,6.6,91277.0
+430,tt0105128,Pet Sematary II,Pet Sematary,2,"Fantasy, Horror",1992,4.9,18756.0
+431,tt0464154,Piranha 3D,Piranha 3D,1,"Comedy, Horror",2010,5.4,84414.0
+432,tt1714203,Piranha 3DD,Piranha 3D,2,"Comedy, Horror",2012,3.7,38952.0
+433,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean,1,"Action, Adventure, Fantasy",2003,8.0,996165.0
+434,tt0383574,Pirates of the Caribbean: Dead Man's Chest,Pirates of the Caribbean,2,"Action, Adventure, Fantasy",2006,7.3,640094.0
+435,tt0449088,Pirates of the Caribbean: At World's End,Pirates of the Caribbean,3,"Action, Adventure, Fantasy",2007,7.1,581422.0
+436,tt1298650,Pirates of the Caribbean: On Stranger Tides,Pirates of the Caribbean,4,"Action, Adventure, Fantasy",2011,6.6,469167.0
+439,tt0087928,Police Academy,Police Academy,1,Comedy,1984,6.7,110148.0
+440,tt0089822,Police Academy 2: Their First Assignment,Police Academy,2,Comedy,1985,5.8,49976.0
+441,tt0091777,Police Academy 3: Back in Training,Police Academy,3,Comedy,1986,5.4,41375.0
+442,tt0093756,Police Academy 4: Citizens on Patrol,Police Academy,4,"Comedy, Crime",1987,5.0,39265.0
+443,tt0095882,Police Academy 5: Assignment: Miami Beach,Police Academy,5,"Comedy, Crime",1988,4.7,31884.0
+444,tt0098105,Police Academy 6: City Under Siege,Police Academy,6,"Comedy, Crime",1989,4.5,27472.0
+445,tt0110857,Police Academy: Mission to Moscow,Police Academy,7,"Comedy, Crime",1994,3.6,31079.0
+446,tt0084516,Poltergeist,Poltergeist,1,"Horror, Thriller",1982,7.3,136958.0
+447,tt0091778,Poltergeist II: The Other Side,Poltergeist,2,Horror,1986,5.7,24027.0
+448,tt0095889,Poltergeist III,Poltergeist,3,"Horror, Thriller",1988,4.7,16343.0
+449,tt0093773,Predator,Predator,1,"Action, Adventure, Sci-Fi, Thriller",1987,7.8,361813.0
+450,tt0100403,Predator 2,Predator,2,"Action, Horror, Sci-Fi",1990,6.3,142218.0
+451,tt1424381,Predators,Predator,3,"Action, Adventure, Sci-Fi, Thriller",2010,6.4,207544.0
+453,tt0054215,Psycho,Psycho,1,"Horror, Mystery, Thriller",1960,8.5,579209.0
+454,tt0086154,Psycho II,Psycho,2,"Crime, Horror, Mystery, Thriller",1983,6.5,22985.0
+455,tt1082868,Quarantine,Quarantine,1,"Action, Horror, Sci-Fi, Thriller",2008,5.9,68853.0
+456,tt1699231,Quarantine 2: Terminal,Quarantine,2,"Action, Horror, Sci-Fi, Thriller",2011,5.2,18151.0
+457,tt1245526,RED,RED,1,"Action, Comedy, Crime, Thriller",2010,7.0,282022.0
+458,tt1821694,RED 2,RED,2,"Action, Adventure, Comedy, Crime, Thriller",2013,6.6,155863.0
+460,tt0089880,Rambo: First Blood Part II,Rambo,1,"Action, Adventure, Thriller",1985,6.5,149938.0
+461,tt0095956,Rambo III,Rambo,2,"Action, Adventure",1988,5.8,118546.0
+462,tt0462499,Rambo,Rambo,3,"Action, Thriller, War",2008,7.0,213774.0
+464,tt0120804,Resident Evil,Resident Evil,1,"Action, Horror, Sci-Fi",2002,6.7,241778.0
+465,tt0318627,Resident Evil: Apocalypse,Resident Evil,2,"Action, Horror, Sci-Fi, Thriller",2004,6.2,182413.0
+466,tt0432021,Resident Evil: Extinction,Resident Evil,3,"Action, Horror, Sci-Fi, Thriller",2007,6.3,179894.0
+467,tt1220634,Resident Evil: Afterlife,Resident Evil,4,"Action, Adventure, Horror, Sci-Fi, Thriller",2010,5.8,158987.0
+468,tt1855325,Resident Evil: Retribution,Resident Evil,5,"Action, Horror, Sci-Fi, Thriller",2012,5.4,130091.0
+469,tt1408253,Ride Along,Ride Along,1,"Action, Comedy, Crime",2014,6.2,99545.0
+470,tt2869728,Ride Along 2,Ride Along,2,"Action, Comedy, Crime",2016,5.9,51902.0
+471,tt1436562,Rio,Rio,1,"Animation, Adventure, Comedy, Crime, Family, Musical",2011,6.9,200939.0
+472,tt2357291,Rio 2,Rio,2,"Animation, Adventure, Comedy, Family, Musical",2014,6.3,77120.0
+473,tt0265651,Ripley's Game,Ripley's Game,1,"Crime, Drama, Mystery, Thriller",2002,6.6,16929.0
+474,tt0219171,Ripley Under Ground,Ripley's Game,2,"Crime, Drama, Thriller",2005,6.0,2341.0
+476,tt0093870,RoboCop,RoboCop,1,"Action, Crime, Sci-Fi, Thriller",1987,7.5,226017.0
+477,tt0100502,RoboCop 2,RoboCop,2,"Action, Crime, Sci-Fi, Thriller",1990,5.8,79240.0
+478,tt0107978,RoboCop 3,RoboCop,3,"Action, Crime, Sci-Fi, Thriller",1993,4.1,44709.0
+479,tt0075148,Rocky,Rocky,1,"Drama, Sport",1976,8.1,501730.0
+480,tt0079817,Rocky II,Rocky,2,"Drama, Sport",1979,7.3,185378.0
+481,tt0084602,Rocky III,Rocky,3,"Drama, Sport",1982,6.8,168207.0
+482,tt0089927,Rocky IV,Rocky,4,"Drama, Sport",1985,6.9,180964.0
+483,tt0100507,Rocky V,Rocky,5,"Drama, Sport",1990,5.3,123351.0
+484,tt0479143,Rocky Balboa,Rocky,6,"Action, Drama, Sport",2006,7.1,199487.0
+486,tt0120812,Rush Hour,Rush Hour,1,"Action, Comedy, Crime, Thriller",1998,7.0,232492.0
+487,tt0266915,Rush Hour 2,Rush Hour,2,"Action, Comedy, Crime, Thriller",2001,6.6,195036.0
+488,tt0293564,Rush Hour 3,Rush Hour,3,"Action, Comedy, Crime, Thriller",2007,6.2,149445.0
+491,tt0387564,Saw,Saw,1,"Horror, Mystery",2004,7.6,369172.0
+492,tt0432348,Saw II,Saw,2,"Horror, Mystery",2005,6.6,227496.0
+493,tt0489270,Saw III,Saw,3,"Horror, Mystery, Thriller",2006,6.2,174125.0
+494,tt0890870,Saw IV,Saw,4,"Horror, Mystery, Thriller",2007,5.9,136978.0
+495,tt1132626,Saw V,Saw,5,"Horror, Mystery",2008,5.8,112192.0
+496,tt1233227,Saw VI,Saw,6,"Fantasy, Horror, Mystery",2009,6.0,98810.0
+497,tt1477076,Saw 3D,Saw,7,"Fantasy, Horror, Mystery",2010,5.6,87969.0
+498,tt0175142,Scary Movie,Scary Movie,1,Comedy,2000,6.2,226398.0
+499,tt0257106,Scary Movie 2,Scary Movie,2,"Comedy, Horror",2001,5.3,145986.0
+500,tt0306047,Scary Movie 3,Scary Movie,3,"Comedy, Horror",2003,5.5,134346.0
+501,tt0362120,Scary Movie 4,Scary Movie,4,"Comedy, Horror",2006,5.1,111310.0
+502,tt0795461,Scary Movie 5,Scary Movie,5,"Comedy, Horror",2013,3.5,63695.0
+503,tt0267913,Scooby-Doo,Scooby-Doo,1,"Adventure, Comedy, Family, Fantasy, Mystery",2002,5.1,95117.0
+504,tt0331632,Scooby-Doo 2: Monsters Unleashed,Scooby-Doo,2,"Adventure, Comedy, Family, Fantasy, Horror, Mystery, Sci-Fi",2004,5.0,47429.0
+505,tt0117571,Scream,Scream,1,"Horror, Mystery",1996,7.2,276203.0
+506,tt0120082,Scream 2,Scream,2,"Horror, Mystery",1997,6.2,152265.0
+507,tt0134084,Scream 3,Scream,3,"Horror, Mystery",2000,5.6,120128.0
+508,tt1262416,Scream 4,Scream,4,"Horror, Mystery",2011,6.1,124064.0
+511,tt1899353,Serbuan maut,Serbuan maut,1,"Action, Thriller",2011,7.6,185640.0
+512,tt2265171,Serbuan maut 2: Berandal,Serbuan maut,2,"Action, Crime, Thriller",2014,8.0,110992.0
+514,tt0184894,Shanghai Noon,Shanghai Noon,1,"Action, Adventure, Comedy, Western",2000,6.6,116750.0
+515,tt0300471,Shanghai Knights,Shanghai Noon,2,"Action, Adventure, Comedy",2003,6.2,98186.0
+516,tt0988045,Sherlock Holmes,Sherlock Holmes,1,"Action, Adventure, Mystery",2009,7.6,570651.0
+517,tt1515091,Sherlock Holmes: A Game of Shadows,Sherlock Holmes,2,"Action, Adventure, Mystery",2011,7.5,411169.0
+518,tt0091949,Short Circuit,Short Circuit,1,"Comedy, Family, Sci-Fi",1986,6.7,55270.0
+519,tt0096101,Short Circuit 2,Short Circuit,2,"Comedy, Drama, Family, Sci-Fi",1988,5.8,23245.0
+520,tt0126029,Shrek,Shrek,1,"Animation, Adventure, Comedy, Family, Fantasy",2001,7.8,595484.0
+521,tt0298148,Shrek 2,Shrek,2,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2004,7.2,406763.0
+522,tt0413267,Shrek the Third,Shrek,3,"Animation, Adventure, Comedy, Family, Fantasy",2007,6.1,272143.0
+523,tt0892791,Shrek Forever After,Shrek,4,"Animation, Adventure, Comedy, Family, Fantasy, Romance",2010,6.3,178709.0
+524,tt0401792,Sin City,Sin City,1,"Crime, Thriller",2005,8.0,730910.0
+525,tt0458481,Sin City: A Dame to Kill For,Sin City,2,"Action, Crime, Thriller",2014,6.5,148862.0
+528,tt0114508,Species,Species,1,"Action, Horror, Sci-Fi, Thriller",1995,5.8,72284.0
+529,tt0120841,Species II,Species,2,"Action, Horror, Sci-Fi, Thriller",1998,4.4,26806.0
+530,tt0111257,Speed,Speed,1,"Action, Adventure, Thriller",1994,7.2,319378.0
+531,tt0120179,Speed 2: Cruise Control,Speed,2,"Action, Adventure, Crime, Romance, Thriller",1997,3.9,72879.0
+532,tt0145487,Spider-Man,Spider-Man,1,"Action, Adventure, Sci-Fi",2002,7.3,670777.0
+533,tt0316654,Spider-Man 2,Spider-Man,2,"Action, Adventure, Sci-Fi",2004,7.3,528482.0
+534,tt0413300,Spider-Man 3,Spider-Man,3,"Action, Adventure, Sci-Fi",2007,6.2,485814.0
+535,tt2250912,Spider-Man: Homecoming,Spider-Man,4,"Action, Adventure, Sci-Fi",2017,7.4,487320.0
+536,tt6320628,Spider-Man: Far from Home,Spider-Man,5,"Action, Adventure, Sci-Fi",2019,7.5,295530.0
+538,tt0227538,Spy Kids,Spy Kids,1,"Action, Adventure, Comedy, Family, Sci-Fi",2001,5.5,105463.0
+539,tt0287717,Spy Kids 2: Island of Lost Dreams,Spy Kids,2,"Action, Adventure, Comedy, Family, Sci-Fi",2002,5.1,58662.0
+540,tt0338459,Spy Kids 3: Game Over,Spy Kids,3,"Action, Adventure, Comedy, Family, Sci-Fi",2003,4.3,53163.0
+541,tt1517489,Spy Kids 4: All the Time in the World,Spy Kids,4,"Action, Adventure, Comedy, Family, Sci-Fi",2011,3.5,21889.0
+542,tt0079945,Star Trek: The Motion Picture,Star Trek,1,"Adventure, Mystery, Sci-Fi",1979,6.4,79071.0
+543,tt0084726,Star Trek II: The Wrath of Khan,Star Trek,2,"Action, Adventure, Sci-Fi",1982,7.7,109874.0
+544,tt0088170,Star Trek III: The Search for Spock,Star Trek,3,"Action, Adventure, Sci-Fi",1984,6.7,72566.0
+545,tt0092007,Star Trek IV: The Voyage Home,Star Trek,4,"Adventure, Comedy, Sci-Fi",1986,7.3,76440.0
+546,tt0098382,Star Trek V: The Final Frontier,Star Trek,5,"Action, Adventure, Fantasy, Sci-Fi, Thriller",1989,5.5,54509.0
+547,tt0102975,Star Trek VI: The Undiscovered Country,Star Trek,6,"Action, Adventure, Sci-Fi, Thriller",1991,7.2,68346.0
+548,tt0111280,Star Trek: Generations,Star Trek,7,"Action, Adventure, Mystery, Sci-Fi, Thriller",1994,6.6,74243.0
+549,tt0117731,Star Trek: First Contact,Star Trek,8,"Action, Adventure, Drama, Sci-Fi, Thriller",1996,7.6,115267.0
+550,tt0120844,Star Trek: Insurrection,Star Trek,9,"Action, Adventure, Sci-Fi, Thriller",1998,6.4,68755.0
+551,tt0253754,Star Trek: Nemesis,Star Trek,10,"Action, Adventure, Sci-Fi, Thriller",2002,6.4,71979.0
+552,tt0796366,Star Trek,Star Trek,11,"Action, Adventure, Sci-Fi",2009,7.9,569573.0
+553,tt1408101,Star Trek Into Darkness,Star Trek,12,"Action, Adventure, Sci-Fi",2013,7.7,456702.0
+554,tt2660888,Star Trek Beyond,Star Trek,13,"Action, Adventure, Sci-Fi, Thriller",2016,7.1,221100.0
+555,tt0076759,Star Wars,Star Wars,1,"Action, Adventure, Fantasy, Sci-Fi",1977,8.6,1195048.0
+556,tt0080684,Star Wars: Episode V - The Empire Strikes Back,Star Wars,2,"Action, Adventure, Fantasy, Sci-Fi",1980,8.7,1122670.0
+557,tt0086190,Star Wars: Episode VI - Return of the Jedi,Star Wars,3,"Action, Adventure, Fantasy, Sci-Fi",1983,8.3,920556.0
+558,tt0120915,Star Wars: Episode I - The Phantom Menace,Star Wars,4,"Action, Adventure, Fantasy, Sci-Fi",1999,6.5,707772.0
+559,tt0121765,Star Wars: Episode II - Attack of the Clones,Star Wars,5,"Action, Adventure, Fantasy, Sci-Fi",2002,6.5,620780.0
+560,tt0121766,Star Wars: Episode III - Revenge of the Sith,Star Wars,6,"Action, Adventure, Fantasy, Sci-Fi",2005,7.5,688982.0
+562,tt0462590,Step Up,Step Up,1,"Crime, Drama, Music, Romance",2006,6.5,108370.0
+563,tt1023481,Step Up 2: The Streets,Step Up,2,"Drama, Music, Romance",2008,6.2,78492.0
+564,tt1193631,Step Up 3D,Step Up,3,"Drama, Music, Romance",2010,6.2,54820.0
+565,tt1800741,Step Up Revolution,Step Up,4,"Drama, Music, Romance",2012,6.4,52908.0
+568,tt0078346,Superman,Superman,1,"Action, Adventure, Drama, Sci-Fi",1978,7.3,155061.0
+569,tt0081573,Superman II,Superman,2,"Action, Adventure, Sci-Fi",1980,6.8,95572.0
+570,tt0086393,Superman III,Superman,3,"Action, Adventure, Comedy, Sci-Fi",1983,5.0,62647.0
+571,tt0094074,Superman IV: The Quest for Peace,Superman,4,"Action, Adventure, Family, Sci-Fi",1987,3.7,41709.0
+573,tt0936501,Taken,Taken,1,"Action, Thriller",2008,7.8,555244.0
+574,tt1397280,Taken 2,Taken,2,"Action, Thriller",2012,6.3,283945.0
+575,tt2446042,Taken 3,Taken,3,"Action, Thriller",2014,6.0,174354.0
+576,tt0152930,Taxi,Taxi,1,"Action, Comedy, Crime",1998,7.0,74927.0
+577,tt0183869,Taxi 2,Taxi,2,"Action, Comedy, Crime",2000,6.5,50041.0
+578,tt0295721,Taxi 3,Taxi,3,"Action, Comedy, Crime",2003,5.8,39393.0
+579,tt0804540,Taxi 4,Taxi,4,"Action, Comedy, Crime, Family",2007,5.6,26107.0
+580,tt1637725,Ted,Ted,1,Comedy,2012,6.9,558939.0
+581,tt2637276,Ted 2,Ted,2,Comedy,2015,6.3,178425.0
+582,tt1291150,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,1,"Action, Adventure, Comedy, Sci-Fi",2014,5.8,197599.0
+583,tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,Teenage Mutant Ninja Turtles,2,"Action, Adventure, Comedy, Sci-Fi",2016,6.0,81919.0
+584,tt0088247,The Terminator,Terminator,1,"Action, Sci-Fi",1984,8.0,777492.0
+585,tt0103064,Terminator 2: Judgment Day,Terminator,2,"Action, Sci-Fi",1991,8.5,966669.0
+586,tt0181852,Terminator 3: Rise of the Machines,Terminator,3,"Action, Sci-Fi",2003,6.3,369497.0
+587,tt0438488,Terminator Salvation,Terminator,4,"Action, Adventure, Sci-Fi",2009,6.5,337090.0
+590,tt0948470,The Amazing Spider-Man,The Amazing Spider-Man,1,"Action, Adventure, Sci-Fi",2012,6.9,547041.0
+591,tt1872181,The Amazing Spider-Man 2,The Amazing Spider-Man,2,"Action, Adventure, Sci-Fi",2014,6.6,406777.0
+592,tt0115571,The Arrival,The Arrival,1,"Sci-Fi, Thriller",1996,6.3,31009.0
+593,tt0122961,The Second Arrival,The Arrival,2,"Drama, Horror, Sci-Fi, Thriller",1998,3.8,2715.0
+594,tt0848228,The Avengers,The Avengers,1,"Action, Adventure, Sci-Fi",2012,8.0,1234544.0
+595,tt2395427,Avengers: Age of Ultron,The Avengers,2,"Action, Adventure, Sci-Fi",2015,7.3,716040.0
+596,tt4154756,Avengers: Infinity War,The Avengers,3,"Action, Adventure, Sci-Fi",2018,8.5,781599.0
+597,tt4154796,Avengers: Endgame,The Avengers,4,"Action, Adventure, Drama, Sci-Fi",2019,8.4,730547.0
+599,tt0168501,The Best Man,The Best Man,1,"Comedy, Drama, Romance",1999,6.8,8981.0
+600,tt2083355,The Best Man Holiday,The Best Man,2,"Comedy, Drama",2013,6.7,14554.0
+601,tt0144117,The Boondock Saints,The Boondock Saints,1,"Action, Crime, Thriller",1999,7.8,223626.0
+602,tt1300851,The Boondock Saints II: All Saints Day,The Boondock Saints,2,"Action, Crime, Thriller",2009,6.3,60567.0
+603,tt0258463,The Bourne Identity,The Bourne Identity,1,"Action, Mystery, Thriller",2002,7.9,495466.0
+604,tt0372183,The Bourne Supremacy,The Bourne Identity,2,"Action, Mystery, Thriller",2004,7.7,424267.0
+605,tt0440963,The Bourne Ultimatum,The Bourne Identity,3,"Action, Mystery, Thriller",2007,8.0,594864.0
+606,tt1194173,The Bourne Legacy,The Bourne Identity,4,"Action, Adventure, Thriller",2012,6.7,278914.0
+607,tt0289879,The Butterfly Effect,The Butterfly Effect,1,"Drama, Sci-Fi, Thriller",2004,7.6,441285.0
+608,tt0457297,The Butterfly Effect 2,The Butterfly Effect,2,"Drama, Sci-Fi, Thriller",2006,4.5,33870.0
+609,tt1234541,The Butterfly Effect 3: Revelations,The Butterfly Effect,3,"Crime, Sci-Fi, Thriller",2009,5.6,18392.0
+610,tt0296572,The Chronicles of Riddick,The Chronicles of Riddick,1,"Action, Adventure, Sci-Fi, Thriller",2004,6.7,210972.0
+611,tt1411250,Riddick,The Chronicles of Riddick,2,"Action, Adventure, Sci-Fi, Thriller",2013,6.4,150974.0
+612,tt0844479,The Collector,The Collector,1,"Action, Crime, Horror, Thriller",2009,6.4,56139.0
+613,tt1748227,The Collection,The Collector,2,"Action, Adventure, Crime, Horror, Thriller",2012,6.1,44363.0
+615,tt1457767,The Conjuring,The Conjuring,1,"Horror, Mystery, Thriller",2013,7.5,426127.0
+616,tt3065204,The Conjuring 2,The Conjuring,2S,"Horror, Mystery, Thriller",2016,7.3,215200.0
+617,tt0109506,The Crow,The Crow,1,"Action, Drama, Fantasy",1994,7.6,162437.0
+618,tt0115986,The Crow: City of Angels,The Crow,2,"Action, Crime, Fantasy, Thriller",1996,4.7,18769.0
+619,tt0132910,The Crow: Salvation,The Crow,3,"Action, Crime, Fantasy, Mystery, Thriller",2000,4.9,10611.0
+620,tt0353324,The Crow: Wicked Prayer,The Crow,4,"Action, Adventure, Comedy, Fantasy, Horror, Thriller",2005,3.0,8125.0
+621,tt0382625,The Da Vinci Code,The Da Vinci Code,1,"Mystery, Thriller",2006,6.6,390074.0
+622,tt0808151,Angels & Demons,The Da Vinci Code,2,"Action, Mystery, Thriller",2009,6.7,265908.0
+623,tt1386925,The Dead,The Dead,1,"Action, Adventure, Drama, Horror, Sci-Fi, Thriller",2010,5.7,8657.0
+624,tt2917336,The Dead 2: India,The Dead,2,Horror,2013,5.1,1794.0
+626,tt0435625,The Descent,The Descent,1,"Adventure, Horror, Thriller",2005,7.2,195234.0
+627,tt1073105,The Descent: Part 2,The Descent,2,"Adventure, Horror, Thriller",2009,5.8,42607.0
+629,tt0455944,The Equalizer,The Equalizer,1,"Action, Crime, Thriller",2014,7.2,321533.0
+630,tt3766354,The Equalizer 2,The Equalizer,2,"Action, Crime, Thriller",2018,6.7,120152.0
+632,tt0083907,The Evil Dead,The Evil Dead,1,Horror,1981,7.5,180537.0
+633,tt0092991,Evil Dead II,The Evil Dead,2,"Comedy, Horror",1987,7.8,143463.0
+634,tt0070047,The Exorcist,The Exorcist,1,Horror,1973,8.0,351436.0
+635,tt0076009,Exorcist II: The Heretic,The Exorcist,2,Horror,1977,3.8,21114.0
+636,tt0099528,The Exorcist III,The Exorcist,3,"Drama, Horror, Mystery",1990,6.4,24318.0
+637,tt0204313,Exorcist: The Beginning,The Exorcist,4,"Horror, Mystery, Thriller",2004,5.2,32736.0
+638,tt1320244,The Last Exorcism,The Exorcist,5,"Horror, Mystery, Thriller",2010,5.6,47238.0
+639,tt1320253,The Expendables,The Expendables,1,"Action, Adventure, Thriller",2010,6.5,319344.0
+640,tt1764651,The Expendables 2,The Expendables,2,"Action, Adventure, Thriller",2012,6.6,286945.0
+641,tt0232500,The Fast and the Furious,The Fast and the Furious,1,"Action, Crime, Thriller",2001,6.8,338121.0
+642,tt0322259,2 Fast 2 Furious,The Fast and the Furious,2,"Action, Crime, Thriller",2003,5.9,244653.0
+643,tt0463985,The Fast and the Furious: Tokyo Drift,The Fast and the Furious,3,"Action, Crime, Thriller",2006,6.0,233991.0
+644,tt1013752,Fast & Furious,The Fast and the Furious,4,"Action, Thriller",2009,6.6,255751.0
+645,tt1596343,Fast Five,The Fast and the Furious,5,"Action, Adventure, Crime, Thriller",2011,7.3,344902.0
+647,tt0091064,The Fly,The Fly,1,"Drama, Horror, Sci-Fi",1986,7.6,153907.0
+648,tt0097368,The Fly II,The Fly,2,"Drama, Horror, Sci-Fi",1989,5.1,20765.0
+650,tt0067116,The French Connection,The French Connection,1,"Action, Crime, Drama, Thriller",1971,7.7,106133.0
+651,tt0073018,French Connection II,The French Connection,2,"Action, Crime, Drama, Thriller",1975,6.8,16176.0
+653,tt0068646,The Godfather,The Godfather,1,"Crime, Drama",1972,9.2,1554770.0
+654,tt0071562,The Godfather: Part II,The Godfather,2,"Crime, Drama",1974,9.0,1086630.0
+655,tt0099674,The Godfather: Part III,The Godfather,3,"Crime, Drama",1990,7.6,346855.0
+656,tt0391198,The Grudge,The Grudge,1,"Horror, Mystery, Thriller",2004,5.9,136571.0
+657,tt0433386,The Grudge 2,The Grudge,2,"Horror, Thriller",2006,5.1,46385.0
+658,tt1053859,The Grudge 3,The Grudge,3,"Horror, Mystery, Thriller",2009,4.7,16934.0
+659,tt1119646,The Hangover,The Hangover,1,Comedy,2009,7.7,701241.0
+660,tt1411697,The Hangover Part II,The Hangover,2,Comedy,2011,6.4,453132.0
+661,tt1951261,The Hangover Part III,The Hangover,3,"Comedy, Crime",2013,5.8,285972.0
+662,tt0077681,The Hills Have Eyes,The Hills Have Eyes,1,"Horror, Thriller",1977,6.3,28654.0
+663,tt0089274,The Hills Have Eyes Part II,The Hills Have Eyes,2,"Horror, Thriller",1984,3.8,5465.0
+664,tt0454841,The Hills Have Eyes,The Hills Have Eyes,3,"Horror, Thriller",2006,6.4,155015.0
+665,tt0800069,The Hills Have Eyes II,The Hills Have Eyes,4,"Horror, Thriller",2007,5.1,59541.0
+666,tt0903624,The Hobbit: An Unexpected Journey,The Hobbit,1,"Adventure, Family, Fantasy",2012,7.8,742530.0
+667,tt1170358,The Hobbit: The Desolation of Smaug,The Hobbit,2,"Adventure, Fantasy",2013,7.8,587530.0
+668,tt2310332,The Hobbit: The Battle of the Five Armies,The Hobbit,3,"Adventure, Fantasy",2014,7.4,460835.0
+669,tt1392170,The Hunger Games,The Hunger Games,1,"Action, Adventure, Sci-Fi, Thriller",2012,7.2,825301.0
+670,tt1951264,The Hunger Games: Catching Fire,The Hunger Games,2,"Action, Adventure, Mystery, Sci-Fi, Thriller",2013,7.5,599210.0
+671,tt1951265,The Hunger Games: Mockingjay - Part 1,The Hunger Games,3,"Action, Adventure, Sci-Fi, Thriller",2014,6.6,400984.0
+672,tt1951266,The Hunger Games: Mockingjay - Part 2,The Hunger Games,4,"Action, Adventure, Sci-Fi, Thriller",2015,6.5,273988.0
+674,tt0286716,Hulk,The Incredible Hulk,1,"Action, Sci-Fi",2003,5.6,247524.0
+675,tt0800080,The Incredible Hulk,The Incredible Hulk,2,"Action, Adventure, Sci-Fi",2008,6.7,423277.0
+676,tt0317705,The Incredibles,The Incredibles,1,"Animation, Action, Adventure, Family",2004,8.0,637897.0
+677,tt3606756,Incredibles 2,The Incredibles,2,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",2018,7.6,235295.0
+679,tt0087538,The Karate Kid,The Karate Kid,1,"Action, Drama, Family, Sport",1984,7.2,167343.0
+680,tt0091326,The Karate Kid Part II,The Karate Kid,2,"Action, Family, Romance, Sport",1986,6.0,69678.0
+681,tt0097647,The Karate Kid Part III,The Karate Kid,3,"Action, Drama, Family, Sport",1989,5.2,46881.0
+682,tt1155076,The Karate Kid,The Karate Kid,4,"Action, Drama, Family, Sport",2010,6.2,155867.0
+684,tt1490017,The Lego Movie,The Lego Movie,1,"Animation, Action, Adventure, Comedy, Family, Fantasy",2014,7.7,317470.0
+685,tt3513498,The Lego Movie 2: The Second Part,The Lego Movie,2,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical",2019,6.6,50025.0
+688,tt0120737,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings,1,"Action, Adventure, Drama, Fantasy",2001,8.8,1605080.0
+689,tt0167261,The Lord of the Rings: The Two Towers,The Lord of the Rings,2,"Adventure, Drama, Fantasy",2002,8.7,1437282.0
+690,tt0167260,The Lord of the Rings: The Return of the King,The Lord of the Rings,3,"Adventure, Drama, Fantasy",2003,8.9,1590756.0
+692,tt0110475,The Mask,The Mask,1,"Action, Comedy, Crime, Fantasy",1994,6.9,334472.0
+693,tt0362165,Son of the Mask,The Mask,2,"Comedy, Family, Fantasy",2005,2.2,51274.0
+694,tt0120746,The Mask of Zorro,The Mask of Zorro,1,"Action, Adventure, Comedy, Romance, Thriller, Western",1998,6.7,164803.0
+695,tt0386140,The Legend of Zorro,The Mask of Zorro,2,"Action, Adventure, Romance, Thriller, Western",2005,6.0,90651.0
+696,tt0133093,The Matrix,The Matrix,1,"Action, Sci-Fi",1999,8.7,1615984.0
+697,tt0234215,The Matrix Reloaded,The Matrix,2,"Action, Sci-Fi",2003,7.2,502256.0
+698,tt0242653,The Matrix Revolutions,The Matrix,3,"Action, Sci-Fi",2003,6.8,436223.0
+699,tt0472399,The Mechanic,The Mechanic,1,"Action, Thriller",2011,6.6,147560.0
+700,tt3522806,Mechanic: Resurrection,The Mechanic,2,"Action, Adventure, Thriller",2016,5.7,73469.0
+701,tt0120616,The Mummy,The Mummy,1,"Action, Adventure, Fantasy",1999,7.0,381699.0
+702,tt0209163,The Mummy Returns,The Mummy,2,"Action, Adventure, Fantasy, Thriller",2001,6.3,294785.0
+703,tt0859163,The Mummy: Tomb of the Dragon Emperor,The Mummy,3,"Action, Adventure, Fantasy, Horror, Thriller",2008,5.2,147654.0
+704,tt0079588,The Muppet Movie,The Muppets,1,"Adventure, Comedy, Family, Musical",1979,7.6,31499.0
+705,tt0082474,The Great Muppet Caper,The Muppets,2,"Adventure, Comedy, Crime, Family, Musical, Mystery",1981,7.2,13158.0
+706,tt0087755,The Muppets Take Manhattan,The Muppets,3,"Adventure, Comedy, Drama, Family, Musical, Romance",1984,6.9,18870.0
+707,tt0158811,Muppets from Space,The Muppets,4,"Adventure, Comedy, Family, Fantasy, Sci-Fi",1999,6.3,17581.0
+708,tt1204342,The Muppets,The Muppets,5,"Adventure, Comedy, Family, Musical",2011,7.1,85557.0
+709,tt2281587,Muppets Most Wanted,The Muppets,6,"Adventure, Comedy, Crime, Family, Musical, Mystery",2014,6.4,30617.0
+710,tt0095705,The Naked Gun: From the Files of Police Squad!,The Naked Gun,1,"Comedy, Crime",1988,7.6,146140.0
+711,tt0102510,The Naked Gun 2½: The Smell of Fear,The Naked Gun,2,"Comedy, Crime",1991,6.9,102129.0
+712,tt0110622,Naked Gun 33 1/3: The Final Insult,The Naked Gun,3,"Comedy, Crime",1994,6.5,94104.0
+714,tt0117218,The Nutty Professor,The Nutty Professor,1,"Comedy, Romance, Sci-Fi",1996,5.6,107168.0
+715,tt0144528,Nutty Professor II: The Klumps,The Nutty Professor,2,"Comedy, Romance, Sci-Fi",2000,4.4,47389.0
+718,tt0383216,The Pink Panther,The Pink Panther,1,"Adventure, Comedy, Crime, Family, Mystery",2006,5.7,79636.0
+719,tt0838232,The Pink Panther 2,The Pink Panther,2,"Action, Adventure, Comedy, Crime, Family, Mystery",2009,5.6,41396.0
+721,tt0247638,The Princess Diaries,The Princess Diaries,1,"Comedy, Family, Romance",2001,6.3,123843.0
+722,tt0368933,The Princess Diaries 2: Royal Engagement,The Princess Diaries,2,"Comedy, Family, Romance",2004,5.8,71755.0
+724,tt0330793,The Punisher,The Punisher,1,"Action, Crime, Drama, Thriller",2004,6.4,147001.0
+725,tt0450314,Punisher: War Zone,The Punisher,2,"Action, Crime, Drama, Thriller",2008,5.9,59251.0
+726,tt2184339,The Purge,The Purge,1,"Horror, Thriller",2013,5.7,196775.0
+727,tt2975578,The Purge: Anarchy,The Purge,2,"Action, Horror, Sci-Fi, Thriller",2014,6.4,133447.0
+728,tt4094724,The Purge: Election Year,The Purge,3,"Action, Horror, Sci-Fi, Thriller",2016,6.0,86811.0
+729,tt0298130,The Ring,The Ring,1,"Horror, Mystery",2002,7.1,312738.0
+730,tt0377109,The Ring Two,The Ring,2,"Horror, Mystery",2005,5.4,89700.0
+731,tt0111070,The Santa Clause,The Santa Clause,1,"Comedy, Drama, Family, Fantasy",1994,6.5,91742.0
+732,tt0304669,The Santa Clause 2,The Santa Clause,2,"Comedy, Family, Fantasy",2002,5.6,48106.0
+733,tt0452681,The Santa Clause 3: The Escape Clause,The Santa Clause,3,"Adventure, Comedy, Family, Fantasy",2006,4.7,31455.0
+736,tt2709768,The Secret Life of Pets,The Secret Life of Pets,1,"Animation, Adventure, Comedy, Family",2016,6.5,177699.0
+737,tt5113040,The Secret Life of Pets 2,The Secret Life of Pets,2,"Animation, Adventure, Comedy, Family",2019,6.5,44430.0
+740,tt0403508,The Sisterhood of the Traveling Pants,The Sisterhood of the Traveling Pants,1,"Comedy, Drama, Romance",2005,6.5,52752.0
+741,tt1018785,The Sisterhood of the Traveling Pants 2,The Sisterhood of the Traveling Pants,2,"Comedy, Drama, Romance",2008,6.2,26476.0
+743,tt0092076,The Texas Chainsaw Massacre 2,The Texas Chainsaw Massacre,1,"Comedy, Horror",1986,5.6,26581.0
+744,tt0110978,The Return of the Texas Chainsaw Massacre,The Texas Chainsaw Massacre,2,"Comedy, Horror, Thriller",1995,3.3,19317.0
+745,tt0324216,The Texas Chainsaw Massacre,The Texas Chainsaw Massacre,3,Horror,2003,6.2,127338.0
+746,tt0420294,The Texas Chainsaw Massacre: The Beginning,The Texas Chainsaw Massacre,4,"Horror, Thriller",2006,5.8,66481.0
+747,tt0293662,The Transporter,The Transporter,1,"Action, Crime, Thriller",2002,6.8,279695.0
+748,tt0388482,Transporter 2,The Transporter,2,"Action, Thriller",2005,6.3,187588.0
+749,tt1129442,Transporter 3,The Transporter,3,"Action, Thriller",2008,6.1,154235.0
+750,tt1740047,The Trip,The Trip,1,"Comedy, Drama",2010,7.0,20928.0
+751,tt2967006,The Trip to Italy,The Trip,2,"Comedy, Drama",2014,6.6,14473.0
+752,tt0425430,The Messengers,The Twilight Saga,1,"Horror, Thriller",2007,5.4,37590.0
+753,tt1099212,Twilight,The Twilight Saga,2,"Drama, Fantasy, Romance",2008,5.2,412639.0
+754,tt1259571,The Twilight Saga: New Moon,The Twilight Saga,3,"Adventure, Drama, Fantasy, Romance",2009,4.7,258534.0
+755,tt1325004,The Twilight Saga: Eclipse,The Twilight Saga,4,"Adventure, Drama, Fantasy, Romance",2010,5.0,221171.0
+756,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,The Twilight Saga,5,"Adventure, Drama, Fantasy, Romance, Thriller",2011,4.9,217488.0
+757,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,The Twilight Saga,6,"Adventure, Drama, Fantasy, Romance",2012,5.5,224470.0
+761,tt1596365,The Woman in Black,The Woman in Black,1,"Drama, Fantasy, Horror, Thriller",2012,6.4,171010.0
+762,tt2339741,The Woman in Black 2: Angel of Death,The Woman in Black,2,"Drama, Horror, Thriller",2014,4.8,25921.0
+763,tt0120902,The X Files,The X Files,1,"Drama, Mystery, Sci-Fi, Thriller",1998,7.0,98937.0
+764,tt0443701,The X Files: I Want to Believe,The X Files,2,"Crime, Drama, Horror, Mystery, Sci-Fi, Thriller",2008,5.9,87598.0
+765,tt1621045,Think Like a Man,Think Like a Man,1,"Comedy, Romance",2012,6.6,42779.0
+766,tt2239832,Think Like a Man Too,Think Like a Man,2,"Comedy, Romance",2014,5.8,19386.0
+767,tt0800369,Thor,Thor,1,"Action, Adventure, Fantasy",2011,7.0,725475.0
+768,tt1981115,Thor: The Dark World,Thor,2,"Action, Adventure, Fantasy",2013,6.9,577316.0
+769,tt3501632,Thor: Ragnarok,Thor,3,"Action, Adventure, Comedy, Fantasy, Sci-Fi",2017,7.9,555513.0
+770,tt0114709,Toy Story,Toy Story,1,"Animation, Adventure, Comedy, Family, Fantasy",1995,8.3,856380.0
+771,tt0120363,Toy Story 2,Toy Story,2,"Animation, Adventure, Comedy, Family, Fantasy",1999,7.9,510249.0
+772,tt0435761,Toy Story 3,Toy Story,3,"Animation, Adventure, Comedy, Family, Fantasy",2010,8.3,733535.0
+773,tt1979376,Toy Story 4,Toy Story,4,"Animation, Adventure, Comedy, Family, Fantasy",2019,7.8,182722.0
+774,tt0117951,Trainspotting,Trainspotting,1,Drama,1996,8.1,619008.0
+775,tt2763304,T2 Trainspotting,Trainspotting,2,Drama,2017,7.2,108085.0
+776,tt0418279,Transformers,Transformers,1,"Action, Adventure, Sci-Fi",2007,7.0,586248.0
+777,tt1055369,Transformers: Revenge of the Fallen,Transformers,2,"Action, Adventure, Sci-Fi",2009,6.0,377366.0
+778,tt1399103,Transformers: Dark of the Moon,Transformers,3,"Action, Adventure, Sci-Fi",2011,6.2,378156.0
+779,tt2109248,Transformers: Age of Extinction,Transformers,4,"Action, Adventure, Sci-Fi",2014,5.6,293205.0
+780,tt3371366,Transformers: The Last Knight,Transformers,5,"Action, Adventure, Sci-Fi",2017,5.2,130601.0
+782,tt0108394,Trois couleurs: Bleu,Trois couleurs,1,"Drama, Music, Mystery, Romance",1993,7.9,85092.0
+783,tt0111507,Trois couleurs: Blanc,Trois couleurs,2,"Comedy, Drama, Romance",1994,7.6,60861.0
+784,tt0111495,Trois couleurs: Rouge,Trois couleurs,3,"Drama, Mystery, Romance",1994,8.1,86464.0
+785,tt0861739,Tropa de Elite,Tropa de Elite,1,"Action, Crime, Drama, Thriller",2007,8.1,95858.0
+786,tt1555149,Tropa de Elite 2: O Inimigo Agora é Outro,Tropa de Elite,2,"Action, Crime, Drama, Thriller",2010,8.0,77724.0
+787,tt0120390,Turbulence,Turbulence,1,"Action, Thriller",1997,4.9,10452.0
+788,tt0192701,Turbulence 2: Fear of Flying,Turbulence,2,"Action, Thriller",1999,4.2,2032.0
+791,tt0105690,Under Siege,Under Siege,1,"Action, Thriller",1992,6.5,74283.0
+792,tt0114781,Under Siege 2: Dark Territory,Under Siege,2,"Action, Thriller",1995,5.5,42803.0
+793,tt0320691,Underworld,Underworld,1,"Action, Fantasy, Thriller",2003,7.0,247910.0
+794,tt0401855,Underworld: Evolution,Underworld,2,"Action, Fantasy, Thriller",2006,6.7,186377.0
+795,tt0834001,Underworld: Rise of the Lycans,Underworld,3,"Action, Fantasy",2009,6.6,147970.0
+796,tt1496025,Underworld Awakening,Underworld,4,"Action, Fantasy, Horror",2012,6.4,143228.0
+798,tt0105698,Universal Soldier,Universal Soldier,1,"Action, Sci-Fi",1992,6.0,80793.0
+799,tt0176269,Universal Soldier: The Return,Universal Soldier,2,"Action, Sci-Fi",1999,4.2,27365.0
+800,tt1288403,Universal Soldier: Regeneration,Universal Soldier,3,"Action, Adventure, Sci-Fi",2009,5.2,24329.0
+801,tt1659343,Universal Soldier: Day of Reckoning,Universal Soldier,4,"Action, Horror, Mystery, Sci-Fi, Thriller",2012,5.0,18891.0
+802,tt0146336,Urban Legend,Urban Legend,1,"Horror, Mystery, Thriller",1998,5.6,57873.0
+803,tt0192731,Urban Legends: Final Cut,Urban Legend,2,"Horror, Mystery, Thriller",2000,4.3,15619.0
+804,tt0452702,Vacancy,Vacancy,1,"Horror, Thriller",2007,6.2,92435.0
+805,tt1204979,Vacancy 2: The First Cut,Vacancy,2,"Horror, Thriller",2008,5.0,7056.0
+806,tt0070895,Walking Tall,Walking Tall,1,"Action, Biography, Crime, Drama, Thriller",1973,7.0,4864.0
+807,tt0073880,Walking Tall Part II,Walking Tall,2,"Action, Biography, Crime, Drama, Thriller",1975,6.2,1097.0
+808,tt0076028,Final Chapter: Walking Tall,Walking Tall,3,"Action, Crime, Drama",1977,5.9,824.0
+809,tt0351977,Walking Tall,Walking Tall,4,"Action, Crime",2004,6.3,69091.0
+810,tt0094291,Wall Street,Wall Street,1,"Crime, Drama",1987,7.4,139775.0
+811,tt1027718,Wall Street: Money Never Sleeps,Wall Street,2,Drama,2010,6.2,96402.0
+813,tt0105793,Wayne's World,Wayne's World,1,"Comedy, Music",1992,7.0,140058.0
+814,tt0108525,Wayne's World 2,Wayne's World,2,"Comedy, Music",1993,6.2,75234.0
+816,tt0375210,White Noise,White Noise,1,"Drama, Horror, Mystery, Thriller",2005,5.5,46497.0
+817,tt0496436,White Noise 2: The Light,White Noise,2,"Drama, Fantasy, Horror, Thriller",2007,5.7,12496.0
+821,tt1772341,Wreck-It Ralph,Wreck-It Ralph,1,"Animation, Adventure, Comedy, Family, Fantasy",2012,7.7,368311.0
+822,tt5848272,Ralph Breaks the Internet,Wreck-It Ralph,2,"Animation, Adventure, Comedy, Family, Fantasy",2018,7.1,120919.0
+824,tt0120903,X-Men,X-Men,1,"Action, Adventure, Sci-Fi",2000,7.4,558544.0
+825,tt0290334,X2,X-Men,2,"Action, Sci-Fi, Thriller",2003,7.4,501095.0
+826,tt0376994,X-Men: The Last Stand,X-Men,3,"Action, Adventure, Sci-Fi",2006,6.7,472674.0
+827,tt0458525,X-Men Origins: Wolverine,X-Men,4,"Action, Adventure, Sci-Fi",2009,6.6,456887.0
+828,tt1270798,X: First Class,X-Men,5,"Action, Adventure, Sci-Fi",2011,7.7,633383.0
+829,tt1430132,The Wolverine,X-Men,6,"Action, Adventure, Sci-Fi",2013,6.7,419703.0
+830,tt1877832,X-Men: Days of Future Past,X-Men,7,"Action, Adventure, Sci-Fi, Thriller",2014,8.0,646472.0
+831,tt0096487,Young Guns,Young Guns,1,"Action, Western",1988,6.9,52874.0
+832,tt0100994,Young Guns II,Young Guns,2,"Action, Western",1990,6.5,30090.0
+833,tt1156398,Zombieland,Zombieland,1,"Adventure, Comedy, Fantasy, Sci-Fi",2009,7.6,506393.0
+834,tt1560220,Zombieland: Double Tap,Zombieland,2,"Action, Comedy, Horror",2019,6.7,113335.0
+835,tt0196229,Zoolander,Zoolander,1,Comedy,2001,6.5,241035.0
+836,tt1608290,Zoolander 2,Zoolander,2,"Action, Adventure, Comedy, Mystery, Romance",2016,4.7,63097.0
+837,tt1038988,[Rec],[Rec],1,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller",2007,7.4,160946.0
+838,tt1245112,[Rec]²,[Rec],2,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller",2009,6.5,67100.0
+839,tt1649444,[Rec]³: Génesis,[Rec],3,"Action, Comedy, Horror, Romance, Sci-Fi, Thriller",2012,5.0,32388.0
+840,tt1649443,[REC] 4: Apocalipsis,[Rec],4,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller",2014,5.3,15599.0
+841,tt0295701,xXx,xXx,1,"Action, Adventure, Thriller",2002,5.9,170874.0
+842,tt0329774,xXx: State of the Union,xXx,2,"Action, Adventure, Crime, Sci-Fi, Thriller",2005,4.4,66166.0

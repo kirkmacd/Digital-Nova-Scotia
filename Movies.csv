@@ -67,7 +67,6 @@ index,Title,Release Date,Description,URL,Runtime (mins),Genres,Directors,Movie S
 66,Bad Ass,13-04-2012,,https://www.imdb.com/title/tt1928330/,90.0,"Action, Comedy, Crime, Drama",Craig Moss,Bad Ass,1
 67,Bad Boys,06-04-1995,,https://www.imdb.com/title/tt0112442/,119.0,"Action, Comedy, Crime, Thriller",Michael Bay,Bad Boys,1
 68,Bad Boys II,09-07-2003,,https://www.imdb.com/title/tt0172156/,147.0,"Action, Comedy, Crime, Thriller",Michael Bay,Bad Boys,2
-69,Bad Boys for Life,07-01-2020,,https://www.imdb.com/title/tt1502397/,124.0,"Action, Comedy, Crime, Thriller","Bilall Fallah, Adil El Arbi",Bad Boys,3
 70,Bad Lieutenant,14-05-1992,,https://www.imdb.com/title/tt0103759/,96.0,"Crime, Drama, Thriller",Abel Ferrara,Bad Lieutenant,1
 71,The Bad Lieutenant: Port of Call - New Orleans,04-09-2009,,https://www.imdb.com/title/tt1095217/,122.0,"Crime, Drama",Werner Herzog,Bad Lieutenant,2
 72,Bad Santa,18-11-2003,,https://www.imdb.com/title/tt0307987/,92.0,"Comedy, Crime, Drama",Terry Zwigoff,Bad Santa,1
@@ -242,7 +241,6 @@ index,Title,Release Date,Description,URL,Runtime (mins),Genres,Directors,Movie S
 244,Gremlins 2: The New Batch,15-06-1990,,https://www.imdb.com/title/tt0099700/,106.0,"Comedy, Fantasy, Horror","Joe Dante, Chuck Jones",Gremlins,2
 245,Guardians of the Galaxy,21-07-2014,,https://www.imdb.com/title/tt2015381/,121.0,"Action, Adventure, Comedy, Sci-Fi",James Gunn,Guardians of the Galaxy,1
 246,Guardians of the Galaxy Vol. 2,10-04-2017,,https://www.imdb.com/title/tt3896198/,136.0,"Action, Adventure, Comedy, Sci-Fi",James Gunn,Guardians of the Galaxy,2
-247,Guardians of the Galaxy Vol. 3,05-05-2023,,https://www.imdb.com/title/tt6791350/,,"Action, Adventure, Comedy, Sci-Fi, Thriller",James Gunn,Guardians of the Galaxy,3
 248,Halloween,25-10-1978,,https://www.imdb.com/title/tt0077651/,91.0,"Horror, Thriller",John Carpenter,Halloween,1
 249,Halloween II,30-10-1981,,https://www.imdb.com/title/tt0082495/,92.0,Horror,Rick Rosenthal,Halloween,2
 250,Halloween III: Season of the Witch,22-10-1982,,https://www.imdb.com/title/tt0085636/,98.0,"Horror, Mystery, Sci-Fi",Tommy Lee Wallace,Halloween,3
@@ -334,7 +332,6 @@ index,Title,Release Date,Description,URL,Runtime (mins),Genres,Directors,Movie S
 337,John Wick,19-09-2014,,https://www.imdb.com/title/tt2911666/,101.0,"Action, Crime, Thriller","David Leitch, Chad Stahelski",John Wick,1
 338,John Wick: Chapter 2,30-01-2017,,https://www.imdb.com/title/tt4425200/,122.0,"Action, Crime, Thriller",Chad Stahelski,John Wick,2
 339,John Wick: Chapter 3 - Parabellum,15-05-2019,,https://www.imdb.com/title/tt6146586/,130.0,"Action, Crime, Thriller",Chad Stahelski,John Wick,3
-340,John Wick: Chapter 4,27-05-2022,,https://www.imdb.com/title/tt10366206/,,"Action, Crime, Thriller",Chad Stahelski,John Wick,4
 341,Johnny English,06-04-2003,,https://www.imdb.com/title/tt0274166/,89.0,"Action, Adventure, Comedy",Peter Howitt,Johnny English,1
 342,Johnny English Reborn,15-09-2011,,https://www.imdb.com/title/tt1634122/,101.0,"Action, Adventure, Comedy, Crime",Oliver Parker,Johnny English,2
 343,Johnny English Strikes Again,13-09-2018,,https://www.imdb.com/title/tt6921996/,89.0,"Action, Adventure, Comedy",David Kerr,Johnny English,3
@@ -618,8 +615,7 @@ index,Title,Release Date,Description,URL,Runtime (mins),Genres,Directors,Movie S
 634,The Collection,21-09-2012,,https://www.imdb.com/title/tt1748227/,82.0,"Action, Adventure, Crime, Horror, Thriller",Marcus Dunstan,The Collector,2
 635,The Color of Money,08-10-1986,,https://www.imdb.com/title/tt0090863/,119.0,"Drama, Sport",Martin Scorsese,The Color of Money,1
 636,The Conjuring,08-06-2013,,https://www.imdb.com/title/tt1457767/,112.0,"Horror, Mystery, Thriller",James Wan,The Conjuring,1
-637,The Conjuring 2,13-05-2016,,https://www.imdb.com/title/tt3065204/,134.0,"Horror, Mystery, Thriller",James Wan,The Conjuring,2
-638,The Conjuring: The Devil Made Me Do It,09-09-2020,,https://www.imdb.com/title/tt7069210/,,"Horror, Mystery, Thriller",Michael Chaves,The Conjuring,3
+637,The Conjuring 2,13-05-2016,,https://www.imdb.com/title/tt3065204/,134.0,"Horror, Mystery, Thriller",James Wan,The Conjuring,2S
 639,The Crow,10-05-1994,,https://www.imdb.com/title/tt0109506/,102.0,"Action, Drama, Fantasy",Alex Proyas,The Crow,1
 640,The Crow: City of Angels,30-08-1996,,https://www.imdb.com/title/tt0115986/,84.0,"Action, Crime, Fantasy, Thriller",Tim Pope,The Crow,2
 641,The Crow: Salvation,23-01-2000,,https://www.imdb.com/title/tt0132910/,102.0,"Action, Crime, Fantasy, Mystery, Thriller",Bharat Nalluri,The Crow,3
